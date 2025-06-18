@@ -14,7 +14,7 @@ if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
 
 if not st.session_state.authenticated:
-    password = st.text_input("Enter access code to continue:", type="password")
+    password = st.text_input("Enter access code to continue:")
     if password == ACCESS_CODE:
         st.session_state.authenticated = True
         st.rerun()  # restart the app after setting session state
