@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: m21-chatbot
+    env: docker
+    plan: free
+    autoDeploy: true
