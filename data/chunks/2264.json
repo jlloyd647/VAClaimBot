@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_G_58",
+  "content": "/>\nIX.iii.1.G.4.r\n.\nCounting Medical Expenses From the Effective Date to the Payment Date of the Award\nMedical expenses paid between the effective date and the payment date of the award, otherwise known as stub month, must be explicitly claimed in order to be counted as a medical expense.  VA cannot assume payment during the stub month even if the medical expense is counted as a prospective continuing medical expense deduction.\nNote\n:  Do not count Supplementary Medical Insurance Benefit (SMIB) for the stub month even if the effective date is the first of the month unless the SMIB is explicitly claimed.  This is an exception to\nM21-1, Part IX, Subpart iii, 1.G.4.a\n, where it states VA does not require the claimant to indicate they pay this expense in order to deduct Medicare Part B premiums.\nExample 1\n:  On October 5, 2024, the Veteran is granted pension benefits effective June 1, 2024, with a payment date of July 1, 2024.  On their original application for pension benefits the Veteran only claims private medical insurance (PMI) of $205 paid on a monthly basis.  However, Share shows the Veteran is also paying $183 a month for SMIB, which was not claimed on the application.\nResult\n:  Since the Veteran did not explicitly report a date that SMIB or PMI was paid during the month of June 2024, only count the PMI and SMIB as a continuing monthly medical expense for 12 months.  The continuing medical expenses effective July 1, 2024, are $4,656 ($205 + $183 = $388 x 12 = $4,656).\nExample 2\n:  Same scenario as Example 1 but the Veteran submits a Medical Expense Report that was processed on November 5, 2024, explicitly showing payment of $183 for SMIB and $205 for PMI on June 5, 2024.\nResult\n:  Count one extra month of the SMIB ($183) and one extra month of the PMI ($205) from June 1, 2024, to June 30, 2025 (A+B period).  Be sure to remove the additional medical expenses and only allow 12 months’ worth of continuing medical expenses effective July 1, 2025.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section G - Pension - Deductible Medical Expenses",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section G",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177522/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-G-Pension-Deductible-Medical-Expenses",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:36.061469",
+  "tags": [
+    "m21-1"
+  ]
+}

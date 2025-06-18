@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_1_B_16",
+  "content": "/>\nII.i.1.B.2.f\n.\nPreparing a Shipping Label and a DCS ID\nFollow the steps in the below table to prepare a shipping label for each box and a DCS identification (ID) for each claims folder.\nStep\nAction\n1\nOn\nthe day the box is to be shipped\n, generate a UPS shipping label and tracking number for each shipping container. Use one UPS tracking number per box.\nNote\n:  The last four digits of the UPS tracking number must be used when creating a DCS ID, as described in the next step.\n2\nCreate a DCS ID for each claim folder number being shipped in VBMS.  Use the following format for creating the DCS ID:\nRO or station code (three digits)\nalpha character (\nA\nthrough\nK\n) of the intake site\nfinal destination (same as the RO/station code), and\nlast four digits of UPS tracking number.\nImportant\n:\nVBMS automatically generates the DCS ID referenced in this step; instructions for creating the DCS ID are provided here for user awareness only.\nPre-discharge intake sites must use the associated RO code when creating DCS IDs in VBMS.\n3\nSecure the DCS to the top of each claimant’s claims folder (or bundle of volumes) and/or to the top of each claimant’s manila folder (or bundle of manila folders) in the box using a rubber band or paper clip.\nNotes\n:\nIf there are multiple volumes for one claimant that will not fit into a single container,\ndo not\noverstuff the box to keep the claims folder together.  Place the overflow portion of the record into a second box.\nThe second box referenced in the preceding bullet requires its own UPS tracking label and its own RMN.  Overflow volumes of the claims folder require a new DCS that is linked to the second box.  (Other Veterans’ materials may be placed in this second box, as well, to fill it.)",
+  "title": "M21-1, Part II, Subpart i, Chapter 1, Section B - Veterans Claims Intake Program (VCIP) Shipping",
+  "citation": "Part II, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174856/M21-1-Part-II-Subpart-i-Chapter-1-Section-B-Veterans-Claims-Intake-Program-VCIP-Shipping",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:09:59.879693",
+  "tags": [
+    "m21-1"
+  ]
+}

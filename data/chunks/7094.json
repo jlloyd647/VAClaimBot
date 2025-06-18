@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_F_12",
+  "content": "/>\nX.i.6.F.1.g\n.\nShipping Paper Evidence to the Scanning Vendor\nWhen paper evidence is shipped to the scanning vendor, MSCs must\ncreate a document control sheet (DCS) and record management number (RMN) in VBMS, and\nforward the documents and DCS to the appropriate scanning vendor according to current VCIP shipping procedures.\nImportant\n:\nDocuments must be shipped within the timeframe outlined in\nM21-1, Part X, Subpart i, 6.F.1.j\n.\nUnder circumstances described in\nM21-1, Part X, Subpart i, 6.F.1.f\n, MSCs may scan documents locally and upload the documents directly into the eFolder as an alternative to sending the paper documentation to the scanning vendor.\nReferences\n:  For more information on\nVCIP shipping, see\nM21-1, Part II, Subpart i, 1.B.1\n, and\nthe RMN/DCS shipping process, see\nM21-1, Part II, Subpart i, 1.B.2\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section F - Integrated Disability Evaluation System (IDES) Development and Examinations",
+  "citation": "Part X, Subpart i, Chapter 6, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177955/M21-1-Part-X-Subpart-i-Chapter-6-Section-F-Integrated-Disability-Evaluation-System-IDES-Development-and-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:19.727255",
+  "tags": [
+    "m21-1"
+  ]
+}

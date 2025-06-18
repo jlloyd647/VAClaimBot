@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_i_2_None_15",
+  "content": "/>\nIX.i.2.2.\nc\n.\nSocial Security Disability Evidence and Share Verification\nIf a Veteran is younger than age 65, but the Social Security Administration (SSA) has determined that the Veteran is disabled, the Veteran may be presumed P&T disabled for pension purposes from the date of disability onset.\nThe information provided in the Share SSA data screens may be used to determine eligibility for VA pension.  Use the table below to determine the nature of the Social Security benefit obtained from Share.\nIf the Social Security ...\nThen ...\nTITLE XVI STATUS field has a Y indicator\nSSA data is available.  View the SSI BASIC INFO tab to determine if Social Security Income (SSI) is payable.  View the SSA BASIC INFO tab to review the DISABILITY ONSET DATE field.\nNote\n: If a Veteran is found entitled to SSI, the disability requirement for VA pension is met.\nTITLE II STATUS field has a\nY\nindicator\neither Social Security retirement or Social Security disability is payable.\nIf the Veteran’s age is under 62, Social Security is based on a disability.\nPresume that the VA pension disability requirement is met.\nIf the Veteran’s age is 62, 63, or 64, Social Security may be based on retirement\nor\non disability.\nIf the date in the DATE OF INITIAL ENT\nfield\nis\nexactly\nsix full months after the date in the DISABILITY ONSET DATE field, then presume that the VA Pension disability requirement is met, or\nis\nnot\nshown or is\nnot\nexactly six full months after the date in the\nDISABILITY ONSET DATE\nfield, then develop to the claimant and SSA for a disability award letter and medical evidence of a disability.\nReference\n:  For more information on determining the effective date of a disability, see\nM21-1, Part IX, Subpart i, 2.2.d\n.\nReference\n:  For more information on using Share, see the\nShare User Guide\n.",
+  "title": "M21-1, Part IX, Subpart i, Chapter 2 - Original Pension Claims Development",
+  "citation": "Part IX, Subpart i, Chapter 2, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014997/M21-1-Part-IX-Subpart-i-Chapter-2-Original-Pension-Claims-Development",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:05:07.094394",
+  "tags": [
+    "m21-1"
+  ]
+}

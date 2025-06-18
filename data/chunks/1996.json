@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_C_75",
+  "content": "/>\nIX.iii.1.C.5.l\n.\nHandling a Veteran With Dependents\nThe Veteran claimant is considered to be a\nVeteran with dependents\nfor all purposes, including hospital adjustments.\nAmend the award to reflect the new dependent(s) and the protected rate.  Use a fictitious award line IVAP to support the protected rate.\nIf a Veteran marries, income received by the spouse on or after the date of marriage is a factor in determining the Veteran’s current (as opposed to protected 1978) income.  Enter the current income on the financial screen.\nThe amount of the exclusion from the spouse’s income after marriage is determined under\n38 CFR 3.262(b)(2)\n.  Exclude one of the following amounts, whichever is applicable:\nthe current spouse income exclusion amount from the Section 306 Pension rate charts in the\nprotected pensions rate tables\n, or\nthe full amount of the spouse’s earnings.\nFor the year that the spouse is established, exclude the\ngreater\nof either all earned income received on or after the date the spouse is established or a proportionate amount of the current spouse income exclusion amount from the Section 306 Pension rate charts in the\nprotected pensions rate tables\n.\nTo calculate the amount\ndivide the number of days from the date the spouse is established to the end of the calendar year by 365\nround to two decimal places\nmultiply the result by the spouse income exclusion amount for the calendar year during which the spouse is established, and\ndrop the cents.\nAs a result of establishing a spouse, if the Veteran’s re-calculated current IVAP exceeds the current Section 306 Pension income limit (for a Veteran with a dependent), discontinue the award effective the first day of the year following the marriage.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section C - Section 306 Pension and Old-Law Pension",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177518/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-C-Section-306-Pension-and-Old-Law-Pension",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:58.622127",
+  "tags": [
+    "m21-1"
+  ]
+}

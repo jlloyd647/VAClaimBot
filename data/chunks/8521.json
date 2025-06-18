@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_ii_3_E_18",
+  "content": "/>\nXI.ii.3.E.3.a\n.\nPaying Accrued Based on AEWs\nAudit Error Worksheets (AEWs) represent unpaid VA compensation proceeds owed to a Veteran.\nVA uses AEWs to determine the amount of withheld benefits owed to a Veteran as a result of Veteran’s military retired pay (MRP), Concurrent Retirement Disability Pay (CRDP), or Combat Related Special Compensation (CRSC).\nWhen a Veteran dies prior to AEW processing, the survivors of the deceased Veteran may be entitled to accrued benefits.\nHines Information Technology Center (ITC) generates the AEW, inserts it into the Veteran’s electronic claims folder (eFolder), and places the AEW under control by establishing an 840-work item.\nAccrued based on AEW is not payable when\nthere are no withholdings in VA systems covering the period on the AEW\nthe Veteran’s award was corrected for any CRDP/CRSC adjustments\na claim for accrued was not filed or not submitted timely, or\nthe withholdings for the AEW were not for MRP and the AEW was erroneously generated.\nReferences\n:  For more information on\nprocessing AEWs, see\nM21-1, Part VI, Subpart ii, 4.E\ndetermining if an Out-of-System adjustment was made, see\nHow to Identify Out-of-System CRSC/CRDP Payments\n, and\ndetermining the accrued amount due to a survivor when AEW was generated, see\nCalculating Accrued Based on AEW Job Aid\n.",
+  "title": "M21-1, Part XI, Subpart ii, Chapter 3, Section E  - Accrued Authorization and Notification",
+  "citation": "Part XI, Subpart ii, Chapter 3, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174208/M21-1-Part-XI-Subpart-ii-Chapter-3-Section-E-Accrued-Authorization-and-Notification",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:21:05.025085",
+  "tags": [
+    "m21-1"
+  ]
+}

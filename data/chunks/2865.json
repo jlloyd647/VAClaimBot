@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_ii_3_B_12",
+  "content": "/>\nV.ii.3.B.1.g\n.\nProcedure for Deferring Previously Denied Issues\nWhen a decision on a previously denied issue must now be deferred, decision makers should ensure the coded conclusion of the\nCodesheet\nlists the\npreviously denied issue as deferred, and\ndate of the prior denial in the ORIGINAL DATE OF DENIAL field.\nExample\n:\nFollow the steps in the table below when deferring a previously denied issue.\nStep\nAction\n1\nEnsure the\npreviously denied issue is reflected on the MASTER RECORD tab in VBMS-Rating, and\nappropriate date is listed in the ORIGINAL DATE OF DENIAL field.\nExample\n:\nReferences\n:  For more information on\nrequired elements of the coded conclusion, see\nM21-1, Part V, Subpart iv, 1.C.3.a\n, and\nbackfilling the master record, see the\nVBMS Rating User Guide\n.\n2\nOn the ISSUE MANAGEMENT tab, follow the steps for establishing issues outlined in the\nVBMS Rating User Guide\n.\n3\nSelect the relevant issue in the ISSUE LIST field and click on the ENTER DECISION button.\n4\nFrom the SELECT EVALUATION BUILDER screen,\nchoose\nDisability Decision Information – Manual Entry\n, and\nclick on the OK button.\n5\nOn the DISABILITY DECISION INFORMATION screen, choose\nDeferred\nfrom the DECISION drop-down menu.\n6\nComplete the other required decision entries.\nReferences\n:  For more information on\ncompleting rating decisions, see the\nVBMS Rating User Guide\n, and\nthe ORIGINAL DATE OF DENIAL field, see\nM21-1, Part V, Subpart iv, 1.C.9.b\n.",
+  "title": "M21-1, Part V, Subpart ii, Chapter 3, Section B - Making Partial Rating Decisions",
+  "citation": "Part V, Subpart ii, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180487/M21-1-Part-V-Subpart-ii-Chapter-3-Section-B-Making-Partial-Rating-Decisions",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:42:19.734458",
+  "tags": [
+    "m21-1"
+  ]
+}

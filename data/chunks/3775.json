@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_C_59",
+  "content": "/>\nV.iv.1.C.9.b\n.\nReflecting the Date of Original Denial\nIf a disability was previously denied SC, VBMS-R will reflect the date of the prior decision in the ORIGINAL DATE OF DENIAL field in all subsequent rating decisions.  This date is listed in the coded conclusion after the diagnosis on the rating\nCodesheet\n.\nNote\n:  This date is not populated on the\nCodesheet\nif the current decision is the initial denial.\nWhen deciding a claim for a previously denied disability, decision makers must ensure the correct date of the initial denial of the claim is reflected in the ORIGINAL DATE OF DENIAL field.  Follow the steps in the table below to update the ORIGINAL DATE OF DENIAL field in VBMS-R.\nStep\nAction\n1\nNavigate to the MASTER RECORD tab.\n2\nOn the DISABILITY DECISIONS tab, locate the relevant disability, and\nselect VIEW/EDIT.\n3\nNavigate to the DIAGNOSIS INFORMATION tab, and\nselect EDIT.\n4\nLocate the ORIGINAL DATE OF DENIAL field\nenter the appropriate date, and\nselect SAVE CHANGES.\nReference\n:  For more information on backfilling the master record, see\nM21-1, Part V, Subpart iv, 1.C.3.e\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section C - Coded Conclusion",
+  "citation": "Part V, Subpart iv, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180525/M21-1-Part-V-Subpart-iv-Chapter-1-Section-C-Coded-Conclusion",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:08.257771",
+  "tags": [
+    "m21-1"
+  ]
+}

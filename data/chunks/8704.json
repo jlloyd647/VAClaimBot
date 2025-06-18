@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_iii_1_B_51",
+  "content": "/>\nXI.iii.1.B.5.i\n.\nAutomated State Plot Batch Process\nThe automated consolidated State plot or interment batch review process\nruns nightly\nreviews the corporate data for pending State plot claims\nreviews for the following eligibility requirements\nproper claims establishment\na date of death in BIRLS\ncomplete service periods, including character of discharge\nverified service\nother than dishonorable service, and\nno pending or prior plot allowance award\ncreates an award and closes the pending EP if all eligibility requirements are met, and\nissues an individual award letter to the State cemetery claimant and uploads a copy of the award letter in the Veteran’s eFolder.\nNote\n:  If automation does not occur, the EP is set to\nReady to Work\nand remains pending for review and processing by the PMC VSR.",
+  "title": "M21-1, Part XI, Subpart iii, Chapter 1, Section B  - Burial Benefits",
+  "citation": "Part XI, Subpart iii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174201/M21-1-Part-XI-Subpart-iii-Chapter-1-Section-B-Burial-Benefits",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:21:33.024665",
+  "tags": [
+    "m21-1"
+  ]
+}

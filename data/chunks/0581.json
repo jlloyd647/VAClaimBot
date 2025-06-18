@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_A_39",
+  "content": "/>\nII.iii.2.A.4.c\n.\nCorrection of ITF Data—Same Day\nAny user who has permission to add an ITF can cancel or edit the ITF on the same day the ITF was created, before the batch run starts for that day.  When an ITF is created and canceled prior to the daily batch run, no letter will be issued to the Veteran/survivor.\nThe following provisions apply for cancellation of an ITF on the same day that it was added:\nITFs that were added by the Veteran or a representative using a VA claims submission service website cannot be canceled using VBMS.\nAn ITF in the\nClaim Received\nor\nCanceled\nstatus cannot be canceled.\nA canceled ITF will not be deleted.  It will be displayed with the set of ITFs for the Veteran with a status of canceled.\nThe following provisions apply for editing an ITF on the same day that it was added:\nITFs that were added by the Veteran or a representative using a VA claims submission service website cannot be edited using VBMS.\nOnly ITFs in\nActive\nstatus can be edited.\nOnly the\nBenefit Sought\nand\nReceived Date\nfields may be edited.  However,\nBenefit Sought\ncannot be edited if there is another ITF for the other benefit type.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section A - Intent to File (ITF)",
+  "citation": "Part II, Subpart iii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:12:24.433955",
+  "tags": [
+    "m21-1"
+  ]
+}

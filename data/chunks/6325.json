@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VIII_iv_4_A_121",
+  "content": "/>\nVIII.iv.4.A.11.e\n.\nProcessing Hospitalization Rates for SMC(t)\nWhen inputting a decision awarding entitlement to SMC (t),\nuse the SMC calculator in the\nJob Aids\nwebpage to determine the highest rate(s) of SMC\nenter the calculated rates into the VBMS-R SMC PARAGRAPH and SMC CODES screens, and\nplace the following notation in the free text\nCodesheet\nSPECIAL NOTATION box:\nSMC(t) = (r)(2)\n.\nNotes\n:\nIf a Veteran is entitled to a higher rate than SMC (l), but less than SMC (r)(2), the appropriate level of SMC should be determined\nwithout\naccounting for an elevation to SMC (t).  This action will generate the correct hospitalization code.\nReduction for hospitalization will be made to the rate equal to SMC (s) in cases where there is no underlying SMC entitlement other than to A&A.  Otherwise, the hospitalization rate will be paid according to underlying entitlement.\nReference\n:  For more information on reduction of SMC during hospitalization, see\n38 CFR 3.552\n.",
+  "title": "M21-1, Part VIII, Subpart iv, Chapter 4, Section A - Special Monthly Compensation (SMC)",
+  "citation": "Part VIII, Subpart iv, Chapter 4, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177480/M21-1-Part-VIII-Subpart-iv-Chapter-4-Section-A-Special-Monthly-Compensation-SMC",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:02:47.849145",
+  "tags": [
+    "m21-1"
+  ]
+}

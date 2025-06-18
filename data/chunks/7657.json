@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_ii_6_D_57",
+  "content": "/>\nX.ii.6.D.6.a\n.\nProcessing Rating Decisions That Conclude a Beneficiary VA Previously Rated Incompetent Is Now Competent\nFollow the steps in the table below to process rating decisions that conclude a beneficiary VA previously rated incompetent is now competent.\nStep\nAction\n1\nPromulgate the rating decision.\n2\nNotify the beneficiary of the rating decision.\nNote\n:  If a request for relief from the reporting requirements of the Brady Act is pending, notify the beneficiary that the latest rating decision renders the request moot.\nReference\n:  For more information on the reporting requirements of the Brady Act, see\nM21-1, Part X, Subpart ii, 6.D.4\n.\n3\nEstablish EP 290,\nFID-Fiduciary Adjustment\n, and NWQ will route the case to the hub of jurisdiction.\nNote\n:  The hub is responsible for making the necessary updates to Share using the CHANGE OF FIDUCIARY command to ensure all future payments are paid directly to the beneficiary.\nReference\n:  For more information on the jurisdiction of individual hubs, see\nM21-1, Part X, Subpart ii, 6.C.1.d\n.",
+  "title": "M21-1, Part X, Subpart ii, Chapter 6, Section D - Processing Awards to Incompetent Beneficiaries",
+  "citation": "Part X, Subpart ii, Chapter 6, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177977/M21-1-Part-X-Subpart-ii-Chapter-6-Section-D-Processing-Awards-to-Incompetent-Beneficiaries",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:14:44.166906",
+  "tags": [
+    "m21-1"
+  ]
+}

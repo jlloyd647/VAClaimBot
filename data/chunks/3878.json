@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_2_B_17",
+  "content": "/>\nVI.i.2.B.2.d\n.\nExample 1:  Duplicate Payment That May Not Be Treated as an Administrative Error\nSituation\n:\nA surviving spouse is in receipt of Survivors Pension and the benefits were converted into a new electronic record without a Social Security number (SSN).\nOn May 1, 2012, during a record update, a new participant identification (PID) number is created by adding the spouse’s SSN.\nOn June 1, 2015, a Veterans Service Representative (VSR) processing a medical expense report discovers the surviving spouse is receiving two payments of Survivors Pension each month.\nActions\n:\nSuspend the duplicate payment effective the date in the LAST PAID DATE field on the CURRENT AND HISTORICAL AWARD INFORMATION page in VBMS.\nSend the surviving spouse notice of VA’s proposal to discontinue the duplicate payment effective May 1, 2012.\nUnless the surviving spouse submits evidence within 65 days that shows the proposed action should not be taken,\ndiscontinue the duplicate payment effective May 1, 2012, and\nnotify the surviving spouse of the action taken.\nNotes\n:\nDo\nnot\ntreat the duplicate payment of benefits in this case as an administrative error.\nThe surviving spouse is responsible for repaying the overpayment.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 2, Section B - Correcting the Erroneous Payment of Benefits to a Beneficiary",
+  "citation": "Part VI, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179474/M21-1-Part-VI-Subpart-i-Chapter-2-Section-B-Correcting-the-Erroneous-Payment-of-Benefits-to-a-Beneficiary",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:04.081849",
+  "tags": [
+    "m21-1"
+  ]
+}

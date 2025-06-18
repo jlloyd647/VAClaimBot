@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_A_64",
+  "content": "/>\nIX.iii.1.A.5.l\n.\nExample:  Applying 38 CFR 3.31 When Effective Dates of the MAPR and Income Change Coincide\nSituation\n:  A Veteran was paid pension of $446 per month from January 2019 through November 2019 based on retirement income of $400 per month ($4,800 per year).  Effective December 1, 2019, the pension rate increased to $481 because of the COLA.\nIn February 2020, the Veteran reports that their retirement income was reduced to $350 per month on December 1, 2019.  The re-computed IVAP effective December 1, 2019, is $4,200, which entitles the Veteran to a monthly rate of $531 effective December 1, 2019.\nResult/Rationale\n:  Because there is an increase in the monthly rate compared to the month immediately preceding the month of the income change ($531 for December 2019 compared to $446 for November 2019) and part of the increase is attributable to the reduction in IVAP,\n38 CFR 3.31\napplies.  Therefore, the $531 rate cannot be paid until January 1, 2020.  If the claims processor carries forward the November 2019 rate ($446) for the month of December 2019 however, the Veteran will be deprived of the benefit of the MAPR increase effective December 1, 2019.\nTo compensate for this, carry forward the November 2019 IVAP of $4,800 for the month of December 2019.  The award should pay\n$446 based on IVAP of $4,800 effective November 1,2019\n$481 based on IVAP of $4,800 effective December 1, 2019 and\n$531 based on IVAP of $4,200 effective January 1, 2020.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section A - General Information on the Effect Income and Net Worth Have on Pension and Parents’ Dependency and Indemnity Compensation (DIC)",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177516/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-A-General-Information-on-the-Effect-Income-and-Net-Worth-Have-on-Pension-and-Parents-Dependency-and-Indemnity-Compensation-DIC",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:39.896908",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_ii_3_D_9",
+  "content": "/>\nXI.ii.3.D.1.d\n.\nConsidering a Rating Decision Based on the Date of Death\nA rating decision dated\nprior to the claimant’s death is valid and may be processed by authorization for accrued purposes, or\nafter the claimant’s death is not valid and may not be processed by authorization for accrued purposes.\nNotes\n:\nIf a valid rating decision cannot be promulgated, create a Veterans Benefits Management System (VBMS) note to serve as a flash for potential accrued benefits.  Add the following VBMS note to the Rating Decision:\nPotential benefits under PL 110-389, the Veterans’ Benefits Improvement Act of 2008.\nWhether or not a rating decision has been promulgated has no impact on the validity of the rating decision for accrued benefit purposes.\nExample\n:  The Veteran submitted a compensation claim for coronary artery disease (CAD) on February 1, 2023.  An award was authorized on April 15, 2023, granting CAD based on a rating decision dated dated April 11, 2023.  The benefit payment was returned as undeliverable on April 20, 2023, because the Veteran died on April 1, 2023.  The Veteran’s surviving spouse submitted a claim for accrued benefits on April 22, 2023.\nResult\n:  A new rating decision is required because the rating decision is dated after the Veteran’s death.",
+  "title": "M21-1, Part XI, Subpart ii, Chapter 3, Section D  - Rating Accrued Claims",
+  "citation": "Part XI, Subpart ii, Chapter 3, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174207/M21-1-Part-XI-Subpart-ii-Chapter-3-Section-D-Rating-Accrued-Claims",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:20:55.591059",
+  "tags": [
+    "m21-1"
+  ]
+}

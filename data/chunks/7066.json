@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_E_28",
+  "content": "/>\nX.i.6.E.3.e\n.\nObtaining IDES Referral Documents When Automated Transfer Fails\nIf referral documents do not automatically transfer from HAIMS to the eFolder within 24 hours of establishing EP 689, the MSC must take the actions in the table below.\nStep\nAction\n1\nNotify the PEBLO that the referral documents failed to transfer.\n2\nRequest that the PEBLO\nsubmit a trouble ticket to their local HAIMS system administrator, and\nprovide the referral documents via acceptable alternative means.\nReference\n:  For information on acceptable alternative means of document transfer, see\nM21-1, Part X, Subpart i, 6.E.3.f\n.\n3\nUpon receipt of the referral documents, the MSC must\nupload all referral documents into the eFolder according to the specifications outlined in\nM21-1, Part X, Subpart i, 6.F.1.h\n, and\nensure the entry in the PREPARE CLAIM START DATE field in VTA reflects the date that a proper referral was made to VA.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section E - Integrated Disability Evaluation System (IDES), Referrals, and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177953/M21-1-Part-X-Subpart-i-Chapter-6-Section-E-Integrated-Disability-Evaluation-System-IDES-Referrals-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:10.391087",
+  "tags": [
+    "m21-1"
+  ]
+}

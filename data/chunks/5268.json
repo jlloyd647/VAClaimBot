@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_iii_1_B_14",
+  "content": "/>\nVII.iii.1.B.1.i\n.\nApportionments VA Suspended Because Payments Were Returned as Undeliverable\nAn apportionment is automatically suspended when payments to the apportionee are returned as undeliverable.  Proceeds accrue in the apportionee’s account when the suspension takes effect.\nUpon receipt of notice that proceeds exist in an apportionee’s account for the reason stated in the preceding paragraph, regional offices (ROs) must attempt to locate the apportionee by\ncontacting the primary beneficiary, and\nfollowing the instructions in\nM21-1, Part II, Subpart i, 2.C.6.d\n.\nIf attempts to locate the apportionee are ultimately unsuccessful, ROs must\ndiscontinue the apportionment (according to the instructions in\nM21-1, Part VII, Subpart iii, 1.B.1.c\n) effective the date VA last paid the\napportionee\n(the date in the LAST PAID DATE field on the CURRENT AND HISTORICAL AWARD INFORMATION page in VBMS)\nfollow the instructions in\nM21-1, Part VII, Subpart iii, 1.B.1.j\nfor\ndetermining whether the apportionee should remain on the primary beneficiary’s award, and\nremoving the apportionee from the primary’s award (if necessary), and\nnotify the apportionee and primary beneficiary of the actions taken\n.\nImportant\n:  When discontinuing an apportionment that originated as a\ngarnishment order\n(under the provisions of\nM21-1, Part VII, Subpart iii, 1.C.2.c\n), VA must continue to withhold benefits payable to the apportionee.  This is accomplished by entering the amount of the apportionment in the ADJUSTMENT AMOUNT field on the OTHER ADJUSTMENTS tab in VBMS-A.",
+  "title": "M21-1, Part VII, Subpart iii, Chapter 1, Section B - Adjusting Apportioned Awards",
+  "citation": "Part VII, Subpart iii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176633/M21-1-Part-VII-Subpart-iii-Chapter-1-Section-B-Adjusting-Apportioned-Awards",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:54:36.072027",
+  "tags": [
+    "m21-1"
+  ]
+}

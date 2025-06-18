@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_19",
+  "content": "/>\nII.ii.2.A.2.c\n.\nValidating the Request for Document Deletion\nTo validate the request for document deletion, an approving official must authorize the deletion of any document that is associated with an eFolder in VBMS.\nThe approving official must follow the steps in the table below when a\nVBMS Request for Document Deletion Form\nis received.\nStep\nAction\n1\nOpen the e-mail with the subject line\nReview for Document Deletion Needed\n.\n2\nOpen the\nVBMS Request for Document Deletion Form\n.\n3\nLogin to VBMS and navigate to the corresponding eFolder.\n4\nOpen the document identified in the subject line as\nReview for Deletion\n.\n5\nUse the table below after\nreviewing the form for accuracy, and\ndetermining if the request is valid.\nIf document deletion is ...\nThen ...\nnot\nnecessary\nprovide notice to the VBMS end user via e-mail, briefly describing the reason the request was not approved, and\nremove the\nReview for Deletion\nsubject line from the document properties of the document in question.\nnecessary\ncomplete the\nApproving Official\nsection of the form, and\nelectronically sign the document.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

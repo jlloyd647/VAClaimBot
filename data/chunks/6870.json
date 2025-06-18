@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_4_D_14",
+  "content": "/>\nX.i.4.D.2.d\n.\nExample 1:  Determining the Half-Dollar and Full-Dollar Rates\nSituation\n:  A married Veteran has a 40-percent disability incurred during service in the Armed Forces of the U.S. and a 20-percent disability incurred during wartime service in the Commonwealth Army of the Philippines, combining to 50 percent at the rate of $917.13 (rate effective 12/01/2014).\nMethod 1\nCalculations\n$917.13\nRate of combined 50-percent evaluation\n-651.36\nRate of combined 40-percent evaluation payable at the full-dollar rate\n$65.77\nAmount used for computing half-dollar rate\nMethod 2\nCalculations\n$917.13\nRate of combined 50-percent evaluation\nx 80%\nRatio of the combined 40-percent full-dollar evaluation to 50-percent combined evaluation\n$733.70\nAmount payable at full-dollar rate\n$917.13\nRate of combined evaluation\n-733.70\nAmount payable at full-dollar rate\n$183.43\nAmount used for computing half-dollar rate\nResult\n:  Use Method 2 in this case, because the full-dollar rate payable ($733.70) is greater than that in Method 1 ($651.36).\nThe amount payable to the Veteran is $825.42 ($733.70 at the full-dollar rate plus $91.72 (half of $183.43) at the half-dollar rate).",
+  "title": "M21-1, Part X, Subpart i, Chapter 4, Section D - Awards and Payments for Benefits Due to Philippine Service",
+  "citation": "Part X, Subpart i, Chapter 4, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177947/M21-1-Part-X-Subpart-i-Chapter-4-Section-D-Awards-and-Payments-for-Benefits-Due-to-Philippine-Service",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:05.270597",
+  "tags": [
+    "m21-1"
+  ]
+}

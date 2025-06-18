@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_ii_2_B_15",
+  "content": "/>\nX.ii.2.B.2.c\n.\nProcessing Service Records That Require Reconsideration of a Prior Claim\nUse the table below to process supplemental service records that require reconsideration of a prior claim.\nExample\n:  VA receives supplemental service treatment records (STRs) that indicate the Veteran was treated by a private doctor while on leave during active duty.  SC was previously denied in two separate rating decisions for the disabilities shown in those records, because the evidence at the time of those rating decisions did not show in-service incurrence.  All of these issues must now be reconsidered in a formal rating decision as the additional service records relate to the basis for the prior denial.\nIf prior to issuing a rating decision, additional development is ...\nThen the rating activity will ...\nneeded\ncomplete a deferral in VBMS which instructs the claims processor to\nchange the tracking EP per the guidance in\nM21-4, Appendix B\nperform specific development actions, and\nsolicit a claim for any chronic, unclaimed condition(s) shown in the supplemental service records, if applicable.\nnot\nneeded\nissue a formal rating decision on all issues that warrant reconsideration using the most appropriate EP from\nM21-4, Appendix B\n, and\ninput a note to authorization in the SPECIAL NOTATION field in VBMS-Rating (VBMS-R) to solicit a claim for any chronic, unclaimed condition(s) shown in the supplemental service records, if applicable.",
+  "title": "M21-1, Part X, Subpart ii, Chapter 2, Section B - Revision Based on Receipt of Supplemental Service Records",
+  "citation": "Part X, Subpart ii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177964/M21-1-Part-X-Subpart-ii-Chapter-2-Section-B-Revision-Based-on-Receipt-of-Supplemental-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:12:43.259830",
+  "tags": [
+    "m21-1"
+  ]
+}

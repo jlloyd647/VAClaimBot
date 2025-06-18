@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_B_32",
+  "content": "/>\nV.iv.1.B.6.b\n.\nSpecial Notation Field\nUse the SPECIAL NOTATION field, accessible from VBMS-R's PROFILE tab, to communicate an instruction or administrative message to the authorization activity.  Clarify if the message is solely administrative (for example,\nCancel the erroneously established EP 930\n) or to be shared with the Veteran (for example,\nTell the Veteran that the evaluation of his nephrolithiasis is currently awaiting higher-level review and will be addressed in a future decision\n).\nNote\n:  The special notation text appears at the bottom of the\nCodesheet\nabove the signature(s).\nReference\n:  For more information on the SPECIAL NOTATION field, see the\nVBMS-R User Guide\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section B - Codesheet Section",
+  "citation": "Part V, Subpart iv, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180524/M21-1-Part-V-Subpart-iv-Chapter-1-Section-B-Codesheet-Section",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:46:58.915909",
+  "tags": [
+    "m21-1"
+  ]
+}

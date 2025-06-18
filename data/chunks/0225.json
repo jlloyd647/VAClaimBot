@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_1_B_7",
+  "content": "/>\nII.i.1.B.1.b\n.\nShipping Requirements\nUsing the record management number (RMN)/document control sheet (DCS) shipping process, a regional office’s (RO’s) intake processing center or mailroom personnel ship source materials for document conversion.\nImportant\n:  ROs must verify the authenticity of any\nDD Form 214, Certificate of Release or Discharge from Active Duty,\ncontained in the claims folder in accordance with procedures outlined in\nM21-1, Part III, Subpart i, 1.B.3.a\nand\nM21-1, Part III, Subpart i, 2.D.5.b\nprior to shipping the folder to the vendor for scanning.\nNotes\n:\nWhen an RO ships loose mail to the scanning vendors using the RMN/DCS shipping process, electronic copies of the mail are directly uploaded into the appropriate electronic claims folder (eFolder), bypassing any further intake functions.  (Use this approach only for non-actionable drop-file mail that requires no system updates.)\nROs may ship loose mail to scanning vendors\nwithout\nfollowing the RMN/DCS shipping process.  Doing so results in the creation of a pending mail packet within the CM portal.  (This approach is recommended for actionable mail that requires system updates only).\nReferences\n:  For more information on\nshipping loose mail received in the mailroom, see\nM21-1, Part II, Subpart i, 1.A.2\n, and\nthe RMN/DCS shipping process, see\nM21-1, Part II, Subpart i, 1.B.2\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 1, Section B - Veterans Claims Intake Program (VCIP) Shipping",
+  "citation": "Part II, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174856/M21-1-Part-II-Subpart-i-Chapter-1-Section-B-Veterans-Claims-Intake-Program-VCIP-Shipping",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:09:59.879693",
+  "tags": [
+    "m21-1"
+  ]
+}

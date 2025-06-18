@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_1_A_29",
+  "content": "/>\nIII.ii.1.A.3.b\n.\nFederal vs. Non-Federal Community Care Records\nCommunity Care records are not considered Federal or VA records until they are in VA possession, despite the fact VA is paying for the medical care.  VHA has an obligation to obtain complete copies of Community Care records after treatment.  These records are scanned or uploaded into VHA’s electronic record.  VBA obtains the records from VHA\nmanually through JLV, or\nutilizing SCIP, an automated medical data retrieval tool that packages all available VHA records (including Community Care records already in VHA possession) and uploads the complete set of records into the eFolder using the document type\nVAMC Other Output /Reports\n.\nIn rare circumstances, VHA may fail to obtain the records.  The unobtained records are considered non-Federal records and, whenever necessary, must be pursued following private medical record development procedures found in\nM21-1, Part III, Subpart ii, 3\n.\nReferences\n:  For more information on\nobtaining relevant VA medical records, see\nM21-1, Part III, Subpart ii, 1.A.2.a\nVBA’s automated medical data retrieval tools, see the\nStandards and COTS Integration Platform (SCIP) Quick Sheet\n, and\nwhen VBA has a duty to assist obtaining Community Care records, see\nM21-1, Part III, Subpart ii, 1.A.3.d\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 1, Section A - Requesting Evidence From Federal Record Custodians",
+  "citation": "Part III, Subpart ii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014108/M21-1-Part-III-Subpart-ii-Chapter-1-Section-A-Requesting-Evidence-From-Federal-Record-Custodians",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:26.629871",
+  "tags": [
+    "m21-1"
+  ]
+}

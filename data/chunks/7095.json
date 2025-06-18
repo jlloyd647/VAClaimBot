@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_F_13",
+  "content": "/>\nX.i.6.F.1.h\n.\nUploading Electronic Documents to the eFolder\nMSCs must upload into participant’s eFolder any electronic  evidence that was\nsubmitted to the MSC electronically by an IDES participant\nprovided by a PEBLO via means discussed in\nM21-1, Part X, Subpart i, 6.E.3.f\n, or\ncreated by scanning paper evidence locally.\nWhen uploading documents to VBMS, the MSC must\nensure the documents are associated with the pending EP 689 in VBMS\nindex the files by selecting an appropriate document type\nupdate DATE OF RECEIPT field to reflect the date the document first came into VA possession, and\nafter ensuring the upload is successful, delete any locally stored electronic versions of the evidence.\nException\n:  The steps above are not applicable for evidence that was transferred directly into the eFolder via automated processes.\nReferences\n:  For more information on\nautomated transfer of IDES referral documents, see\nM21-1, Part X, Subpart i, 6.E.3.d\nscanning IDES evidence locally, see\nM21-1, Part X, Subpart i, 6.F.1.f\nuploading files into VBMS, see the\nVBMS Core User Guide\n, and\nindexing a document in VBMS, see\nM21-1, Part II, Subpart ii, 2.A.1.d\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section F - Integrated Disability Evaluation System (IDES) Development and Examinations",
+  "citation": "Part X, Subpart i, Chapter 6, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177955/M21-1-Part-X-Subpart-i-Chapter-6-Section-F-Integrated-Disability-Evaluation-System-IDES-Development-and-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:19.727255",
+  "tags": [
+    "m21-1"
+  ]
+}

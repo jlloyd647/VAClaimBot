@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_6_None_12",
+  "content": "/>\nXIV.6.2.a\n.\nInitial Analysis of Records\nFollow the instructions in the table below for every record (on a list of potential duplicate payment cases).\nIf ...\nThen ...\ntwo corporate records exist under the same SSN, and\nthe corporate records do\nnot\nbelong to the same payee\nensure the correct SSN was entered into the Beneficiary Identification and Records Locator Subsystem (BIRLS).\nNote\n:  If BIRLS contains the wrong SSN, update it by using the\nBIRLS Update\ncommand.\nReference\n:  For more information on updating BIRLS, see the\nShare User Guide\n.\nthe same beneficiary is receiving benefits under more than one claim number\nverify the beneficiary is entitled to benefits under the claim numbers listed.\nReference\n:  For more information on beneficiaries that are entitled to benefits under more than one claim number, see\nM21-1, Part XIV, 6.2.b\n.\nImportant\n:  Upon discovering that VA is erroneously making or has erroneously made duplicate payments to the same beneficiary, follow the instructions in\nM21-1, Part VI, Subpart i, 2.B\n.",
+  "title": "M21-1, Part XIV, Chapter 6 - Review of Potential Duplicate Payment Cases",
+  "citation": "Part XIV, Chapter 6, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173308/M21-1-Part-XIV-Chapter-6-Review-of-Potential-Duplicate-Payment-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:32:59.381161",
+  "tags": [
+    "m21-1"
+  ]
+}

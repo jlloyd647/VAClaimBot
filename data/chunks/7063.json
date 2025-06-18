@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_E_25",
+  "content": "/>\nX.i.6.E.3.b\n.\nIdentifying New IDES Referrals\nEach IDES intake site must identify new IDES referrals that require MSC action including claims establishment by running the report\nPending CEST\nin VTA.\nImportant\n:  To the extent possible, the\nPending CEST\nreport\nmust be run daily, or more frequently depending on site-specific requirements, to ensure timely action on new IDES referrals.\nNotes\n:\nThe\nPending CEST\nreport displays cases in which the PEBLO has entered a date in the PREPARE CLAIM START DATE field in VTA, but the MSC has not yet entered a date in the CLAIMS ESTABLISHMENT (CEST) field.\nThe report is available under VTA Operational Reports; MSC Pending Reports.\nCases associated with a specific intake site are displayed via use of the filter,\nMEB MTF\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section E - Integrated Disability Evaluation System (IDES), Referrals, and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177953/M21-1-Part-X-Subpart-i-Chapter-6-Section-E-Integrated-Disability-Evaluation-System-IDES-Referrals-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:10.391087",
+  "tags": [
+    "m21-1"
+  ]
+}

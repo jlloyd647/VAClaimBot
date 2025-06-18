@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_iii_2_B_21",
+  "content": "/>\nVI.iii.2.B.3.d\n.\nAEWs Involving DFAS Payment\nAn AEW showing an amount previously paid by DFAS is generated for cases involving Combat-Related Special Compensation (CRSC)/Concurrent Retirement and Disability Pay (CRDP).\nReferral to the finance activity is required on these AEWs to avoid overpayment.  Provide the finance activity the following information:\nVeteran's name and claim number\namount previously paid by DFAS, and\nname of authorizer to inform once the receivable amount is established in the system.\nThe finance activity establishes the amount previously paid by DFAS as a collectible receivable in eMPWR-VA.  This action ensures automatic deduction of the receivable from the generated retroactive payment amount.\nImportant\n:  The authorizer\nmust\nauthorize the award\nwithin one to two days\nof the date the finance activity established the collectible receivable.\nReferences\n:  For more information on\nprocessing AEWs, see\nM21-1, Part VI, Subpart ii, 4.E\nCRDP, see\nM21-1, Part VI, Subpart ii, 4.A.6\n, and\nCRSC, see\nM21-1, Part VI, Subpart ii, 4.A.7\n.",
+  "title": "M21-1, Part VI, Subpart iii, Chapter 2, Section B - The Finance Activity at the Regional Office (RO)",
+  "citation": "Part VI, Subpart iii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179497/M21-1-Part-VI-Subpart-iii-Chapter-2-Section-B-The-Finance-Activity-at-the-Regional-Office-RO",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:50:42.800550",
+  "tags": [
+    "m21-1"
+  ]
+}

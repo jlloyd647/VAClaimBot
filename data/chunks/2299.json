@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_H_28",
+  "content": "/>\nIX.iii.1.H.3.\nb\n.\nVA System Calculated Social Security Rates\nUse the table below to determine the steps taken by VA systems to calculate post-COLA Social Security rates.\nIf VA records show …\nThen VA systems …\nno Medicare or supplementary medical insurance benefit (SMIB)\nmultiply the monthly Social Security amount in the record by the COLA factor.\nExample\n:  If the COLA is 4 percent, VA systems multiply the monthly Social Security amount by 1.04.\na standard SMIB deduction\nmultiply the pre-COLA rate by the COLA factor and round the product to the next lower dime\nsubtract from this amount the new post-COLA Social Security standard SMIB deduction and round the result to the next lower dollar, and\nadd back the SMIB deduction.\na pre-COLA SMIB that is other than the current standard amount\nthe post-COLA Social Security monthly amount is estimated using the pre-COLA SMIB.\nNote\n:  The assumption is made that there would be no change in the SMIB deduction because there is no way to estimate the post-COLA nonstandard SMIB.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section H - Adjustments Based on Changes in Status",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section H",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177523/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-H-Adjustments-Based-on-Changes-in-Status",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:45.357937",
+  "tags": [
+    "m21-1"
+  ]
+}

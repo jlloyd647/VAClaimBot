@@ -1,0 +1,12 @@
+{
+  "chunk_id": "I_i_2_C_22",
+  "content": "/>\nI.i.2.C.2.b\n.\nUpdating the POA and POA Permissions in VBMS\nUse VBMS to reflect the appointment of a POA, as well as the POA’s permission to change a claimant’s address and/or access to a Veteran’s eFolder.\nNavigate to the Veteran’s profile and access the POA screen from the VETERAN drop-down menu.  Click the EDIT GENERAL POA button and make the appropriate selections.\nImportant\n:\nPrivate attorneys accredited by VA and assigned a POA code will be listed under the\nVSO\noption, not\nPrivate\n.\nDo not allow POA access to the Veteran’s eFolder if the claimant has not provided specific authorization to release all records protected by\n38 U.S.C. 7332\n(including cases where the claimant has provided a limited authorization).\nException\n:  When the POA is appointed to assist the claimant on a specific claim (limited representation), open the specific EP from the CLAIMS drop-down menu and click EDIT CLAIM DETAILS.  Select the POA code and update the POA’s authority to change the claimant’s address and/or access the Veteran’s claim folder (as appropriate).\nReferences\n:  For more information on\nediting POA information in VBMS, see the\nVBMS Core User Guide\nidentifying if the POA should have permission to\nchange the claimant’s address, see\nM21-1, Part II, Subpart iii, 3.B.1\n, and\naccess the eFolder, see\nM21-1, Part I, Subpart i, 2.B.2\nlimited representation by a POA, see\nM21-1, Part I, Subpart i, 2.A.2.d\nM21-1, Part I, Subpart i, 2.C.1.b\n, and\nM21-1, Part I, Subpart i, 2.C.2.c\n, and\naccessing EP and claim details in VBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part I, Subpart i, Chapter 2, Section C - System Updates for Power of Attorney (POA) Appointments",
+  "citation": "Part I, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181477/M21-1-Part-I-Subpart-i-Chapter-2-Section-C-System-Updates-for-Power-of-Attorney-POA-Appointments",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:08:48.011362",
+  "tags": [
+    "m21-1"
+  ]
+}

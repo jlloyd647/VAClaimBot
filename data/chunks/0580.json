@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_A_38",
+  "content": "/>\nII.iii.2.A.4.b\n.\nValidating the Accuracy of ITF Data in the Corporate Record\nClaims processors are responsible for validating the accuracy of data in the corporate record regarding a claimant’s communication of an ITF.\nWhen inaccurate ITF information exists and a correction is being made on\nthe same day that the ITF was created, but prior to the daily ITF batch run, follow the procedures in\nM21-1, Part II, Subpart iii, 2.A.4.c\n, or\na different day than the ITF was created or after the daily batch run, follow the procedures in\nM21-1, Part II, Subpart iii, 2.A.4.d\n.\nNotes\n:\nThe daily ITF batch run refers to the system process that occurs once daily in the evening to update ITF statuses.  If an attempt to update an ITF status is made after the daily ITF batch run begins, a system message will appear indicating that the user does not have the authority to make changes to ITF status.\nIn situations where an ITF is expressed to a VA employee, the data is transcribed directly into the CRM system and/or the corporate record and need not be separately documented on\nVA Form 21-0966\nor\nVA Form 27-0820\n, as described in\nM21-1, Part II, Subpart iii, 2.A.2.a\nand\nd\n.\nIn these situations, additional validation is not necessary as no separate data will exist to use for validation.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section A - Intent to File (ITF)",
+  "citation": "Part II, Subpart iii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:12:24.433955",
+  "tags": [
+    "m21-1"
+  ]
+}

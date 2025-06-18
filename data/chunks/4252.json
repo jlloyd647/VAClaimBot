@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_E_17",
+  "content": "/>\nVI.ii.4.E.1.l\n.\nSpecial Instructions for Entitlement Months of January 2014 or Later\nIf the amount in the\nVA Withheld\ncolumn of an AEW for an entitlement month of January 2014 or later differs from the amount in the\nDue From VA\ncolumn for the same month by an amount less than one dollar,\nrelease the amount shown in the\nVA Withheld\ncolumn for the same month, and\ninclude the following paragraph in the\nWhat Is Your Entitlement\nsection of the decision notice:\nThe enclosed audit error worksheet may show amounts due that differ from what we have calculated.  The worksheet is informational, showing VA may need to make an adjustment; however, we are required to double-check all calculations prior to releasing any funds to you.  Therefore the amount we pay will be based on our final calculations and may not match the totals from the worksheet.\nExample\n:\nScenario\n:  Entries on AEW are as follows:\nEntitlement Month\n:  March 2014\nVA Withheld\n:  $213.15\nDue from VA\n:  $213.00\nAction\n:  Since the difference between the two amounts is less than one dollar, reduce the MRP withholding for March 2014 by $213.15.\nNote\n:  The situation described in this block most commonly occurs when the subject of the AEW is a Coast Guard Veteran.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section E - Processing Audit Error Worksheets (AEWs)",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179491/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-E-Processing-Audit-Error-Worksheets-AEWs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:46.854474",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_i_2_A_56",
+  "content": "/>\nIV.i.2.A.7.d\n.\nProcedure for Identifying the Evidence in a Medical Opinion Request\nTo identify all pertinent evidence for the examiner to review in connection with the medical opinion requested, in the TABBED EVIDENCE DESCRIPTION field in EMS, provide at a minimum the\ntab label\ndocument receipt date\ndocument type, and\ndate(s) of treatment, injury, or event.\nExample\n:\nTab A – Pulmonary function test for asthma.\nDocument Receipt Date – 10/02/2020.\nDocument Type – CAPRI.\nDate of Treatment – 07/15/2020.\nReferences\n:  For more information on\nEMS, see the\nVBMS Core User Guide\n, and\nEMS User Guide\n, and\nrequirement to identify relevant evidence for an examiner’s review, see\nM21-1, Part IV, Subpart i, 2.A.8.d\n.",
+  "title": "M21-1, Part IV, Subpart i, Chapter 2, Section A - Examination Requests Overview",
+  "citation": "Part IV, Subpart i, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180498/M21-1-Part-IV-Subpart-i-Chapter-2-Section-A-Examination-Requests-Overview",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:37.055526",
+  "tags": [
+    "m21-1"
+  ]
+}

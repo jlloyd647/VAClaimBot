@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_B_39",
+  "content": "/>\nV.iv.1.B.7.a\n.\nDefinition: Signatures on Rating Decisions\nRating decisions must contain the decision maker’s digital signature on the bottom of the last page of the\nCodesheet\n.\nA rating decision\nsignature\nis defined as\nan electronic signature certification statement as shown in\nM21-1, Part V, Subpart iv, 1.B.7.b\n, and\nthe user’s\nlocal area network identification (LAN ID), and\njob title.\nImportant\n:\nIf a rating decision requires more than one signature, the rating decision\nCodesheet\nmust display the required additional signature fields.\nThe signature of the decision maker(s) certifies that the claims folder was reviewed and all phases of the claims process leading to the decision were correctly handled.\nReferences\n:  For more information on\nsignature requirements for legacy appeal decisions, see\nM21-5, Chapter 7, Section D.3.c\ncompleting the signature field on the rating decision\nCodesheet\n, see\nM21-1, Part V, Subpart iv, 1.B.7.b\ntwo-signature rating decisions, see\nM21-1, Part V, Subpart iv, 1.B.7.d\nsecond signature procedures, see\nM21-1, Part V, Subpart iv, 1.B.7.e\n, and\na sample rating decision\nCodesheet\nsignature field, see\nM21-1, Part V, Subpart iv, 1.B.7.f\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section B - Codesheet Section",
+  "citation": "Part V, Subpart iv, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180524/M21-1-Part-V-Subpart-iv-Chapter-1-Section-B-Codesheet-Section",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:46:58.915909",
+  "tags": [
+    "m21-1"
+  ]
+}

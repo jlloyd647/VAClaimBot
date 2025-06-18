@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_i_2_A_74",
+  "content": "/>\nIV.i.2.A.9.b\n.\nCompleting a CAPRI Examination Request\nFully complete all fields on the examination request screen in CAPRI, ensuring that those discussed below are appropriately populated.\nThe examination location selected should be the appropriate facility identified using the guidance in\nM21-1, Part IV, Subpart i, 2.A.2.c\nand\nd\n.\nUnder LIST OF EXAMS, select all appropriate DBQs.  Do not check DBQs for specific body systems if requesting a general medical examination unless the claim also requires the performance of one or more specialist examination(s) discussed in\nM21-1, Part IV, Subpart i, 2.A.6.a\n.\nUnder the CLAIM TYPE field, select the relevant claim type.  Only one selection can be made.\nUnder the SPECIAL CONSIDERATIONS field, select any priority processing reason(s) that applies, including\nAGE OF CLAIM\nFDC\nHOMELESS\nNOT APPLICABLE\nPOW, and/or\nTERMINAL.\nFor the LAST RATING EXAM DATE field, the default entry is\nN/A\n.  However, where there was a prior examination pertinent to the examination being entered, delete\nN/A\nand enter the date of the pertinent prior examination.\nIn REMARKS\ninclude all generated and manually entered text\ndo not use manual, regulation, or code citations\navoid using acronyms or VBA jargon, and\nif the examinee is rated incompetent, note that fact.\nImportant\n:  Entering the ITF date is key to correct examination of claims pending at the time of a rating schedule change.  This will alert the examiner as to the need to provide historical DBQ information.\nReferences\n:  For more information on\ncompleting a CAPRI examination request, see the\nCAPRI User Manual\nexaminations of non-Veteran claimants, see\nM21-1, Part IV, Subpart i, 2.E.2.a\n, and\nthe\nSupplemental Language Matrix\n, see\nM21-1, Part IV, Subpart i, 2.A.10.b\n.",
+  "title": "M21-1, Part IV, Subpart i, Chapter 2, Section A - Examination Requests Overview",
+  "citation": "Part IV, Subpart i, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180498/M21-1-Part-IV-Subpart-i-Chapter-2-Section-A-Examination-Requests-Overview",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:37.055526",
+  "tags": [
+    "m21-1"
+  ]
+}

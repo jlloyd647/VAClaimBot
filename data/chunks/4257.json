@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_E_22",
+  "content": "/>\nVI.ii.4.E.1.q\n.\nProcessing AEWs When the Veteran Is Eligible for Concurrent Receipt of the Full Amount of Compensation and MRP Based on Length of Service\nIf the subject of the AEW is eligible for concurrent receipt of the\nfull\namount of disability compensation\nand\nMRP (based on length of service,\nnot\ndisability), eliminate the entire withholding (that VA established to offset the Veteran’s receipt of MRP) shown in VA records for the month in which VA changed either the gross or net amount of the Veteran’s disability compensation effective a day other than the first day of the month.\nA Veteran is eligible for concurrent receipt of the full amount of disability compensation and MRP if\none\nof the three\nsets\nof conditions listed in the table below is met.\nSet\nConditions\n1\nThe month in question is January 2005\nor later\n.\nThe AEW shows the Veteran is authorized CRDP for the same month.\nA VA rating of 100-percent disability or TDIU due to SC disabilities was in effect for the same month.\n2\nThe month in question is January 2014\nor later\n.\nThe AEW shows the Veteran is authorized CRDP for the same month.\n3\nThe AEW shows the Veteran is authorized 100 percent of CRSC for the month in question.\nNote\n:\nAssume a Veteran retired based on length of service (rather than disability) if the\nMILITARY HISTORY segment in the Veterans Information Solution (VIS) displays\nA\n,\nB\n, or\nC\nin the column labeled\nRet Type\nDFAS/CG PAYMENTS screen in VIS displays\nA\n,\nB\n, or\nC\nin the column labeled\nRet Type Cd\n, or\nHUNT MBRENT screen in the Retired Casualty Pay Subsystem (RCPS) displays something\nother than\nno RET LAW field, or\na RET LAW field that is blank or contains one of the following entries:\n1201\n,\n1202\n,\n1204\n,\n1205\n, or\n0000\n.\nReferences\n:  For more information about using\nRCPS, see the\nHunt User’s Guide\n, and\nVIS, see the\nVIS User Guide\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section E - Processing Audit Error Worksheets (AEWs)",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179491/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-E-Processing-Audit-Error-Worksheets-AEWs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:46.854474",
+  "tags": [
+    "m21-1"
+  ]
+}

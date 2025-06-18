@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_A_62",
+  "content": "/>\nIII.ii.2.A.7.b\n.\nHandling Requests From a VAMC When No Claims Folder Exists\nThe table below contains instructions for handling requests for service records/information from a VAMC when no claims folder exists.\nIf the VAMC requests …\nThen …\na character-of-discharge (COD) determination\nestablish a claims folder\nrequest the evidence required to make a COD determination\nwhen the evidence arrives, make the determination, and\nnotify the VAMC that requested the determination of its outcome.\nReference\n:  For more information on making a COD determination, see\nM21-1, Part X, Subpart iv, 1.A\nand\nB\n.\nverification of service only\ncreate a corporate record using the BIRLS ADD command in Share\nrequest verification of service through\nPIES, or\nthe Defense Personnel Image Retrieval System (DPRIS)\nupdate and mark service as verified upon receipt of verification, and\nnotify the VAMC that initiated the request.\nReferences\n:  For more information on using\nShare, see the\nShare User Guide\nPIES, see the\nPIES User Guide\n, and\nDPRIS, select the HELP tab on the\nDPRIS website\n. (Registration is required.)",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section A - General Information on Service Records",
+  "citation": "Part III, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014117/M21-1-Part-III-Subpart-ii-Chapter-2-Section-A-General-Information-on-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:54.542216",
+  "tags": [
+    "m21-1"
+  ]
+}

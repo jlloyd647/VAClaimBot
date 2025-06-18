@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_3_A_6",
+  "content": "/>\nII.iii.3.A.1.a\n.\nTypes of Claims Excluded From Establishment in VBMS\nThe Veterans Benefits Management System (VBMS) is used to establish\nall initial claims for compensation\npension and survivor claims\nclaims where the claimant has a Department of Veterans Affairs (VA)-appointed fiduciary, and\nmost claim types for which a VBMS record already exists.\nExceptions\n:\nAll supplemental claims and requests for higher-level review must be established in Caseflow.\nThe following claims should be established using Share:\nany claim where the claimant is an organization, unless the organization is a state cemetery, and\ndiscovered legacy appeals where the appellant is not a child, spouse, or parent of the Veteran\n.\nReferences\n:  For more information on\nestablishing claims in Caseflow, see\nM21-5, Chapter 4, Topic 2\n, and\nend product (EP) codes for compensation, pension, and fiduciary operations, see\nM21-4, Appendix B, 2\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 3, Section A - Claims Establishment",
+  "citation": "Part II, Subpart iii, Chapter 3, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174881/M21-1-Part-II-Subpart-iii-Chapter-3-Section-A-Claims-Establishment",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:13:56.774884",
+  "tags": [
+    "m21-1"
+  ]
+}

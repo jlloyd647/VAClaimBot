@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_C_26",
+  "content": "/>\nII.i.2.C.4.b\n.\nProcedures for Handling Outgoing Mail\nThe table below contains procedures for handling outgoing mail.\nMail Category\nProcedure\nExpress\nHand deliver the mail to the RO’s mailroom\ncomplete an air bill from the express mail contract carrier\ndocument the tracking number for the mail and keep it until the intended recipient has received the mail, and\nfollow any other procedures for sending express mail that the operating element responsible for mailroom services has established.\nNotes\n:\nROs are responsible for maintaining a supply of air bills.\nExpress mail may be printed and mailed locally as needed.  CBCM is strongly encouraged in all possible instances.\nReference\n:  For more information on CBCM, see the\nTMS course titled\nCentralized Benefits Communications Management\n(VA 4562424), and\nVBMS Core User Guide\n.\nIntraoffice\nClearly identify the intended recipient to include the appropriate mail routing symbol.\nRegular/\nRoutine\nFor mail related to other off-site business lines not in the CM portal (the National Cemetery Administration, the Veterans Health Administration (VHA), etc), bundle and forward mail through USPS.\nFor other outgoing regular/routine mail (such as development letters or award letters to claimants, beneficiaries, and representatives) prepare packages using VBMS Package Manager for centralized printing and mailing as provided in the CBCM program whenever possible, unless the type of communication may not be centrally printed.\nNote\n:  Other RO or pension management center (PMC) claim-related mail is no longer forwarded through USPS to the other ROs/PMCs. Upload the mail to the CM portal.\nReference\n:\nFor more information on receipt, separation, and routing of physical mail in the mailroom, see\nM21-1, Part II, Subpart i, 1.A.2\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section C - Mail Management",
+  "citation": "Part II, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174860/M21-1-Part-II-Subpart-i-Chapter-2-Section-C-Mail-Management",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:30.870043",
+  "tags": [
+    "m21-1"
+  ]
+}

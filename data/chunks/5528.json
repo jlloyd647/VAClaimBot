@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VIII_ii_1_B_11",
+  "content": "/>\nVIII.ii.1.B.1.f\n.\nHandling Discrepancies With the 1117 Corporate Flash\nUse the table below to determine how to handle discrepancies between the Veteran’s service locations and the\nPersian Gulf Veteran – Sec. 1117\ncorporate flash.\nIf ...\nThen ...\nthere is evidence that the corporate flash should be removed from a Veteran’s record\nthe claims processor who identified the discrepancy should report the instance using the\nErroneous 1117 and 1119 Data Reporting Tool\n.\na Veteran’s record confirms eligible service under\n38 U.S.C. 1117\n, but there is no 1117 corporate flash present\nenter\n1117 Service\nin the SUBJECT field of the document that contains evidence of qualifying service\nleave a note in VBMS indicating that qualifying\n38 U.S.C.1117\nservice has been verified, and\ncontinue processing the claim as appropriate.\nImportant\n:  The flash does not need to be on the corporate record prior to finalization of the rating decision, and it is not necessary to report these instances using the\nErroneous 1117 and 1119 Data Reporting Tool\n.",
+  "title": "M21-1, Part VIII, Subpart ii, Chapter 1, Section B - Developing Presumptive Service Connection (SC) Claims from Persian Gulf Veterans",
+  "citation": "Part VIII, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177438/M21-1-Part-VIII-Subpart-ii-Chapter-1-Section-B-Developing-Presumptive-Service-Connection-SC-Claims-from-Persian-Gulf-Veterans",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:56:36.733913",
+  "tags": [
+    "m21-1"
+  ]
+}

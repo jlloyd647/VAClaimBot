@@ -1,0 +1,12 @@
+{
+  "chunk_id": "I_i_2_B_11",
+  "content": "/>\nI.i.2.B.1.f\n.\nAdding an Attorney or Agent Name and Address to Letters Created Outside VBMS\nTo add an attorney or agent’s name and address to letters created outside VBMS:\nif one exists, delete the generic designation (PRIVATE ATTORNEY WITH EXCLUSIVE CONTACT or AGENT OR PVT ATTY-EXCLUSIVE CONTACT NOT) within the Microsoft Word document from the cc line\nreplace the deleted text with the private attorney/agent’s name and address\nfinalize the letter, and\nupload the letter to the eFolder.\nNote\n:  If the Veteran has a VSO representative, the letter will populate with the VSO organization automatically.\nReference\n:  For more information on converting documents to portable document format and uploading into the eFolder, see\nM21-1, Part II, Subpart ii, 2.A.1.b\n.",
+  "title": "M21-1, Part I, Subpart i, Chapter 2, Section B - A Representative’s Right to Notification and Review of Records",
+  "citation": "Part I, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181476/M21-1-Part-I-Subpart-i-Chapter-2-Section-B-A-Representatives-Right-to-Notification-and-Review-of-Records",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:08:37.664305",
+  "tags": [
+    "m21-1"
+  ]
+}

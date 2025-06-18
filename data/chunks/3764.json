@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_C_42",
+  "content": "/>\nV.iv.1.C.6.d\n.\nRemoving Active Duty Discontinuance Coding\nAs is discussed in\nM21-1, Part X, Subpart v, 2.B.1.c\n, preparation of a rating decision that reflects loss of entitlement to benefits based on a Veteran’s return to active duty is not necessary.\nSimilarly, as discussed in\nM21-1, Part X, Subpart v, 2.B.1.g\n, rating action to reinstate benefits following a Veteran’s release from active duty is not necessary\nunless\nthe Veteran’s award was originally discontinued by rating decision.\nWhen deciding the claim of a Veteran whose prior\nCodesheet(s)\nreflect the loss of SC during a period of active duty, use the MASTER RECORD tab and/or DDI screens to remove\nall\nprevious\nActive Duty – Discontinue\nselections and corresponding discontinuance dates from all affected SC disabilities.  The authorization activity will recreate all necessary adjustments by award action.\nReference\n:  For more information on rating decisions that show loss of entitlement during periods of active duty, see\nM21-1, Part X, Subpart v, 2.B.1.h\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section C - Coded Conclusion",
+  "citation": "Part V, Subpart iv, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180525/M21-1-Part-V-Subpart-iv-Chapter-1-Section-C-Coded-Conclusion",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:08.257771",
+  "tags": [
+    "m21-1"
+  ]
+}

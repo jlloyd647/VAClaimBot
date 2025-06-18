@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_i_1_D_11",
+  "content": "/>\nVII.i.1.D.1.f\n.\nAutomatic Release of Decision Notices That Reflect a Denial of Entitlement to Additional Benefits\nVA systems automatically release decision notices that reflect a denial of entitlement to additional disability compensation for a dependent when the claimant is a Veteran with a single service-connected disability, or a combined disability rating that is\nless\nthan 30 percent\nand\na 130-series EP is pending\nwithout\na concurrently pending rating EP,\nor\nan EP 020 and a 130-series EP are concurrently pending.\nUpon release of a decision notice, the system that generated the notice\nclears the 130-series EP, and\nuploads a copy of the decision notice into the Veteran’s eFolder.\nReference\n:  For more information on rating EPs, see\nM21-4, Appendix B, Section II\n.",
+  "title": "M21-1, Part VII, Subpart i, Chapter 1, Section D - Dependency Claims Processed by the Rules-Based Processing System (RBPS)",
+  "citation": "Part VII, Subpart i, Chapter 1, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176616/M21-1-Part-VII-Subpart-i-Chapter-1-Section-D-Dependency-Claims-Processed-by-the-Rules-Based-Processing-System-RBPS",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:52:15.896294",
+  "tags": [
+    "m21-1"
+  ]
+}

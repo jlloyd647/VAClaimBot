@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_2_B_12",
+  "content": "/>\nX.i.2.B.2.d\n.\nProcess for Excluding a Claim From the FDC Program\nIf it becomes necessary to exclude a claim from the FDC Program, regional offices (ROs) must follow the steps in the table below.\nException\n:  The steps in the table below do not apply when excluding a BDD claim.  These claims do not require an FDC exclusion special issue indicator.\nStep\nAction\n1\nRemove the FDC folder flash, if one exists.\n2\nReplace the\nFully Developed Claim\nspecial issue indicator with the appropriate special issue indicator from the list in\nM21-1, Part X, Subpart i, 2.B.2.e\n.\n3\nContinue processing the claim under standard claims-processing procedures.\nNote\n:  After excluding a claim from the FDC Program, provide the claimant with the notice\n38 U.S.C. 5103\nrequired\nonly if\nVA excluded the claim because the claimant\ndid not submit the claim on one of the EZ forms – or the\nappropriate\nEZ form – listed in\nM21-1, Part X, Subpart i, 2.A.2\nsubmitted a\nnon-original\nclaim on the appropriate EZ form before March 24, 2015, but did not sign the form, or\nsubmitted another claim\nafter\nVA received the FDC\nand\nVA has not provided Section 5103 notice (to include the notice the EZ forms provide) within the last year that covers the issue(s) in the subsequent claim.\nImportant\n:  An unsigned application for benefits received on or after March 24, 2015, must be handled as an incomplete application as instructed in\nM21-1, Part II, Subpart iii, 1.C.1.a\n.\nReferences\n:  For more information on\nthe notice\n38 U.S.C. 5103\nrequires, see\nM21-1, Part III, Subpart i, 2.B\nsignatures, see\nM21-1, Part II, Subpart i, 2.B.2.a\n, and\nhandling unsigned applications, see\nM21-1, Part X, Subpart i, 2.A.2.h\n, and\nM21-1, Part II, Subpart iii, 1.A.4.e\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 2, Section B - Processing Fully Developed Claims (FDCs)",
+  "citation": "Part X, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177941/M21-1-Part-X-Subpart-i-Chapter-2-Section-B-Processing-Fully-Developed-Claims-FDCs",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:09:09.422499",
+  "tags": [
+    "m21-1"
+  ]
+}

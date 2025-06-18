@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_E_44",
+  "content": "/>\nX.i.6.E.4.h\n.\nHandling an Unsigned VA Form 21-526EZ\nIf an IDES participant returns a\nVA Form 21-526EZ\nwithout a signature, the MSC must concurrently\nprocess the claim according to standard IDES procedure, and\nattempt to obtain the participant’s signature.\nIf the signed application is not returned by the time of the proposed rating decision, the DRAS must\nprepare a proposed rating and benefits estimate letter (BEL) according to standard IDES rating procedure\nmodify the BEL to indicate that the participant’s signature was missing from the\nVA Form 21-526EZ\n, and that this form must be signed before VA benefits can be formally awarded, and\ndevelop directly to the participant for their signature on the application.\nIf the participant has not signed the form by the time they exit IDES, the DRAS of jurisdiction must\ntake the actions described in\nM21-1, Part II, Subpart iii, 1.C\nfor handling a claim that is\nnot\nsubstantially complete\nenter the date of notification of the participant in the VA BENEFITS DATE field on the RO/RATING ACTIVITY tab in VTA\nadd a note on the same tab that explains the date the DRAS entered in the VA BENEFITS DATE field, and\nclear the pending EP 689.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section E - Integrated Disability Evaluation System (IDES), Referrals, and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177953/M21-1-Part-X-Subpart-i-Chapter-6-Section-E-Integrated-Disability-Evaluation-System-IDES-Referrals-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:10.391087",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_ii_6_E_19",
+  "content": "/>\nX.ii.6.E.2.a\n.\nHub Certification Requirement for Court-Appointed Fiduciaries\nWhen a court appoints a guardian for an eligible beneficiary, do not make payments to the guardian until the hub furnishes a\nVA Form 21P-555\n.\nAfter receiving court documents indicating the appointment of a fiduciary from anyone other than the hub,\nreview the claims folder and corporate record to determine if a VA-appointed fiduciary is in place\nupload the court documents to the eFolder, and\ntake action as outlined in the table below.\nIf a fiduciary …\nThen …\nexists\nestablish an EP 290,\nFID-Fiduciary Adjustment, and\nassociate a permanent note within VBMS\nthat notifies the hub to review for\nrecognition of the fiduciary, or\nappointment of a successor fiduciary, if necessary\n.\nNote\n:  Use of the\nFID-Fiduciary Adjustment\nclaim label allows NWQ to route the EP 290 to the hub of jurisdiction.\ndoes\nnot\nexist\ncomplete a\nVA Form 21-592\n,\nand upload a copy of the form into the corresponding eFolder\nestablish an EP 290,\nFID-Fiduciary Adjustment\n, and\nassociate a permanent note in VBMS that provides the reason for establishing the EP\n.\nNote\n:  Use of the\nFID-Fiduciary Adjustment\nclaim label allows NWQ to route the EP 290 to the hub of jurisdiction.",
+  "title": "M21-1, Part X, Subpart ii, Chapter 6, Section E - Authorizing Awards for Fiduciary Cases",
+  "citation": "Part X, Subpart ii, Chapter 6, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177978/M21-1-Part-X-Subpart-ii-Chapter-6-Section-E-Authorizing-Awards-for-Fiduciary-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:14:53.568203",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_H_32",
+  "content": "/>\nX.i.6.H.4.b\n.\nSystem Updates Upon Receipt of a Request for Reconsideration\nUpon receipt of a request for reconsideration of a proposed rating decision, the DRAS must update\nVTA by entering the date the DRAS received the request in the VA RECONSIDERATION RATING START DATE field on the RO/RATING ACTIVITY tab, and\nVBMS by changing\nthe claim-level suspense so it expires seven days in the future\nthe suspense reason to\nSpecial Project Team Claim, Awaiting:  RD\n, and\nthe claim status to\nReady for Decision\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section H - Integrated Disability Evaluation System (IDES) Proposed Ratings",
+  "citation": "Part X, Subpart i, Chapter 6, Section H",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177957/M21-1-Part-X-Subpart-i-Chapter-6-Section-H-Integrated-Disability-Evaluation-System-IDES-Proposed-Ratings",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:38.251103",
+  "tags": [
+    "m21-1"
+  ]
+}

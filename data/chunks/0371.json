@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_D_29",
+  "content": "/>\nII.i.2.D.6.a\n.\nProcessing FOIA and PA Requests\nDuring initial screening, the intake processing center (IPC) routes Freedom of Information Act (FOIA)/Privacy Act (PA) requests through the CM portal to the Record Management Center’s (RMC’s) mail queue without taking any system actions.\nException\n:  There are some situations where system actions are required.  Use the table below to determine the actions to take when exceptions to the process described in the preceding paragraph apply.\nIf a ...\nThen the IPC ...\nFOIA/PA request is received in the same mail packet as other mail requiring RO action\nestablishes end product\n510,\nPrivacy Act Request\n, or\n511,\nFOIA\nleaves the suspense reason as\nInitial Review Pending\n, and\nbrokers the corresponding work item to RMC in VBMS only.\nNotes\n:\nThe IPC leaves a permanent note under the brokered work item indicating a FOIA/PA request was received with other RO action mail.\nAfter establishing EP 510 or 511, the RO\nprocesses the action mail, and\nuploads the mail packet into the appropriate eFolder in VBMS.\nReference\n:  For more information on establishing EPs in VBMS, see\nM21-1, Part II, Subpart iii, 3.A.1.d\n.\ncongressional FOIA/PA request is received through the CM portal\ndownloads the request from the portal and saves it in the portable document format (PDF)\ne-mails the request to\nVAVBASTL/RMC/CONGRESSIONAL\n, and\nuploads the request into the appropriate eFolder in VBMS.\nNote\n:  The CM portal does not normally contain congressional FOIA/PA requests.  RO Congressional Liaisons may refer congressional staff to RMC for qualifying requests.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section D - Handling Specific Types of Mail",
+  "citation": "Part II, Subpart i, Chapter 2, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174861/M21-1-Part-II-Subpart-i-Chapter-2-Section-D-Handling-Specific-Types-of-Mail",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:41.130344",
+  "tags": [
+    "m21-1"
+  ]
+}

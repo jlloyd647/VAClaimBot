@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_ii_1_A_33",
+  "content": "/>\nVII.ii.1.A.4.e\n.\nAlerts for Failure of System-Generation of a Notice\nUnder certain circumstances, system-generation of the notice of potential entitlement to benefits based on school attendance fails.  When this occurs, generation of an 800 series work item alerts claims processors of the failure.  The message code for this work item is 820\n882G, Age 18 School Letter Not Sent\n.\nNote\n:  820\n882G, Age 18 School Letter Not Sent\n, is the 800 series work item label assigned to the system failure\nregardless\nof which age-specific notice failed to generate.  Claims processors must review the beneficiary’s record to determine which specific notice should have been generated.\nReference\n:  For more information on 800 series work items, see\nM21-4, Appendix B\n, and\nShare User Guide\n.",
+  "title": "M21-1, Part VII, Subpart ii, Chapter 1, Section A - Benefit Entitlement for School Children",
+  "citation": "Part VII, Subpart ii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176630/M21-1-Part-VII-Subpart-ii-Chapter-1-Section-A-Benefit-Entitlement-for-School-Children",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:54:07.851521",
+  "tags": [
+    "m21-1"
+  ]
+}

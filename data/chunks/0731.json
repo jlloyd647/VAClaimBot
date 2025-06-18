@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_4_A_29",
+  "content": "/>\nII.iii.4.A.4.b\n.\nIdentifying Claims Submitted Through VA Claims Submission Service Websites\nVA.gov will assign applications claim attributes based on the claim type.\nUse the table below to assist with identifying applications submitted via VA.gov.\nIf the online submission is a(n) ...\nThen the application will have the following identifying attributes\n...\ninitial compensation claim\nan\nElectronic Submission\nwatermark in the upper left corner of every page\nEVSS\nlisted as the SYSTEM SOURCE in the document properties, and\nan\neBenefits\nclaim label.\nNote\n:  The following elements of the application will be provided to the claimant during the claims submission process but will not be part of the submitted form:\na\npplication instructions\nFully Developed Claim information, or\nWhat The Evidence Must Show pages.\nsupplemental claim for compensation benefits\nan\nElectronic Submission\nwatermark in the upper left corner of every page\nSMS\nlisted as the SYSTEM SOURCE in the document properties, and\ntwo separate date stamps from both the CM portal\nand\nVA.gov.\nNote\n:  The claimant’s acknowledgement of Section 5103 notice will be reflected on the generated\nVA Form 20-0995\n.\npension, or\nburial application\nan\nElectronic Submission\nwatermark in the upper left corner of every page, and,\ntwo separate date stamps from both the CM portal\nand\nVA.gov\n.\nImportant\n:  The actual date of VA receipt of the application is based on the VA.gov or Vets.gov electronic date stamp and\nnot\nthe CM date stamp.\nReference\n:  For more information on VBMS document properties, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 4, Section A - The Veterans Online Application (VONAPP) Direct Connect (VDC) Program and Department of Veterans Affairs (VA) Claims Submission Service Websites",
+  "citation": "Part II, Subpart iii, Chapter 4, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174883/M21-1-Part-II-Subpart-iii-Chapter-4-Section-A-The-Veterans-Online-Application-VONAPP-Direct-Connect-VDC-Program-and-Department-of-Veterans-Affairs-VA-Claims-Submission-Service-Websites",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:14:17.341260",
+  "tags": [
+    "m21-1"
+  ]
+}

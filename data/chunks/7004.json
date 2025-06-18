@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_C_9",
+  "content": "/>\nX.i.6.C.1.d\n.\nActions to Take in VBMS When Required Development Actions Are Complete\nAfter all development actions are complete, the intake site must\nensure that the contract examination in VBMS shows a status of\nAcknowledgement: Received from Vendor\nfor all requested examinations\nensure all pending tracked items have the proper suspense dates\nupdate tracked items according to\nM21-1, Part III, Subpart i, 2.F.3\nchange the diary EP 336 to the proper rating EP and\nBDD\nclaim label, as noted in\nM21-1, Part X, Subpart i, 6.B.2.d\n, and\nensure the claim is in open status unless the claim has already been determined to be RFD.\nNotes\n:\nAfter the above actions have been completed, NWQ will route the claim to the proper location for further processing.\nIt is not necessary to wait for evidence to be uploaded into the eFolder prior to performing the above actions if\nexaminations do not require an eFolder review, and\nall development actions have been completed.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section C - Division of Responsibilities – Benefits Delivery at Discharge (BDD) and BDD-Excluded Claims",
+  "citation": "Part X, Subpart i, Chapter 6, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177951/M21-1-Part-X-Subpart-i-Chapter-6-Section-C-Division-of-Responsibilities-Benefits-Delivery-at-Discharge-BDD-and-BDD-Excluded-Claims",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:51.791303",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_A_24",
+  "content": "/>\nII.iii.2.A.2.d\n.\nIdentifying ITFs Received Electronically or By Employees\nAs noted in\nM21-1, Part II, Subpart iii, 2.A.2.a\n, ITFs submitted electronically through a VA claims submission service website or those communicated directly to a call center, VSC, PMC, or fiduciary employee will not be recorded on\nVA Form 21-0966\n.\nRather, the receipt of ITF will be reflected\nin the corporate record on the VBMS INTENT TO FILE screen, and\nby the Hines ITC generated letter available for review in the eFolder.\nThus, it is necessary to review the VBMS INTENT TO FILE screen to ensure that all ITFs are considered for the purpose of assigning correct effective dates for claims.\nFollow the steps in the table below to locate ITF information in VBMS.\nStep\nAction\n1\nOpen the Veteran’s VBMS profile by entering the file number in the search bar and selecting OPEN PROFILE.\n2\nClick on the VETERAN tab and select\nIntent To File\nfrom the drop-down menu.  The INTENT TO FILE screen will display.\nExample\n:\n3\nClick the STATUS drop-down menu in the top right corner and select\nAll\nto show all receipts of ITF.\nExample\n:\nReference\n:  For more information on entering and viewing ITF information in VBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section A - Intent to File (ITF)",
+  "citation": "Part II, Subpart iii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:12:24.433955",
+  "tags": [
+    "m21-1"
+  ]
+}

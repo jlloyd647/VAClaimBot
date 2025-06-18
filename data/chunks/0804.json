@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_1_B_24",
+  "content": "/>\nIII.i.1.B.3.c\n.\nVADIR Data on the VID Tab in Share\nVA has a link to access a Veteran’s military history information from VA/DoD Identity Repository (VADIR).  The information obtained from VADIR is considered an electronic\nDD Form 214\n, and is acceptable for verification of service, COD, and separation reason.\nThe information retrieved from VADIR is identical to the information accessible in VIS, and can be viewed in VIS.\nNotes\n:\nIf there are discrepancies between the information displayed in VIS and evidence provided by the service member pertaining to the dates of service or COD, develop for the\nDD Form 214\n.\nFor reservists and National Guard members, a\nDD Form 214\nis filed for each segment of active duty.  VIS will display the dates a reservist or National Guard member entered and exited active duty with the same unit.  VIS will\nnot\ndisplay dates for activation within a unit.\nFor retirees, a known discrepancy exists in VIS showing a one day difference between the RAD provided by VIS and the RAD on the\nDD Form 214\n.  The RAD data in VIS is the last day the service member is paid by the military.  To arrive at the same separation date shown on a retiree’s\nDD Form 214\n, add one day to the RAD date displayed in VIS.\nData in VIS concerning return to active duty may be inconsistent, as discussed in\nM21-1, Part X, Subpart v, 2.B.1.b\n.\nReferences\n:  For more information on\nVeterans’ identification data available in Share, see the\nShare User Guide\nusing VIS, see the\nVIS User Guide\n, and\nservice department records for verifying periods of active duty for training and inactive duty for training, see\nM21-1, Part III, Subpart i, 1.A.2.e\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 1, Section B - Service Requirements and Verification of Eligibility",
+  "citation": "Part III, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181425/M21-1-Part-III-Subpart-i-Chapter-1-Section-B-Service-Requirements-and-Verification-of-Eligibility",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:14:48.408182",
+  "tags": [
+    "m21-1"
+  ]
+}

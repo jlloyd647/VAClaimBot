@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_A_16",
+  "content": "/>\nIX.iii.1.A.2.d\n.\nAction to Take When the Social Security Rate Reported by the Beneficiary Is Different Than the Social Security Rate in VBMS\nUse the table below to determine the action to take when the Social Security rate reported by the beneficiary is different than the Social Security rate found within the SSA Inquiry in the Veterans Benefits Management System (VBMS).\nIf the Social Security rate reported by the beneficiary is …\nThen …\nlower than the verified rate\ncalculate IVAP based on the verified Social Security rate, and\nfollow the due process procedures in\nM21-1, Part X, Subpart ii, 3.A.4\nunless the award\nis an original award\nis a running award already based on the verified Social Security rate, or\nresults in no reduction in pension due to other income considerations such as medical expenses.\nhigher than the verified rate\nuse the rate reported by the beneficiary to compute IVAP, and\ninform the beneficiary\nthat the reported Social Security rate was counted\nof the discrepancy with information reported from SSA, and\nof the appropriate standard form for reporting an income change.\nReference\n:  For more information on standard forms for income changes, see\nM21-1, Part IX, Subpart i, 3.B.2\n.\nReference\n: For more information on accessing Social Security rates through VBMS, see\nM21-1, Part IX, Subpart iii, 1.B.3.a\n.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section A - General Information on the Effect Income and Net Worth Have on Pension and Parents’ Dependency and Indemnity Compensation (DIC)",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177516/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-A-General-Information-on-the-Effect-Income-and-Net-Worth-Have-on-Pension-and-Parents-Dependency-and-Indemnity-Compensation-DIC",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:39.896908",
+  "tags": [
+    "m21-1"
+  ]
+}

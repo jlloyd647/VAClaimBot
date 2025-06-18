@@ -1,0 +1,12 @@
+{
+  "chunk_id": "I_ii_1_B_16",
+  "content": "/>\nI.ii.1.B.2.h\n.\nWhen a Claim Is Assigned to the Wrong PMC\nIf a claim is assigned to the wrong PMC due to the erroneous use of a claim attribute such as a contention classification or special issue, correcting the attribute (e.g., special issue) will enable NWQ to recall and redistribute the claim to the correct PMC.\nIf the claim type is not managed by NWQ (for example, EP 400s and EP 500s), manually broker the claim to the correct PMC.  Brokered claims will still need the\nBurial/DIC Entitlement Issue\nspecial issue if it falls under Philadelphia PMC jurisdiction.\nReference\n:  For more information on how to determine which PMC to manually broker EPs not managed by NWQ, see\nM21-1, Part I, Subpart ii, 1.B.2\n.",
+  "title": "M21-1, Part I, Subpart ii, Chapter 1, Section B - Organization of the Pension Management Centers (PMCs)",
+  "citation": "Part I, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181483/M21-1-Part-I-Subpart-ii-Chapter-1-Section-B-Organization-of-the-Pension-Management-Centers-PMCs",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:09:08.509548",
+  "tags": [
+    "m21-1"
+  ]
+}

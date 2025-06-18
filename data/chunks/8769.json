@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_iii_1_D_9",
+  "content": "/>\nXI.iii.1.D.1.e\n.\nIssuing Certificates and Avoiding Duplication\nUse the PRESIDENTIAL MEMORIAL CERTIFICATE screen in Share when issuing a Certificate.  This screen may be accessed\nduring claims establishment\nduring first notice of death (FNOD) processing, or\nby using the PRESIDENTIAL MEMORIAL CERTIFICATE command.\nOnly complete the PRESIDENTIAL MEMORIAL CERTIFICATE screen once when a date of death is entered during claims establishment or FNOD processing to avoid sending more than one certificate.\nUse the table below to avoid inappropriately issuing multiple Certificates.\nIf …\nThen …\nthe Veteran had a running award at the time of death\nassume that a Certificate has\nnot\nalready been issued, and\nissue the Certificate.\nthe date of death is not in BIRLS, and\nservice is verified in BIRLS\nassume that a Certificate has\nnot\nbeen issued, and\nissue the Certificate.\nthe date of death is not in BIRLS, and\nservice is not verified in BIRLS\nassume that a Certificate has\nnot\nbeen issued, and\nif evidence is available to verify service, issue the Certificate.\nIf evidence is not available to verify service, forward the request to NCA at:\nMemorial Programs Service (41A1)\nDepartment of Veterans Affairs\n5109 Russell Road\nQuantico, VA  22134-3903\nOr fax requests to NCA at 1-800-455-7143.\nReferences\n:  For more information on\nShare, see the\nShare User Guide\n, and\nrequests for multiple Certificates, see\nM21-1, Part XI, Subpart iii, 1.D.1.i\n.",
+  "title": "M21-1, Part XI, Subpart iii, Chapter 1, Section D  - Memorialization",
+  "citation": "Part XI, Subpart iii, Chapter 1, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174203/M21-1-Part-XI-Subpart-iii-Chapter-1-Section-D-Memorialization",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:21:51.662441",
+  "tags": [
+    "m21-1"
+  ]
+}

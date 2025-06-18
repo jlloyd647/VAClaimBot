@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_D_39",
+  "content": "/>\nIX.iii.1.D.3.d\n.\nExample:  Calculating Proportionate IVAP\nSituation\n:  A parent files a claim for Parents’ DIC on September 29, 2005.  As of September 29, there are 94 days left in the calendar year.  The parent expects to receive $1,200 in retirement income during the remainder of the calendar year.\nCalculation\n:  The table below outlines the steps for calculating the parent’s proportionate IVAP.\nStep\nCalculation\nDescription\n1\n$1,200\nx $0.9\n$1,080\nParent’s retirement income\n90 cents on the dollar\nIVAP from effective date to end of year\n2\n$1,080\nx 365\n$394,200\nIVAP\nTotal number of days in the calendar year\n3\n$394,200\n/ 94\n$4,193\nResult from Step 2\nDivide by number of days remaining in the calendar year and drop the cents\nProportionate IVAP\nNote\n:\nHistorical M21-1, Part I, Appendix C, Table P\n, may be used for these calculations.  In the example above, the factor for September 29 (3.8829) is multiplied by IVAP from the effective date until the end of the calendar year ($1,080).  The end result is the same, a proportionate IVAP of $4,193.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section D - Parents’ Dependency and Indemnity Compensation (DIC) Authorization",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177519/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-D-Parents-Dependency-and-Indemnity-Compensation-DIC-Authorization",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:08.050832",
+  "tags": [
+    "m21-1"
+  ]
+}

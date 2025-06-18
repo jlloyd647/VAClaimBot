@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_D_33",
+  "content": "/>\nII.i.2.D\n.7.a\n.\nProcedures for Routing Mail to Other Business Lines\nUse the table below to determine the proper procedure for routing mail to other business lines.\nBusiness Line\nRouting Procedures\nEducation Service\nUse Education Service’s\njurisdiction map\nto determine which regional processing office (RPO) has jurisdiction, based on the claimant’s address; then reassign the mail to that RPO’s queue in the CM portal.\nInsurance Service\nReassign mail to the\nInsurance Mail\nqueue in the CM portal.\nLoan Guaranty Service\nUse functionality within the CM portal to\ndownload the mail, and\nsave the mail as a PDF file.\nE-mail the PDF file (using appropriate encryption) to\nLGY.LPNATIONAL@va.gov\n.\nVeteran Readiness and Employment (VR&E) Service\nReassign mail to the appropriate VR&E mail queue in the CM portal.\nSupport Services Division (SSD)/finance activity\nReassign all SSD/finance activity-related mail to the appropriate SSD mail queue in the CM portal.\nVeterans Health Administration (VHA)\nHandle mail received for a VHA facility in accordance with local policy.\nNational Cemetery Administration\nFax claims, such as a\nVA Form 40-1330\n,\nClaim for Standard Government Headstone or Marker\n, and supporting documentation to 1-800-455-7143 or mail them to\nMemorial Programs Service (41B)\nDepartment of Veterans Affairs\n5109 Russell Road\nQuantico, VA 22134-3903.\nImportant\n:  When faxing more than one claim, fax each claim package (claim plus supporting documentation) individually (disconnect the call and redial for each submission).",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section D - Handling Specific Types of Mail",
+  "citation": "Part II, Subpart i, Chapter 2, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174861/M21-1-Part-II-Subpart-i-Chapter-2-Section-D-Handling-Specific-Types-of-Mail",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:41.130344",
+  "tags": [
+    "m21-1"
+  ]
+}

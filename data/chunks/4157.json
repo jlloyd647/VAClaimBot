@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_B_7",
+  "content": "/>\nVI.ii.4.B.1.b\n.\nConfirming the Retired Pay Indicator Is Active\nWhen processing an award to a Veteran whose service department awarded or will award MRP, confirm that the retired pay indicator is active by selecting the RETIRED PAY tab on the MILITARY PAYMENT INFORMATION screen in the award-processing system.\nIf data regarding the Veteran’s MRP is displayed on the RETIRED PAY tab, and at least one entry under the RETIRED PAY TYPE field is\nother than\nDMDC, the retired pay indicator is\nactive\n.\nIf\nno\nMRP data is displayed on the RETIRED PAY tab, activate the indicator by following the instructions in\nM21-1, Part VI, Subpart ii, 4.B.1.c\n.\nNote\n:  Once the retired pay indicator is activated, a banner reflecting receipt of retired pay will be displayed in the Veterans Benefits Management System – Awards (VBMS-A).\nReference\n:  For information on using\nVBMS-A, see the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section B - Preparing and Adjusting Awards in Military Retired Pay (MRP) Cases",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179488/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-B-Preparing-and-Adjusting-Awards-in-Military-Retired-Pay-MRP-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:18.975843",
+  "tags": [
+    "m21-1"
+  ]
+}

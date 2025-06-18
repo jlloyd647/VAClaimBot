@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_i_2_C_6",
+  "content": "/>\nIV.i.2.C.1.a\n.\nDetermining the Appropriate Suspense Date for Examinations\nThe initial suspense date of the pending end product (EP) is established automatically based on the suspense reason selected in the Veterans Benefits Management System (VBMS).\nIf the examination has not been completed once the suspense date matures,\nreview the status in the\nCompensation and Pension Record Interchange (CAPRI), or\nappropriate contract vendor customer service portal, and\nupdate the suspense date based on the anticipated completion date of the examination.\nNote\n:  Contract examination scheduling requests (ESRs) prepared in VBMS, once accepted by the scheduling activity, will automatically generate corresponding tracked items that\ninitially reflect 30-day suspense dates, and\nautomatically update based on scheduling, modification, cancellation, and/or completion of individual examination appointment(s).\nReferences\n:  For more information on\nhow to receive automated e-mail notifications when examinations requested through CAPRI are completed or canceled, see the\nGuide for Updating Forwarding E-mail Addresses in CAPRI\ncontract examination vendor customer service portals, see the\nExam Liaison Resource\npage, and\nVBMS examination management tracked items and suspense dates, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part IV, Subpart i, Chapter 2, Section C - Control of Examinations",
+  "citation": "Part IV, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180502/M21-1-Part-IV-Subpart-i-Chapter-2-Section-C-Control-of-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:55.563613",
+  "tags": [
+    "m21-1"
+  ]
+}

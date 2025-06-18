@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XII_i_1_A_11",
+  "content": "/>\nXII.i.1.A.1.f\n.\nAction to Take if Payment of DIC Is Pending Verification of Pay Grade Data\nUse the table below to determine the action to take concerning payment of DIC when receipt of pay grade data is pending.\nIf …\nThen …\nthe Veteran died before January 1, 1993\nthere is a reasonable probability that the Veteran’s death is SC, and\nDIC will be payable to a surviving spouse\ninitiate a PIES request to obtain pay grade data before sending the claim to the rating activity.\ndeath is subsequently held to be SC\ndo\nnot\ndefer award action pending receipt of pay grade data certification\naward benefits at the minimum DIC rate, if otherwise in order, subject to a possible increase upon receipt of the response to the PIES request\nnotify the surviving spouse accordingly, and\nmaintain a 60-day control under end product (EP) 290.\nDD Form 214\nis of record\naward DIC at the rate provided for the pay grade shown on the\nDD Form 214\n, and\ndo not verify the pay grade unless\ninformation in the folder raises doubt\nthere is the possibility of certification of a higher pay grade under\n38 U.S.C. 1302(d)\nbased on a prior period of service, or\nthe payee specifically requests verification.\nthe Veteran died after December 31, 1992\nverification of pay grade is not required, and\nDIC should be awarded at the rates provided under\n38 U.S.C. 1311\n.",
+  "title": "M21-1, Part XII, Subpart i, Chapter 1, Section A - Overview of Dependency and Indemnity Compensation (DIC)",
+  "citation": "Part XII, Subpart i, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175201/M21-1-Part-XII-Subpart-i-Chapter-1-Section-A-Overview-of-Dependency-and-Indemnity-Compensation-DIC",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:22:00.919352",
+  "tags": [
+    "m21-1"
+  ]
+}

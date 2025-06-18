@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_F_20",
+  "content": "/>\nII.iii.2.F.3.b\n.\nProcessing a Request for Withdrawal of an Initial Claim When the Request Does Not Apply to All Pending Contentions\nFollow the instructions in the table below when\na claimant requests withdrawal of an initial claim with multiple pending contentions\nthe claimant is\nnot\nwithdrawing the claim in its entirety and has differentiated between which contentions are still active and which contentions they wish to withdraw, and\nVA associates the request with the claims folder\nbefore\nit generates a decision notice regarding the claim.\nImportant\n:  If the claimant wishes to withdraw a decision review request, such as a supplemental claim, follow the guidance in\nM21-5, Chapter 4, Topic 4\n.\nStep\nAction\n1\nAdd the following text to the name of each contention listed in VBMS that the claimant withdrew: (\nwithdrawn\n[Enter the month, day, and year VA received the request for withdrawal]\n)\nGo to Step 4.\nExample\n:  back condition (withdrawn 05/22/2015)\nReference\n:  For more information on editing contentions in VBMS, see the\nVBMS Core User Guide\n.\n2\nNotify the claimant of the action taken by following the instructions in\nM21-1, Part II, Subpart iii, 2.F.3.c\n.\n3\nComplete all development actions that are necessary to make a decision on the contentions the claimant did\nnot\nwithdraw.\n4\nMake a decision on the contentions the claimant did\nnot\nwithdraw.\nImportant\n:  If a rating decision is required,\ndo\nnot\ninclude the withdrawn contentions as issues in the rating decision\nensure the withdrawn contentions do not appear on the\nCodesheet\nof the rating decision as deferred issues, and\nleave a note in the\nSpecial Notation\nbox of the rating decision that\nprovides the date VA received the request for withdrawal, and\nlists the contentions the claimant withdrew.\n5\nFollow the instructions in\nM21-1, Part VI, Subpart i, 1.B\nfor notifying the claimant of the decision.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section F - Withdrawal of Initial Claims",
+  "citation": "Part II, Subpart iii, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174878/M21-1-Part-II-Subpart-iii-Chapter-2-Section-F-Withdrawal-of-Initial-Claims",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:13:15.760646",
+  "tags": [
+    "m21-1"
+  ]
+}

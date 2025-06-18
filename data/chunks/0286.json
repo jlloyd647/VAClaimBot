@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_B_9",
+  "content": "/>\nII.i.2.B.1.d\n.\nDate of Receipt for Mail Processed in the CM Portal\nDate of receipt for mail routed through the CM portal is determined by the\nearliest\nofficial date\nstamped by the RO upon receipt and prior to forwarding to the scanning vendor\napplied to the converted image by the scanning vendor for mail it received directly, or\nfound on documents such as\nVA Form 27-0820,\nReport of General Information\n, or faxes.\nNotes\n:\nThe date of receipt used by the scanning contractor and displayed in the portal generally reflects the earliest date of receipt.\nIf an earlier date of receipt is discovered, edit the document properties in the VBMS claims folder.\nReference\n:  For more information on editing document properties in VBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section B - Recording the Date of Receipt and Handling Signatures and Outdated Forms",
+  "citation": "Part II, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174859/M21-1-Part-II-Subpart-i-Chapter-2-Section-B-Recording-the-Date-of-Receipt-and-Handling-Signatures-and-Outdated-Forms",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:20.524786",
+  "tags": [
+    "m21-1"
+  ]
+}

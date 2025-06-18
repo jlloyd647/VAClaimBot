@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIII_i_5_B_22",
+  "content": "/>\nXIII.i.5.B.3.g\n.\nNotifying the VR&E Activity of Changes to the Veteran’s Disability Evaluation\nNotify the VR&E activity of a rating decision that effectuates any of the following outcomes for a Veteran currently participating in a VR&E evaluation or program:\nimplements a final determination of SC when only a memorandum rating decision for VR&E purposes is otherwise of record\nawards entitlement to individual unemployability benefits, or\nreduces the evaluation of or severs entitlement to an SC disability.\nThe table below describes the process for preventing improper payments and ensuring more timely notification to the VR&E activity.\nStage\nWho Is Responsible\nDescription\n1\nrating activity\nSearches the corporate record to determine if the Veteran has an active Chapter 31 flash.\n2\nrating activity\nUpon discovery of such a flash, alerts authorization activity of the existence of an active Chapter 31 flash according to locally defined procedures  (such as a special notation on the rating or an e-mail).\n3\nauthorization activity\nSends an encrypted e-mail to the VR&E office of jurisdiction to inform the office of the new rating decision in the eFolder.\nNote\n:  The e-mail must include the\nname and claim number of the Veteran or service member, and\ndate of the new rating decision.\nReference\n:  For more information on e-mail addresses for individual VR&E offices, see the table in\nM21-1, Part XIII, Subpart i, 5.B.3.d\n.\n4\nauthorization activity\nEnters a note in VBMS, documenting the action and the date it was taken.\nNote\n:  The VR&E activity will establish internal procedures to route the notifications to the appropriate VR&E case worker.",
+  "title": "M21-1, Part XIII, Subpart i, Chapter 5, Section B - Memorandum Vocational Rehabilitation/Employment (VR&E) Ratings",
+  "citation": "Part XIII, Subpart i, Chapter 5, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173834/M21-1-Part-XIII-Subpart-i-Chapter-5-Section-B-Memorandum-Vocational-RehabilitationEmployment-VRE-Ratings",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:28:02.288243",
+  "tags": [
+    "m21-1"
+  ]
+}

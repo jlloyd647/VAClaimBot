@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_4_A_15",
+  "content": "/>\nII.iii.4.A.2.c\n.\nVBMS Exclusions on VDC Claims\nVDC does not screen claims to determine if they meet VBMS claims processing criteria.  If VDC establishes a claim in VBMS that is an exclusion identified in\nM21-1, Part II, Subpart iii, 3.A.1\n, process the claim using legacy systems as needed and upload legacy system-generated documents to the electronic claims folder (eFolder).",
+  "title": "M21-1, Part II, Subpart iii, Chapter 4, Section A - The Veterans Online Application (VONAPP) Direct Connect (VDC) Program and Department of Veterans Affairs (VA) Claims Submission Service Websites",
+  "citation": "Part II, Subpart iii, Chapter 4, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174883/M21-1-Part-II-Subpart-iii-Chapter-4-Section-A-The-Veterans-Online-Application-VONAPP-Direct-Connect-VDC-Program-and-Department-of-Veterans-Affairs-VA-Claims-Submission-Service-Websites",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:14:17.341260",
+  "tags": [
+    "m21-1"
+  ]
+}

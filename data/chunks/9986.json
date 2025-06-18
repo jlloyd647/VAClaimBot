@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_4_C_9",
+  "content": "/>\nXIV.4.C.1.d\n.\nHines ITC Filtering of Matches\nPrior to releasing PAAs to the PMCs, Hines ITC will exclude the matches in which the\nbeneficiary is deceased\nmedical expenses of record exceed the higher of either the\ntotal income of record in the corporate record, or\ntotal countable FTI\nbenefit was discontinued for the full calendar year matched\ntotal income of record for the year matched in the corporate record is greater than the total countable FTI\ntotal income in the corporate record for the matched year is $0 and the total countable FTI is $0\ntotal countable FTI exceeds the income in the corporate record, for the same year, by $100 or less, or\nfollowing three statements are true\nvalue listed in the NET WORTH field in the corporate record is $0\nthe total income reported on\nIRS Form 1099-INT, Statement for Recipients of Interest Income\n, is less than or equal to $100, and\nthe medical expenses of record exceed the greater of income in the corporate record or total countable FTI.\nException\n:  Hines ITC will not exclude those cases identified for a substantial net worth discrepancy in which medical expenses exceed the greater income.",
+  "title": "M21-1, Part XIV, Chapter 4, Section C - Federal Tax Information (FTI) Match:  Post Award Audit (PAA) for Pension and Parents' Dependency and Indemnity Compensation (DIC) Beneficiaries",
+  "citation": "Part XIV, Chapter 4, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173313/M21-1-Part-XIV-Chapter-4-Section-C-Federal-Tax-Information-FTI-Match-Post-Award-Audit-PAA-for-Pension-and-Parents-Dependency-and-Indemnity-Compensation-DIC-Beneficiaries",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:32:31.445528",
+  "tags": [
+    "m21-1"
+  ]
+}

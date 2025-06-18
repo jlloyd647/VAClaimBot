@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_D_12",
+  "content": "/>\nIII.ii.2.D.3.a\n.\nFollowing Up on PIES Requests for Records Held by NPRC\nExcept as noted in\nM21-1, Part III, Subpart ii, 2.D.3.c\n, users may determine the status of any requests they previously submitted\nfor records held by NPRC\n(PIES address code 13) by viewing the status codes that PIES displays for each request.  Once the VALO at NPRC responds to a request, the overall status of that request changes to\nCO\n(\nc\nlosed\no\nut).\nAfter the PIES request has been submitted, any claims processor may send a follow-up e-mail to the VALO staff at the\nVAVBASTL/RO/LNO\nmailbox if the PIES request:\nremains in an\nIncomplete\nor\nSubmitted\nstatus after 45 days, or\nhas been completed for at least 15 days, but the records are not available in VBMS.\nImportant\n:  Include a copy of the communication to and responses from the VALO staff in the claims folder to prevent duplicate development by claims processors assigned the claim after the initial follow-up has been sent.  Do not send additional follow-up requests.  Update tracked item suspense dates while the request is pending following standard time frames unless specifically directed by the VALO or Compensation Service staffs.\nException\n:  When following up on PIES requests for records that require priority handling, see\nM21-1, Part III, Subpart ii, 2.D.1.a\n.\nReference\n:  For more information on PIES, see the\nPIES User Guide\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section D - Control and Follow-Up of Requests for Service Records",
+  "citation": "Part III, Subpart ii, Chapter 2, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014116/M21-1-Part-III-Subpart-ii-Chapter-2-Section-D-Control-and-Follow-Up-of-Requests-for-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:22.481948",
+  "tags": [
+    "m21-1"
+  ]
+}

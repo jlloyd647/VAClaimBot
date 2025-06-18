@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_C_14",
+  "content": "/>\nII.i.2.C.2.f\n.\nHandling Unidentified Mail\nIf a return address exists for mail that does not reference a Veteran or cannot be associated with a Veteran because the mail does not contain sufficient information to allow for accurate identification\ndownload and print the mail from the CM portal\nreturn the mail to the sender, and\nask the sender to\nidentify the Veteran to whom the mail refers, and/or\nprovide sufficient information (claim number, Social Security number (SSN), branch of service, dates of service, etc.) to allow VA to identify the Veteran within its systems of record.\nIf\nno return address exists\n, follow the instructions in\nM21-1, Part II, Subpart i, 2.C.5\nfor handling\nunidentifiable\nmail.\nImportant\n:  The mail packet must be uploaded to the CM unidentifiable mail queue in either scenario.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section C - Mail Management",
+  "citation": "Part II, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174860/M21-1-Part-II-Subpart-i-Chapter-2-Section-C-Mail-Management",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:30.870043",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_2_C_5",
+  "content": "/>\nXIV.2.C.1.a\n.\nOverview of the Verification Process\nEach month, the Department of Veterans Affairs (VA) runs a computerized records-matching program that compares the Social Security numbers (SSNs) associated with 25 percent of all VA file numbers with the SSNs in Social Security Administration (SSA) records.  By doing so, VA is able to check the accuracy of the SSNs associated with all file numbers three times each year.\nWhen verification of an SSN is\nsuccessful\n,\ncomputer programming automatically initiates the entry of\nY\nin the SSN – VERIFIED field in the Beneficiary Identification and Records Locator Subsystem (BIRLS), and\nno regional office (RO) action is required.\nWhen verification of an SSN is\nunsuccessful\n,\nthe Veterans Benefits Management System (VBMS) generates a work item that is distributed by the National Work Queue, and\nthe station of origination must take the actions described in\nM21-1, Part XIV, 2.C.2\n.\nReference\n:  For more information on SSN verification codes in the corporate record, see\nM21-1, Part XIV, 2.C.4\n.",
+  "title": "M21-1, Part XIV, Chapter 2, Section C - Social Security Number (SSN) Verification",
+  "citation": "Part XIV, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173304/M21-1-Part-XIV-Chapter-2-Section-C-Social-Security-Number-SSN-Verification",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:31:54.224176",
+  "tags": [
+    "m21-1"
+  ]
+}

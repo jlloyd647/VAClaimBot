@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_1_B_14",
+  "content": "/>\nII.ii.1.B.2.b\n.\nRO Action When Two BIRLS Records Exist for the Same Veteran\nAfter discovering that two BIRLS records exist for the same Veteran, forward all corresponding documentation, including claims folders and applications, if applicable, to the local intake processing center (IPC).\nThe IPC is responsible for consolidating the records.  This is accomplished by using the duplicate claim (DUPC) command, which users access through the Benefits Delivery Network (BDN).\nExceptions\n:\nDo\nnot\nforward finance activity records to the IPC.\nCompensation Service will perform the consolidation if the claims folder is located at folder location 376 or 101-ICMHS.  The IPC is responsible for preparing the records for consolidation, following the instructions in\nM21-1, Part II, Subpart ii, 1.B.2.c\n.\nReference\n:  For more information about using the DUPC command, see\nthe\nBDN DUPC Job Aid\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 1, Section B - Lost Paper Claims Folders and Reconciliation of Duplicate Records",
+  "citation": "Part II, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174864/M21-1-Part-II-Subpart-ii-Chapter-1-Section-B-Lost-Paper-Claims-Folders-and-Reconciliation-of-Duplicate-Records",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:01.660879",
+  "tags": [
+    "m21-1"
+  ]
+}

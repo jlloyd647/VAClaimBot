@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_C_15",
+  "content": "/>\nXI.i.1.C.2.d\n.\nErroneous Date of Death Later Than the Correct MOD and Benefit Checks Are Not Returned\nFollow the steps in the table below if the\nFNOD is completed with a date of death that is later than the correct MOD, and\nVeteran’s benefit checks are\nnot\nreturned.\nStep\nAction\n1\nDetermine how much of an overpayment would have been created by entering the correct date of death.\n2\nSend an\nOF 41\nto the finance activity that\nexplains that the overpayment resulted from an erroneous date of death in the system, and\nrequests a fiscal transaction to establish the accounts receivable.\n3\nComplete a BIRLS UPDATE to correct the date of death in BIRLS.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section C  - Errors During Notice of Death (NOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174195/M21-1-Part-XI-Subpart-i-Chapter-1-Section-C-Errors-During-Notice-of-Death-NOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:22.881307",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_2_F_23",
+  "content": "/>\nIII.i.2.F.3.c\n.\nTracked Item Dispositions\nTracked items must be updated with the appropriate date and disposition to reflect the status of the corresponding request or development action.  Use the table below to determine the appropriate date and disposition to use when updating tracked items.\nTracked Item Disposition\nDescription\nReceived\nUse this when requested information/evidence is received or a negative response from the information/evidence provider is received.  For a negative response, create a system note to communicate this information.\nClosed\nUse this to administratively close a tracked item for non-receipt. Generally, the earliest date an item can be closed is upon determining that the suspense date has expired and the timeframe given for a response has elapsed. This includes any necessary follow-ups.\nNote\n:  If a tracked item is closed due to non-receipt but the evidence is received later, while the claim is still pending, the new “received” date will supersede the prior “closed” date.\nIn Error\nUse this to administratively close tracked items that were erroneously created or evidence that was requested in error.\nFollow Up 1\nor\nFollow Up\nUse this to track the date evidence was requested for a second time.\nFollow Up 2\nor\n2ndFlwUp\nUse this to track the date evidence was requested for a third time.\nReferences\n:  For more information on\nmanaging tracked item dispositions in\nVBMS, see the\nVBMS Core User Guide\n, and\nprocessing solicited and unsolicited mail, see\nM21-1, Part II, Subpart i, 2.A.1.d\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 2, Section F - Record Maintenance During the Development Process",
+  "citation": "Part III, Subpart i, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000046277/M21-1-Part-III-Subpart-i-Chapter-2-Section-F-Record-Maintenance-During-the-Development-Process",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:17.270964",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VIII_iv_3_D_8",
+  "content": "/>\nVIII.iv.3.D.1.c\n.\nAutomated Monitoring for Income of Veterans in Receipt of IU\nVeterans in receipt of IU are monitored for receipt of earned income by an SSA data match.  The table below describes the automated monitoring process.  When the automated process cannot occur, refer to\nM21-1, Part VIII, Subpart iv, 3.D.1.d\nfor procedures to follow.\nStep\nAction\n1\nUpon receipt of wage files from SSA, Hines ITC will run a data match to identify those Veterans receiving IU who are shown to have verified earned income over the poverty line.\n2\nHines ITC will automatically generate and send a notice of proposed adverse action letter with an attached\nVA Form 21-4140\nand\nVA Form 21-4138\nto the identified Veterans.\n3\nHines ITC will\nbatch establish an end product (EP) 600 with the claim label\nPredetermination – Rating Issue\nto control for the return of\nVA Form 21-4140\nand the due process period\nset a suspense date for 65 days from the month the due process letter is issued by Hines ITC, and\nadd the special issue\nAnnual Eligibility Report\nto each claim in the batch process.\nImportant\n:  Claims processors should add this special issue flash if it was not automatically added by Hines ITC.\n4\nUpon expiration of the suspense date, refer to\nM21-1, Part VIII, Subpart iv, 3.D.2\nfor actions to take based on receipt or non-receipt of\nVA Form 21-4140\n.",
+  "title": "M21-1, Part VIII, Subpart iv, Chapter 3, Section D - Monitoring Income for Veterans in Receipt of Individual Unemployability (IU)",
+  "citation": "Part VIII, Subpart iv, Chapter 3, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177477/M21-1-Part-VIII-Subpart-iv-Chapter-3-Section-D-Monitoring-Income-for-Veterans-in-Receipt-of-Individual-Unemployability-IU",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:02:38.376371",
+  "tags": [
+    "m21-1"
+  ]
+}

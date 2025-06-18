@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_B_30",
+  "content": "/>\nX.i.6.B.3.h\n.\nActions to Take for Claims Filed More Than 180 Days Prior to Discharge\nIf a service member files a claim more than 180 days before discharge, the intake site is responsible for\nestablishing a\nnon\n-BDD EP 400 and processing the claim outside of the BDD program\ndenying the service member’s claim using the\nOn Active Duty\ndrop-down selection on the BASIC ELIGIBILITY tab in VBMS-Awards\nnotifying the service member of the reason for the denial by sending the\nNon-BDD Claim – Request Resubmission\nletter (using the BDD exclusion reason “More than 180 days of remaining service”), and\nclearing the EP.\nException\n:  Do\nnot\ndeny the claim if, by the time it is discovered that a claim was filed more than 180 days before discharge, the service member now has 180 or fewer days remaining on active duty.  Continue processing the claim.\nReferences\n:  For more information on\nestablishing claims, see\nM21-1, Part II, Subpart iii, 3.A\n, and\nclaim labels and other claim attributes, see\nM21-4, Appendices B\n-\nD\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section B - Benefits Delivery at Discharge (BDD) and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177950/M21-1-Part-X-Subpart-i-Chapter-6-Section-B-Benefits-Delivery-at-Discharge-BDD-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:42.456988",
+  "tags": [
+    "m21-1"
+  ]
+}

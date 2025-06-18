@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_E_7",
+  "content": "/>\nVI.ii.4.E.1.b\n.\nHow AEWs Are Generated\nThe table below describes how AEWs are generated.\nStage\nDescription\n1\nWhen the Department of Veterans Affairs (VA) establishes or changes an award of disability compensation, VA electronically transmits the award data to the Defense Finance and Accounting Service (DFAS) and the Coast Guard.\n2\nDFAS and the Coast Guard audit the VA award data against their MRP records.\nException\n:  Neither DFAS nor the Coast Guard audit VA award data against their records\nduring time periods when the Veteran was not in receipt of MRP, or\nif the VA award action did not increase the gross award amount for any month covered by the award action.\n3\nIf the audit reveals an adjustment of the Veteran’s disability compensation is necessary based on entitlement to CRSC or CRDP, DFAS or the Coast Guard electronically transmits audit data to the Hines Information Technology Center (ITC).\n4\nThe Hines ITC\ngenerates an AEW from the audit data\ninserts the AEW into the corresponding electronic claims folder (eFolder), and\nplaces the AEW under system control by establishing an 840 work item.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section E - Processing Audit Error Worksheets (AEWs)",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179491/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-E-Processing-Audit-Error-Worksheets-AEWs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:46.854474",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_2_F_30",
+  "content": "/>\nIII.i.2.F.4.a\n.\nClaim Status\nClaim status is used to determine actions that are pending on a claim and provide more accurate customer service.  Claims processors are responsible for updating claim status to indicate the approximate stage at which a claim is in the claims process.\nUse the table below to determine the appropriate claim status.\nClaim Status\nDefinition\nOpen\nDefault status for claims not in any other status. Claims typically stay in this status during claims development.\nReady for Decision\nSignifies that the claim is ready for a rating decision.\nReady to Work\nSignifies that the claim is ready for a non-rating decision.\nRating Decision Complete\nSignifies that a rating decision has been completed and is awaiting promulgation.\nRating Correction\nSignifies that a rating decision correction is needed.\nRating Incomplete\nSignifies that a rating decision was returned to corporate from the work pending column.\nClosed\nThe claim is complete with no further action possible.\nCancelled\nThe claim is cancelled with no further action possible.\nReference\n:  For more information on updating the claim status in\nVBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 2, Section F - Record Maintenance During the Development Process",
+  "citation": "Part III, Subpart i, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000046277/M21-1-Part-III-Subpart-i-Chapter-2-Section-F-Record-Maintenance-During-the-Development-Process",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:17.270964",
+  "tags": [
+    "m21-1"
+  ]
+}

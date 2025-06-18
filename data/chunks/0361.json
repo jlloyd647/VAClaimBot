@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_D_14",
+  "content": "/>\nII.i.2.D.3.c\n.\nWhen to Establish Timeliness Controls on Potential Underpayments\nAdd the\nPotential Under/Overpayment\nspecial issue when information is received from one of the following sources indicating potential underpayment:\na message generated as a result of a matching program as described in\nM21-1, Part XIV\n, or\nan 800 series work item.\nExample\n:  An Audit Error Worksheet (AEW) for entitlement to Concurrent Retirement and Disability Pay or Combat Related Special Compensation.\nNote\n:  Do not apply the\nPotential Under/Overpayment\nspecial issue to claims received from the beneficiary, to include requests for reinstatement of compensation.\nReferences\n:  For more information on\ncontrolling AEWs, see\nM21-1, Part VI, Subpart ii, 4.E.1.c\nplacing 800 series work items under EP control, see\nM21-1, Part II, Subpart i, 2.C.2.d\nreinstatement of compensation following a release from active duty, see\nM21-1, Part X, Subpart v, 2.B\n, and\nspecial issue indicators, see\nM21-4, Appendix E, 2.a and b\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section D - Handling Specific Types of Mail",
+  "citation": "Part II, Subpart i, Chapter 2, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174861/M21-1-Part-II-Subpart-i-Chapter-2-Section-D-Handling-Specific-Types-of-Mail",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:41.130344",
+  "tags": [
+    "m21-1"
+  ]
+}

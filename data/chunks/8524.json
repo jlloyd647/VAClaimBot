@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_ii_3_E_21",
+  "content": "/>\nXI.ii.3.E.3.d\n.\nReturned and Canceled Benefits Payable as Accrued\nFunds represented by any benefits delivered after death covering a period prior to, and extending beyond, the date of termination due to death, are payable as accrued and only with respect to the portion due and unpaid prior to the termination date.\nVBMS-Awards (VBMS-A) automatically populates any current proceeds in the appropriate field and calculates the accrued amount to be paid based on the proceeds as described in\nM21-1, Part XI, Subpart ii, 3.E.3.e\n.\nNote\n:  Do not enter amounts in the LUMP SUM or COMPUTED AMOUNT fields when paying the full amount of proceeds available.\nException\n:  When the claimant is only entitled to a partial amount of the available proceeds, enter the amount in the AMOUNT PAID BY CLAIMANT field and notify finance per\nM21-1, Part XI, Subpart ii, 3.E.4.e\n.\nReferences\n:  For more information on\nbenefits not negotiated prior to death, see\nM21-1, Part XI, Subpart ii, 3.E.4\n.\nthe death of a beneficiary receiving educational benefits, see\nM22-4, Part 4, 11.27\n, and\nreturned and cancellation of checks, see\n38 U.S.C. 5122\n, and\n38 CFR 3.1003\n.",
+  "title": "M21-1, Part XI, Subpart ii, Chapter 3, Section E  - Accrued Authorization and Notification",
+  "citation": "Part XI, Subpart ii, Chapter 3, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174208/M21-1-Part-XI-Subpart-ii-Chapter-3-Section-E-Accrued-Authorization-and-Notification",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:21:05.025085",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_E_47",
+  "content": "/>\nX.i.6.E.4.k\n.\nHandling Failure to Return VA Form 21-526EZ\nIf an IDES participant does not specifically decline to file a VA claim during the initial meeting, but fails to return a\nVA Form 21-526EZ\nwithin the timeframe specified in\nM21-1, Part X, Subpart i, 6.E.4.i\n, the MSC must proceed to order examinations for the referred conditions.\nIf a completed\nVA Form 21-526EZ\nis not returned by the time of the proposed rating decision, the DRAS must\nprepare a proposed rating and BEL according to standard IDES rating procedure\nmodify the BEL to indicate no application for VA benefits has been received to date and that a completed application must be received for VA benefits to be formally awarded, and\ndevelop directly to the participant for a completed\nVA Form 21-526EZ\n.\nException\n:  If the participant declined to file a VA claim during the initial interview with the MSC, and this was properly documented as required by\nM21-1, Part X, Subpart i, 6.E.4.a\n, Step 5, no further development for the\nVA Form 21-526EZ\nshould be undertaken.  These situations must be handled in accordance with\nM21-1, Part X, Subpart i, 6.K.10.a\n.\nIf the participant has not returned the application (or expressly declined to file a VA claim) by the time the participant exits IDES, the DRAS must\ntake the actions described in\nM21-1, Part II, Subpart iii, 2.G\nfor handling a request for application\nenter the date of the notification letter to the participant in the VA BENEFITS DATE field on the RO/RATING ACTIVITY tab in VTA\nadd a note on the same tab that explains the date the DRAS entered in the VA BENEFITS DATE field, and\nclear the pending EP 689.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section E - Integrated Disability Evaluation System (IDES), Referrals, and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177953/M21-1-Part-X-Subpart-i-Chapter-6-Section-E-Integrated-Disability-Evaluation-System-IDES-Referrals-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:10.391087",
+  "tags": [
+    "m21-1"
+  ]
+}

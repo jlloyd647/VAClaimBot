@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_1_B_34",
+  "content": "/>\nVI.i.1.B.3.e\n.\nUsing RADL to Prepare a Decision Notice in VBMS-A\nFollow the steps in the table below for using RADL to prepare a decision notice regarding a rating decision VA made.\nStep\nAction\n1\nVerify that the award has been generated in VBMS-A.\n2\nSelect the GEN LETTER button at the bottom of the PROPOSED AWARD tab in VBMS-A.\n3\nIf additional award/authorization actions are needed, utilize the following fields to insert the appropriate information into the RADL-generated decision notice:\nDEPENDENCY DEVELOPMENT\nSOLICITING CLAIMS\nEVIDENCE LIST (\nspecific to a decision or decisions the\nauthorization activity\nmade\n), and\nFREE TEXT.\n4\nPreview the decision notice to ensure it is complete and accurate.\n5\nRoute the claim to\nan SVSR for review and approval\n.\nReference\n:  For more information on generating a decision notice in VBMS-A, see the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 1, Section B - Decision Notices",
+  "citation": "Part VI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179469/M21-1-Part-VI-Subpart-i-Chapter-1-Section-B-Decision-Notices",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:45.480026",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_D_17",
+  "content": "/>\nII.i.2.D.4.a\n.\nHandling Waiver Requests\nUpon receipt of a request for a waiver of debt, determine if a\nReceivables Balance\nis shown on the AWARD INFORMATION tab on the CORPORATE INQUIRY AWARD/RATING screen in Share.\nExample\n:\nUse the table below to determine the actions to take when handling waiver requests.\nIf ...\nThen ...\nreceivables balance information is shown in the AWARD INFORMATION tab,\nand\nall documents in the mail packet are intended for the Debt Management Center (DMC)\nreassign the mail packet to the\nDMC Assignment Queue\nin the CM portal.\nreceivables balance information is shown in the AWARD INFORMATION tab,\nand\nat least one document needs to be uploaded into the VBMS electronic claims folder (eFolder).\nutilize the download functionality within the CM portal to download the mail image(s)\nprocess the remaining documents in the packet as appropriate\nupload the packet into the Veterans Benefits Management System (VBMS), and\nstart a new\nFound Waiver\nrequest at the\nDMC General Correspondence Request Page\nand follow the prompts on the form to advise the waiver was received and where it can be located.\nNotes\n:\nDo\nnot\nattach the mail document to the\nFound Waiver\nrequest.  The DMC will access the document in VBMS based on the information provided in the request.\nUpon receipt of an e-mail response stating the request is not valid\nfollow the link in the e-mail to review the notes explaining why DMC has rejected the request, and\nupdate or cancel the request as appropriate.\nno receivables balance information is shown in the AWARD INFORMATION tab\nfurther review of the request is needed to determine the actual issue requested, with appropriate action to follow.\nReferences\n:  For more information on\nthe CORPORATE INQUIRY screen in Share, see the\nShare User Guide\n, and\ngeneral award payment information, see\n38 CFR 3.700\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section D - Handling Specific Types of Mail",
+  "citation": "Part II, Subpart i, Chapter 2, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174861/M21-1-Part-II-Subpart-i-Chapter-2-Section-D-Handling-Specific-Types-of-Mail",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:41.130344",
+  "tags": [
+    "m21-1"
+  ]
+}

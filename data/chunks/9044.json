@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XII_i_4_C_12",
+  "content": "/>\nXII.i.4.C.1.g\n.\nHandling Cases With No Potential Entitlement to SBP\nIf there is no potential entitlement to SBP, the claims processor should enter\nNo SBP payable\nin the REMARKS field of the DIC award.\nNote\n:  If there are any questions as to whether or not SBP is payable and coordination is required because the payment date for DIC is prior to January 1, 2023, then take action as described in\nM21-1, Part XII, Subpart i, 4.C.2.d\n.\nReference\n:  For more information on\ndetermining whether the surviving spouse is entitled to receive the\nfull amount of\nSBP and DIC benefits, see\nM21-1, Part XII, Subpart i, 4.C.1.b\n.",
+  "title": "M21-1, Part XII, Subpart i, Chapter 4, Section C - Survivor Benefit Plan (SBP) Offsets",
+  "citation": "Part XII, Subpart i, Chapter 4, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175221/M21-1-Part-XII-Subpart-i-Chapter-4-Section-C-Survivor-Benefit-Plan-SBP-Offsets",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:24:01.271746",
+  "tags": [
+    "m21-1"
+  ]
+}

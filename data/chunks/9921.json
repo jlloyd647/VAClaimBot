@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_4_A_9",
+  "content": "/>\nXIV.4.A.1.d\n.\nUpfront Verification\nUpfront verification allows VA to view earned income from SSA and unearned income from IRS and compare it to income information provided by an applicant seeking income-based benefits from the VA.\nUsers should only utilize IRS/SSA return data when processing claims with claim labels identified in the table below.\nPayee Code 00\nPayee Code 10\n120 - PMC - Reopened Pension\n120 - PMC - Reopened Pension\n120 - PMC - Incompetency Reivew-Pension\n120 - PMC - Incompetency Reivew-Pension\n120 - PMC - Reopened Helpless Child\n120 - PMC - Reopened Helpless Child\n180 - PMC - Initial Live Pension\n190 - PMC - Initial Death Pension\n040 - PMC - Supplemental Claim Non-Rating\n040 - PMC - Supplemental Claim Non-Rating\n040 - PMC - Supplemental Claim Rating\n040 - PMC - Supplemental Claim Rating\nNotes\n:\nThe match excludes dependent spouses and children on Veterans' awards.\nEarned and unearned income will be combined under one screen view using the VETERAN and S/P tabs.\nThere must be\nno\nactive, suspended, or terminated Veterans Pension, Survivors Pension, Death Compensation, or Dependency and Indemnity Compensation (DIC) award existing for that beneficiary.\nExceptions\n:\nThe IRS/SSA return data should also be considered when processing substitution and accrued claims when an original or initial claim for pension, such as the ones listed above, is pending at the time of the claimant’s death.  Follow guidance in\nM21-1, Part XI, Subpart ii, 3.C.4.d\n.\nDo not use the IRS/SSA return data for an end product 040 that was previously denied for service-connected death or DIC.\nReference\n:  For information on how to consider FTI when processing claims, refer to the\nFTI Income Reference Spreadsheet\nlocated on the Pension and Fiduciary Service homepage.",
+  "title": "M21-1, Part XIV, Chapter 4, Section A - Federal Tax Information (FTI) Match:  General Information",
+  "citation": "Part XIV, Chapter 4, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173310/M21-1-Part-XIV-Chapter-4-Section-A-Federal-Tax-Information-FTI-Match-General-Information",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:32:12.718398",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_22",
+  "content": "/>\nII.ii.2.A.2.f\n.\neFolder Document Amendment\nVBMS end users must follow the steps in the table below after discovering an eFolder maintenance issue that requires the\nremoval of a specific page from a document\nsplitting of a misfiled document, and/or\nmerging of multiple documents into a single document.\nStep\nAction\n1\nOpen the document at issue and click the EDIT DOCUMENT PROPERTIES button in the top left corner.\nExample\n:\n2\nAdd\nAdobe Review Needed\nto the document’s subject line.\nExample\n:\n3\nSave changes.\n4\nSave a copy of the\nDocument Error Report\ntemplate to the desktop.\nExample\n:\nDOCUMENT ERROR REPORT\nClaim Number\nLast Name of Veteran\nDocument Type\nDocument Receipt Date\nDocument ID\nSummary of\nRequested Changes\n5\nComplete all applicable fields of the\nDocument Error Report\n.\n6\nAttach the completed\nDocument Error Report\nto an e-mail.\n7\nInsert the\nDocument Error Report\nand claims folder TD in the e-mail subject line.\nExample\n:\nDocument Error Report – TD 49\n.\nImportant\n:  Do\nnot\ninclude the entire file number in the subject line.\n8\nSubmit the e-mail to the local mailbox designated for the PDF editors.\nImportant\n:  At the discretion of RO management, claims processors with Adobe Pro may be authorized to take the necessary corrective actions without requiring the submission of a\nDocument Error Report\nto the local RO mailbox.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

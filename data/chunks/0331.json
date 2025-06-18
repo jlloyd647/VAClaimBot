@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_C_27",
+  "content": "/>\nII.i.2.C.4.c\n.\nMailing Through the CBCM Program\nWhen mailing through the CBCM program, claims processors must finalize necessary packages created in VBMS Package Manager.  Failure to finalize results in the package not being mailed to the recipient.\nDelete any unnecessary or erroneous draft package(s) from Package Manager to ensure it is not mistakenly finalized.\nReview the STATUS field in Package Manager to verify\nnecessary letters have been successfully finalized and sent, and\nunnecessary letters\ndo\nnot\nremain in NEW or DRAFT status, and\nare deleted from Package Manager.\nNecessary correspondence that is in a status other than IN_PROGRESS or SUCCESS must be finalized, and the corresponding tracked item(s) suspense must be updated, when appropriate.\nReferences\n:  For more information on\nCBCM, see the TMS course titled\nCentralized Benefits Communications Management\n(VA 4562424)\nrequesting document deletion in VBMS, see\nM21-1, Part II, Subpart ii, 2.A.2.b\n, and\nreviewing the STATUS field in Package Manager, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section C - Mail Management",
+  "citation": "Part II, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174860/M21-1-Part-II-Subpart-i-Chapter-2-Section-C-Mail-Management",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:30.870043",
+  "tags": [
+    "m21-1"
+  ]
+}

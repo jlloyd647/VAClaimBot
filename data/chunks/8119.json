@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_iv_4_None_23",
+  "content": "/>\nX.iv.4.3.c\n.\nSystem Entries for Discontinuing an Award\nTo discontinue a beneficiary’s award based on the renouncement of the right to a benefit\nselect\nTerminate – Renouncement\nfrom the drop-down box for the DECISION field on the RECORD DECISIONS – BASIC ELIGIBILITY screen\nenter the proper effective date (based on the instructions in\nM21-1, Part X, Subpart iv, 4.3.b\n) in the AWARD EFFECTIVE DATE field\ngenerate an award\nprepare a decision notice, as described in\nM21-1, Part X, Subpart iv, 4.3.d\nor\ne\n, and\nsend the claim for authorization.\nReference\n:  For more information about processing renouncements in\nVBMS, see the\nVBMS-Awards User Guide\n.",
+  "title": "M21-1, Part X, Subpart iv, Chapter 4  - Renouncements",
+  "citation": "Part X, Subpart iv, Chapter 4, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177995/M21-1-Part-X-Subpart-iv-Chapter-4-Renouncements",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:17:40.779770",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_ii_1_None_11",
+  "content": "/>\nf\n.\nRating Activity’s Responsibilities Upon Review of an Implicit Claim for SC Death\nUpon review of an implicit claim for SC death, the rating activity must use the table below to take the actions outlined for the applicable situation.\nIf ...\nThen ...\nSC death is grantable\na formal determination of SC will be made and the EP must be changed to the appropriate SC death EP.\nNote\n:  A grant of SC death by rating activity will automatically move the claim status from\nOpen\nstatus to\nRating Decision Complete\nstatus.\nException\n:  If the EP is for a burial claim, then the claim label would be changed to one designating it as an SC burial\nby the rating activity instead of changing the EP.\nthe rater deems that SC death is potentially grantable, but further development is needed\nchange the EP to the appropriate SC death EP, and\ncreate a Veterans Benefits Management System (VBMS) note documenting what development is needed for the claims processor to initiate.\nException\n:  If the EP is for a burial claim, then the claim label would be changed to one designating it as an SC burial by the rating activity instead of changing the EP.\nSC death is not warranted\ncreate a VBMS note that there is no evidence of SC death, and\nroute to the authorization activity for resolution of last award notation and pending notification to the claimant while leaving the EP unchanged.",
+  "title": "M21-1, Part XI, Subpart ii, Chapter 1  - Referral for Consideration of Survivor's Benefits",
+  "citation": "Part XI, Subpart ii, Chapter 1, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174189/M21-1-Part-XI-Subpart-ii-Chapter-1-Referral-for-Consideration-of-Survivors-Benefits",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:20:09.208055",
+  "tags": [
+    "m21-1"
+  ]
+}

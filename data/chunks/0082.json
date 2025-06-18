@@ -1,0 +1,12 @@
+{
+  "chunk_id": "I_i_2_B_13",
+  "content": "/>\nI.i.2.B.1.h\n.\nAdding a Representative’s Name and Address to Letters Generated in VBMS Awards/ADL\nTo add the representative name and address to a letter generated in VBMS Awards/Automated Decision Letter (ADL) follow the steps in the table below.\nStep\nAction\n1\nSelect the POWER OF ATTORNEY tab from the AWARD LETTER INTERVIEW screen.\nExample\n:\n2\nSelect EDIT if the information needs to be changed or the address updated based on address confirmation of the\nOGC accreditation list\n.\n3\nEnter the information into the text fields.\n4\nIf the private attorney/agent\nhas\na unique code associated with the Veteran’s record, type the address of the private attorney/agent in the field as shown in this fictional example.  The name of the attorney or agent will be automatically inserted.\nExample\n:\nIf the private attorney/agent\ndoes not\nhave a unique code and the generic 099 or 066 code is being used, add the attorney or agent name in addition to the address in the field.\n5\nSelect ACCEPT.\n6\nPreview the letter to ensure the cc line contains the private attorney/agent name.\nExample\n:\n7\nFinalize the letter.\nImportant\n:  Changing a representative this way only changes it for the purpose of the specific correspondence.  It will not change the appointed representative as listed in the corporate data base.",
+  "title": "M21-1, Part I, Subpart i, Chapter 2, Section B - A Representative’s Right to Notification and Review of Records",
+  "citation": "Part I, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181476/M21-1-Part-I-Subpart-i-Chapter-2-Section-B-A-Representatives-Right-to-Notification-and-Review-of-Records",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:08:37.664305",
+  "tags": [
+    "m21-1"
+  ]
+}

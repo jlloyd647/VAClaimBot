@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_B_18",
+  "content": "/>\nVI.ii.4.B.2.d\n.\nRPC Action When the Rate of Compensation Exceeds the Rate of MRP\nAny time RPCs receive data showing a Veteran’s monthly rate of compensation exceeds the monthly rate of MRP, the RPC automatically releases to the station of origination (SOO)\na certification of the gross MRP, and\nthe effective dates of any rate changes in the Veteran’s MRP for the previous two years.\nUpon receipt of the notice described above from an RPC, the SOO must\nreview the military payment history, and\ninitiate payment of any previously withheld compensation that exceeds the amount of MRP for the same period.\nNote\n:  If the information referenced in this block does not exist in the claims folder but is relevant to award processing, it may be obtained\nthrough RCPS (for Air Force, Army, Navy, Space Force, and Marine Corps retirees only)\nby calling CGRASB at 1-866-772-8724, or\nthrough VIS.\nReference\n:  For more information on using\nRCPS, see the\nHUNT User’s Guide\n, and\nVIS, see the\nVIS User Guide\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section B - Preparing and Adjusting Awards in Military Retired Pay (MRP) Cases",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179488/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-B-Preparing-and-Adjusting-Awards-in-Military-Retired-Pay-MRP-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:18.975843",
+  "tags": [
+    "m21-1"
+  ]
+}

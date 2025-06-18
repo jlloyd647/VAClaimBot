@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_K_54",
+  "content": "/>\nIX.iii.1.K.5.n\n.\nExample:  Apportioned Cases When IVAP Does Not Exceed MAPR\nExample\n:  A Veteran has a spouse and two children.  One child is out-of-custody and is receiving an apportionment.  IVAP (without consideration of the hardship deduction) does not exceed the “dependency this award” MAPR.\nThe claims processor determines that total allowed family expenses are $16,000.  The “total dependency” MAPR for a Veteran with three dependents effective December 1, 2014, is $21,247.  The “dependency this award” MAPR for a Veteran with two dependents effective December 1, 2014, is $19,049.\nCalculation\n:  The table below outlines the calculation for determining the hardship expenses.\nStep\nCalculation\nDescription\n1\n$21,247\n-$19,049\n$2,198\n“Total dependency” MAPR (three dependents)\n\"Dependency this award\" MAPR (two dependents)\nDifference\n2\n$16,000\n-$2,198\n$13,802\nFamily expenses\nDifference from Step 1 above\nHardship expenses\nResult\n:  Enter $13,802 in the HARDSHIP EXCLUSION field on the FINANCIAL screen. The system then calculates the correct child hardship deduction.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section K - Other Deductible Expenses",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section K",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177526/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-K-Other-Deductible-Expenses",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:08:13.655409",
+  "tags": [
+    "m21-1"
+  ]
+}

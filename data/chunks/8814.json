@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XII_i_1_A_10",
+  "content": "/>\nXII.i.1.A.1.e\n.\nAction to Take if Pay Grade Data Is Not of Record\nIf award action is otherwise in order, but no pay grade data is of record, submit a PIES request code O50 to obtain the official military personnel file that contains the required data.\nException\n:  Do not submit the request if VA has previously submitted and received a response under request codes O50\nor\nO18.\nReference\n:  For more information on PIES, see the\nPIES User Guide\n.",
+  "title": "M21-1, Part XII, Subpart i, Chapter 1, Section A - Overview of Dependency and Indemnity Compensation (DIC)",
+  "citation": "Part XII, Subpart i, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175201/M21-1-Part-XII-Subpart-i-Chapter-1-Section-A-Overview-of-Dependency-and-Indemnity-Compensation-DIC",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:22:00.919352",
+  "tags": [
+    "m21-1"
+  ]
+}

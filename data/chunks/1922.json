@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_B_40",
+  "content": "/>\nIX.iii.1.B.3.g\n.\nSSA COLA Calculations\nThe table below describes SSA Cost of living Adjustment (COLA) calculations.\nNote\n:  In addition to this table, claims processors may also use the\nSSA Retro Calculator\nto determine earlier rates.  The calculator is located on the\nPension and Fiduciary Service Intranet page\n.\nStage\nDescription\n1\nIdentify the gross monthly SSA income for any year.\n2\nMultiply the gross monthly SSA income by the COLA factor for the next year.\nIf the COLA factor is 3.5 percent, multiply the monthly SSA income by 1.035.\nNote\n:  If calculating for a preceding year COLA, divide the gross monthly SSA income by the COLA factor.\n3\nSubtract the Medicare deduction.\n4\nRound down to an even dollar amount.\n5\nAdd back the Medicare deduction.\nResult\n:  This is the gross monthly Social Security income.\nExamples\n:\nSituation 1\n:\nThe known SSA rate effective December 1, 2020, was $732.50\nThe December 1, 2021 COLA rate was 5.9 percent, and\nthe Medicare deduction was $170.10.\nCalculation\n:\nMultiply $732.50 by 1.059 = $775.71.\nSubtract the Medicare deduction ($170.10) = $605.61.\nDrop the cents = $605.\nAdd back in the Medicare deduction ($170.10) = $775.10.\nResult\n:  The December 1, 2021, monthly SSA rate was $775.10.\nSituation 2\n:\nThe known SSA rate effective December 1, 2021, was $532.10, and\nthe Medicare deduction for the individual was $148.50.\nCalculation\n:  To calculate the December 1, 2020 SSA rate, use the December 1, 2021, COLA rate, 5.9 percent and then the following calculations occur:\nDivide $532.10 by 1.059 = $502.45.\nSubtract the Medicare deduction ($148.50) = $353.95.\nDrop the cents = $353.\nAdd back the Medicare deduction ($148.50) = $501.50.\nResult\n:  The December 1, 2020, monthly SSA rate was $501.50.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section B - Social Security Administration (SSA) Benefits Program",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177517/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-B-Social-Security-Administration-SSA-Benefits-Program",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:49.186739",
+  "tags": [
+    "m21-1"
+  ]
+}

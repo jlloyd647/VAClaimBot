@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_1_A_30",
+  "content": "/>\nIII.ii.1.A.3.c\n.\nIdentifying When Community Care Has Been Ordered and Locating Records\nVHA currently documents Community Care in\nthe progress note(s) in the Veteran’s health record, and\nthe actual treatment record(s) as scanned or imported documents.\nThe notes identifying a completed course of Community Care are labeled as\nCommunity Care – Consult Result Note\nor\nCommunity Care Result Note\nand the records are attached to the progress note as an image.  The records attached to these notes are considered the complete record from the Community Care provider.\nImportant\n:\nClaims processors must utilize JLV to review and obtain Community Care records from VHA’s legacy and new EHR systems.\nWhen the completed Community Care result note does not contain attached records, additional development actions must be undertaken by VBA as discussed further in\nM21-1, Part III, Subpart ii, 1.A.3.d\n.\nNote\n:  The Community Care provider may send VHA some medical records prior to the completion of the entire authorized course of treatment.  These intermediate sets of records can be found attached to notes titled\nCommunity Care - Coordination Plan Note\n.\nReferences\n:  For more information on\nelectronic health recordkeeping by VHA, see\nM21-1, Part III, Subpart ii, 1.A.2.b\nand\nc\nhistorical ways Community Care was documented by VHA, see the\nVBA JLV TIP Sheet Viewing Community Care (Non-VA) Records\n, an\nlocating scanned Community Care records in JLV, see the\nCommunity Partner/Non-VA Care Documents\nsection in the\nJLV Quick Tips\nguide.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 1, Section A - Requesting Evidence From Federal Record Custodians",
+  "citation": "Part III, Subpart ii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014108/M21-1-Part-III-Subpart-ii-Chapter-1-Section-A-Requesting-Evidence-From-Federal-Record-Custodians",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:26.629871",
+  "tags": [
+    "m21-1"
+  ]
+}

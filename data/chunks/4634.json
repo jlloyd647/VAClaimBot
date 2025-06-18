@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_i_1_B_27",
+  "content": "/>\nVII.i.1.B.3.e\n.\nProcessing a VA Form 21P-0537 That Does Not Show the Date of Change in a Surviving Spouse's Marital Status\nWhen referred to this block from\nM21-1, Part VII, Subpart i, 1.B.2.d\n, because a surviving spouse reported on\nVA Form 21P-0537\nthat remarriage occured but did not provide the date of the marriage, attempt to contact the surviving spouse by telephone to obtain the date.\nFollow the instructions in the table below only if attempts to obtain the date from the surviving spouse by telephone are\nunsuccessful\n.\nNote\n:  Follow the instructions in\nM21-1, Part III, Subpart i, 2.D.1.e\nfor documenting successful and unsuccessful attempts to contact a beneficiary by telephone.\nStep\nAction\n1\nEstablish the appropriate EP 130.\n2\nSuspend the surviving spouse’s award and leave the EP 130 pending.\n3\nBriefly explain the basis for the suspension in the OTHER PRINT REMARKS field on the PRINT REMARKS screen.\n4\nReturn the questionnaire to the beneficiary with a request to provide the missing information and return the questionnaire within 30 days.\nChoose a suspense date for the EP 130 that is 30 days from the current date.\n5\nDid the beneficiary return the questionnaire within 30 days?\nIf\nyes\n, follow the instructions in\nStep 13\nof the procedure described in\nM21-1, Part VII, Subpart i, 1.B.4.e\n.\nIf\nno\n,\nclear the EP established in Step 1, and\nfollow the instructions in\nM21-1, Part VII, Subpart i, 1.B.4.e\n,\nbeginning with Step 7\n.",
+  "title": "M21-1, Part VII, Subpart i, Chapter 1, Section B - Verification of Marital Status and the Status of Dependents",
+  "citation": "Part VII, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176614/M21-1-Part-VII-Subpart-i-Chapter-1-Section-B-Verification-of-Marital-Status-and-the-Status-of-Dependents",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:51:57.246291",
+  "tags": [
+    "m21-1"
+  ]
+}

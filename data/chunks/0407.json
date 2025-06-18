@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_10",
+  "content": "/>\nII.ii.2.A.1.e\n.\nUsing the Document’s Subject as a Note\nTo aid in easy identification of document(s) commonly used when processing a claim, use the document’s subject line as a note field.  This allows for easy identification of important documents when viewing the entire eFolder under the DOCUMENTS tab in VBMS.\nThe table below provides the subject lines for several common documents.\nEvidence\nDocument Category\nSubject\nVA Form 21-22, Appointment of Veterans Service Organization as Claimant’s Representative\n, or\nVA Form 21-22a, Appointment of Individual as Claimant’s Representative\nRepresentation\nname of the power of attorney (abbreviated, if an abbreviation for the name exists), and\nRevoked\n(if applicable)\nRecords Management Center (RMC) e-mails\nService Personnel Records\nRMC request\n, or\nRMC response\nPersonnel Information Exchange System (PIES) request, or\nPIES response\nService Personnel Records\nPIES request code, and\nrequest\n, or\nresponse\n.\nReference\n:  For more information on PIES request codes, see the\nPIES User Guide\n.\nReference\n:  For more information on changing the subject line for a VBMS document, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

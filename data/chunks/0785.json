@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_1_A_45",
+  "content": "/>\nIII.i.1.A.5.b\n.\nAdding a Copy of the Request to the Claims Folder\nAfter the pay request is submitted, the\nAskDFAS Military Pay Request Portal\nwill provide a confirmation page that contains a hyperlink to the records request, enabling a claims processor (with the passcode created during the submission process) to retrieve the requested records.\nUsing the web browser’s PRINT function, save the page as a portable document format (PDF), as opposed to using a screen capture or snipping tool to create a photo of the confirmation page.  This will maintain the hyperlink that can be used to quickly access the requested documents.\nImportant\n:  Ensure the passcode is visible on the confirmation page that is uploaded to the electronic claims folder (eFolder).  If the passcode is not, identify the passcode using the annotation function in VBMS.\nReferences\n:  For more information on\ndetermining the appropriate document indexing values when adding a copy to the eFolder, see the\nAskDFAS User Guide\n, and\nbookmarks, annotations, and uploading documents to the eFolder, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 1, Section A - Establishing Veteran Status",
+  "citation": "Part III, Subpart i, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181424/M21-1-Part-III-Subpart-i-Chapter-1-Section-A-Establishing-Veteran-Status",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:14:37.964944",
+  "tags": [
+    "m21-1"
+  ]
+}

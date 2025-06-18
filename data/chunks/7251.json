@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_K_65",
+  "content": "/>\nX.i.6.K.10.a\n.\nRequirement for Issuance of a Proposed Rating to the PEB\nWhen an IDES participant declines to submit a claim, VA must still provide proposed evaluations to the PEB for the referred conditions.  In these instances, DRASs must:\nprepare a proposed rating decision for all referred issues in accordance with the procedures outlined in\nM21-1, Part X, Subpart i, 6.H.1.c\n; however, the rating decision must clearly indicate the evaluations are provided for DoD purposes only\nupdate the following fields in VTA\nPROPOSED RATING COMPLETED ON DATE\nPROPOSED RATING COMPLETED BY, and\nDEFERRED ISSUES?\nprepare the notification letter described in\nM21-1, Part X, Subpart i, 6.K.10.b\n(\nDo not prepare a BEL\n.)\nupload the notification letter to the participant’s eFolder\nupdate the DECLINED TO FILE LETTER DATE field in VTA\nclear the pending EP 689, and\nclear EP 310, in accordance with\nM21-1, Part X, Subpart i, 6.H.1.h\n.\nImportant\n:  In these cases, DRASs will not complete a final rating.  The DRAS is not responsible for any further action, except when the participant requests reconsideration of the proposed decision as described in\nM21-1, Part X, Subpart i, 6.H.4.a\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section K - Special Situations Related to Integrated Disability Evaluation System (IDES)",
+  "citation": "Part X, Subpart i, Chapter 6, Section K",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177960/M21-1-Part-X-Subpart-i-Chapter-6-Section-K-Special-Situations-Related-to-Integrated-Disability-Evaluation-System-IDES",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:12:06.155068",
+  "tags": [
+    "m21-1"
+  ]
+}

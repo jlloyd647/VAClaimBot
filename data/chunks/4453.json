@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_iii_2_B_22",
+  "content": "/>\nVI.iii.2.B.3.e\n.\nEliminating an Overpayment Resulting From Correction of an Administrative Error\nIf correction of an administrative error will create an overpayment, follow the instructions in the table below to eliminate the overpayment in the award system following completion and approval of the administrative decision referenced in\nM21-1, Part VI, Subpart i, 2.B.3\n.\nStep\nAction\n1\nSelect the VA beneficiary’s account.\n2\nClick on the RECORD DECISIONS button.\n3\nSelect the AWARD ADJUSTMENT tab.\n4\nSelect the OTHER ADJUSTMENTS tab, then click on the ADD button.\n5\nFind the ADJUSTMENT REASON section on the bottom, left-hand side of the screen.\n6\nSelect\nAdd to Gross Rate\nfrom the drop-down menu.\n7\nComplete the ADJUSTMENT AMOUNT and the FROM DATE fields, then click on the ACCEPT button.\n8\nClick on the OK button.\n9\nClick on the GENERATE AWARD button.\nNote\n:  When an administrative error results in the severance of service connection for all compensable disabilities, refer to claims processing procedures provided in the interim guidance document titled\nSOP for\nCUE Severance Award Processing\n.",
+  "title": "M21-1, Part VI, Subpart iii, Chapter 2, Section B - The Finance Activity at the Regional Office (RO)",
+  "citation": "Part VI, Subpart iii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179497/M21-1-Part-VI-Subpart-iii-Chapter-2-Section-B-The-Finance-Activity-at-the-Regional-Office-RO",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:50:42.800550",
+  "tags": [
+    "m21-1"
+  ]
+}

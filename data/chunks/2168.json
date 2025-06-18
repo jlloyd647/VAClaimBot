@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_E_93",
+  "content": "/>\nIX.iii.1.E.8.b\n.\nHow SOOs Are Alerted That System-Generation of an Income Reminder Letter Failed\nWhen system-generation of the\nIncome Reminder Letters\nfails, the SOO is alerted by the generation of an 800 series work item.  The message code for this work item is\n820 882C, SOC SEC Income Reminder Letter not sent\n.\nWhen the work item appears in a regional office’s (ROs) inventory, the RO must\nsend a locally-generated letter with the text noted in\nM21-1, Part IX, Subpart iii, 1.E.8.c\n, and\nclear the pending 800 series work item.\nReferences\n:  For more information on 800 series work items, see\nM21-4, Appendix B, 3 and 4\nShare User Guide\n, and\nVETSNET 800 Series Work Items Desk Reference\n.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section E - Pension - Basic Rate Determinations",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177520/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-E-Pension-Basic-Rate-Determinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:17.413088",
+  "tags": [
+    "m21-1"
+  ]
+}

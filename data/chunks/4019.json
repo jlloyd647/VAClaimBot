@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_3_A_12",
+  "content": "/>\nVI.ii.3.A.1.g\n.\nRules Specific to Calculations Involving Non-Award Days\nStarting with\nVA Forms 21-8951\nthe Hines ITC generated for fiscal year 2020, several rules were programmed into the computer system that makes the calculations described in\nM21-1, Part VI, Subpart ii, 3.A.1.f\n.\nThe first rule is that the number of non-award days in a month may not exceed 30.  The remaining rules are stated in the table below.\nIf ...\nThen, when calculating the number of days of drill(s)/training for that month ...\nthe 31\nst\nday of a month was a non-award day\ndo not count that day as a non-award day.\nthe 28\nth\nof February –\nin a year\nother than\na leap year\n– is a non-award day\ncount that day as three non-award days.\nthe 29\nth\nof February is a non-award day\ncount that day as two non-award days.\nthe total number of days shown in the columns titled\nDrill Days\nand\nActive Duty Training Days\nfor a month in which the Veteran had non-award days is greater than 30\nthe result may be no more than 30 minus the number of non-award days.\nExample\n:\nScenario\n:\nVA stopped a Veteran’s award of disability compensation effective October 1, 2018, because she returned to active duty on that date.\nThe Veteran was subsequently discharged on May 23, 2020.\nVA resumed the Veteran’s award effective May 24, 2020 (making 23 the number of non-award days for the month of May).\nA total of 43 days is shown in the columns titled\nDrill Days\nand\nActive Duty Training Days\nin VIS for May 2020.\nResult\n:  The number of countable days of drill(s)/training for the month of May is seven.\nRationale\n:  Although 43 minus 23 equals 20, the rule expressed in the last row of the table above limits the result to 7 (30-23=7).",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 3, Section A - Adjusting Department of Veterans Affairs (VA) Benefits Based on a Veteran's Receipt of Drill Pay",
+  "citation": "Part VI, Subpart ii, Chapter 3, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179479/M21-1-Part-VI-Subpart-ii-Chapter-3-Section-A-Adjusting-Department-of-Veterans-Affairs-VA-Benefits-Based-on-a-Veterans-Receipt-of-Drill-Pay",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:41.535856",
+  "tags": [
+    "m21-1"
+  ]
+}

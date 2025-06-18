@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_A_42",
+  "content": "/>\nII.iii.2.A.4.f\n.\nCalculating the Timeliness of Receipt of ITFs\nApply\n38 CFR 3.110\nin the calculation of timeliness of receipt of a claim following receipt of an ITF.\nWhen determining whether a claim is timely received following receipt of an ITF, calculate the applicable time period by\nexcluding the first day\nincluding the last day, and\nincluding the following workday when the time limit expires on a Saturday, Sunday, or holiday.\nExamples\n:\nAn ITF is received June 8, 2018 (Friday).  The subsequent claim is received on June 10, 2019 (Monday).  Consider the claim timely received since the one-year expiration of the ITF occurred on a weekend and the claim was received on the following workday.\nAn ITF is received on June 18, 2018 (Monday).  The claim is received on June 18, 2019 (Tuesday).  The claim is timely received because the last day is included in the calculation of timeliness.\nNotes\n:\nThe ITF screen in VBMS is not currently programmed to consider\n38 CFR 3.110\nin the reflection of ITF status when the submission period expires on a Saturday, Sunday, or holiday.\nSystems tools for calculating or suggesting effective dates do not factor in applicability of\n38 CFR 3.110\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section A - Intent to File (ITF)",
+  "citation": "Part II, Subpart iii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:12:24.433955",
+  "tags": [
+    "m21-1"
+  ]
+}

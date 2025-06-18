@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_D_23",
+  "content": "/>\nIX.iii.1.D.2.b\n.\nExample:  Medical Expense Exceeding 5 Percent\nSituation\n:  A DIC parent has SSI income of $5,000 per year and reports paying unreimbursed medical expenses of $2,000.  The claimant’s spouse has retirement income of $5,000 per year and earned income of $2,000 per year.\nCalculation\n:  The table below outlines the calculation for determining the deductible medical expenses.\nStep\nCalculation\nDescription\n1\n$5,000\nSpouse’s retirement income\n+ $2,000\nSpouse’s earned income\n$7,000\nReported annual income\n2\n$7,000\nSpouse’s retirement income\nx 0.05\n5 percent\n$350\n5 percent deductible\n3\n$2,000\nGross medical expenses\n- $350\n5 percent deductible\n$1,650\nDeductible medical expenses\nNotes\n:\nBecause the parent’s SSI is\nnot\ncountable for Parents’ DIC, the SSI is not a factor in calculating the 5 percent deductible.\nThe claims processor should enter the gross amount of retirement and medical expenses.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section D - Parents’ Dependency and Indemnity Compensation (DIC) Authorization",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177519/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-D-Parents-Dependency-and-Indemnity-Compensation-DIC-Authorization",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:08.050832",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_1_B_14",
+  "content": "/>\nIII.ii.1.B.2.c\n.\nProcedures for Requesting SSA Records Through the SSA-GSO Interface\nThe table below shows the procedure for\nsubmitting a request for disability records from SSA through SSA-GSO\ndocumenting the request, and\nplacing the request in the claims folder.\nImportant\n:  If SSA-GSO is inaccessible or inoperable for an extended period of time, follow the instructions in\nM21-1, Part III, Subpart ii, 1.B.7\nfor faxing a request to SSA.\nStep\nAction\n1\nLog on to the\nSSA-GSO website\n.\n2\nFollow the instructions in the\nSSA-GSO User Guide\nfor submitting a request through SSA-GSO.\nImportant\n:  Users\nmust\nuse the following standard request format:\nPlease send SSA medical records for this claimant.\nClaimant’s Name:\nSSN:\nVA File #:\nDOB:\n[mm/dd/yyyy]\nVA Contact:                     Email:       Phone Number:\nVA Backup Contact:        Email:       Phone Number:\nVARO City and State:\nFirst Request Date:\nFollow-up Request Date and remarks:\nNote\n:  The FIRST REQUEST DATE and FOLLOW-UP REQUEST DATE AND REMARKS fields are only required if submitting a subsequent request.\n3\nTake a screenshot of the request as it appears in the SENT folder.\n4\nPlace a copy of the screenshot in the claims folder.\nUtilize the following attributes when uploading the document to the electronic claims folder (eFolder):\nIn the document field ...\nEnter ...\nSUBJECT\nSSA-GSO Request\n.\nCATEGORY – TYPE\nCorrespondence - Correspondence\n.\nCONTENT SOURCE\nSSA\n.\nDATE OF RECEIPT\nthe date the request was submitted.\n5\nAdd the tracked item for the request for SSA medical records.\nReference\n:  For more information on the appropriate tracked item and suspense periods for requests for SSA medical records, see\nM21-4, Appendix D\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 1, Section B - Department of Veterans Affairs (VA) Requests for Information From the Social Security Administration (SSA)",
+  "citation": "Part III, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014111/M21-1-Part-III-Subpart-ii-Chapter-1-Section-B-Department-of-Veterans-Affairs-VA-Requests-for-Information-From-the-Social-Security-Administration-SSA",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:35.947607",
+  "tags": [
+    "m21-1"
+  ]
+}

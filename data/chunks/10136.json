@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_8_None_16",
+  "content": "/>\nXIV.8.2.a\n.\nInitial Stages of the Process for Handling Form FFP-3\nThe table below describes the initial stages for handling\nForm FFP-3\n.\nStage\nDescription\n1\nOIG routes to VBA batches of\nForm FFP-3\nthat bear the names of individuals that are receiving benefits from VA or are dependents of VA beneficiaries.\n2\nFor each fugitive felon case that meets the criteria for automated processing, a VBA computer application\nestablishes an EP 600\ngenerates a notice of proposed adverse action, and\nsends the notice to the affected beneficiary (and apportionee, if the individual named on\nForm FFP-3\nis an apportionee).\nFor each fugitive felon case that does\nnot\nmeet the criteria for automated processing, the computer application generates an EP 290 labeled\nFugitive Felon\n.\nExamples\n:  Fugitive felon cases in which the following has occurred do\nnot\nmeet the criteria for automated processing:\narrest warrant was deemed invalid, or\nindividual named on\nForm FFP-3\nhas already been arrested.\n3\nVBA uploads the\nForm FFP-3\nto the appropriate electronic claims folder (eFolder).\nNotes\n:\nVBA does\nnot\nusually upload\nForm FFP-3\nif the warrant for which the form was generated was cleared within 30 days of issuance.\nExcept as noted in\nM21-1, Part XIV, 8.2.c\n, no further regional office (RO) action is required on fugitive felon cases that met the criteria for automated processing.\nROs must follow the instructions in\nM21-1, Part XIV, 8.2.b\nfor each fugitive felon case that did\nnot\nmeet the criteria for automated processing (as indicated by the generation of the EP 290 referenced in Stage 2).",
+  "title": "M21-1, Part XIV, Chapter 8 - Fugitive Felon Match",
+  "citation": "Part XIV, Chapter 8, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173306/M21-1-Part-XIV-Chapter-8-Fugitive-Felon-Match",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:33:17.983814",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_C_8",
+  "content": "/>\nII.ii.2.C.1.c\n.\nHandling Misfiled Paper Documents That Belong to eFolders\nUse the table shown below when determining how to handle misfiled paper documents that belong to an electronic claims folder (eFolder) in VBMS.\nIf the misfiled paper document belongs with an eFolder and …\nThen ...\nno\naction is required\nroute the paper document to the intake processing center (IPC) to send the document for scanning.\nReference\n:  For more information on sending documents for scanning, see\nM21-1, Part II, Subpart i, 1.A\n.\nan action is required\nestablish EP control, if necessary\nroute the paper document to IPC to send the document for scanning, and\nonce the document is uploaded into VBMS, take appropriate action on the record to address the document.\nImportant\n:  If the misfiled document is time sensitive, take whatever actions it necessitates\nbefore\nrouting it to the IPC for scanning.\nReference\n:  For more information on handling incoming mail, see\nM21-1, Part II, Subpart i, 2.C\n.\nReference\n:  For information on handling a misfiled, electronic document, see\nM21-1, Part II, Subpart ii, 2.A\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section C - Locked Files Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175823/M21-1-Part-II-Subpart-ii-Chapter-2-Section-C-Locked-Files-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:32.609685",
+  "tags": [
+    "m21-1"
+  ]
+}

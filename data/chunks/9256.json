@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIII_i_1_B_7",
+  "content": "/>\nXIII.i.1.B\n.1.b\n.\nNotifying Veterans in Disability Compensation Cases\nWhen claims processors use Redesigned Automated Decision Letter (RADL) to generate a decision notice regarding a Department of Veterans Affairs (VA) decision to rate a Veteran permanently and totally disabled due to SC disabilities, RADL automatically inserts text into the notice that\ninforms the Veteran that their dependents may be eligible for DEA, and\nprovides instructions for obtaining more information about DEA from VA.\nWhen claims processors use Personal Computer Generated Letters to notify a Veteran of the same type of decision, they must manually insert the following text into the decision notice:\nYour dependents may be eligible for Dependents’ Educational Assistance (Chapter 35).  For more information on this program, please visit the following web site:  https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/ or call 1-888-GIBILL-1 (1-888-442-4551).\nImportant\n:  The text in the preceding paragraph is\nnot\nan exact match of the text RADL automatically inserts; claims processors do\nnot\nneed to add the text to decision notices they generate using RADL.",
+  "title": "M21-1, Part XIII, Subpart i, Chapter 1, Section B - Notification and Award Actions for Dependents' Educational Assistance (DEA)",
+  "citation": "Part XIII, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173635/M21-1-Part-XIII-Subpart-i-Chapter-1-Section-B-Notification-and-Award-Actions-for-Dependents-Educational-Assistance-DEA",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:25:33.997979",
+  "tags": [
+    "m21-1"
+  ]
+}

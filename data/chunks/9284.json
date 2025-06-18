@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIII_i_1_C_12",
+  "content": "/>\nXIII.i.1.C.1.g\n.\nProcessing Claims for Delimiting Date Extensions\nThe table below describes the actions the RPOs and the co-located ROs take when processing claims for delimiting date extensions.\nStep\nAction\n1\nAn RPO receives a claim for a delimiting date extension.\n2\nIs there sufficient evidence of record to warrant referral of the claim to the rating activity at the co-located RO?\nIf\nyes\n, the RPO\nscans the evidence into The Image Management System (TIMS), an electronic database\nforwards the hard copy of the evidence to the RO rating activity, and\ngoes to Step 4.\nIf\nno\n, the RPO\nsends a development letter to the claimant, and\ngoes to Step 3.\nReference\n:  For more information on when to refer claims for delimiting date extensions to the rating activity, see\nM21-1, Part XIII, Subpart i, 1.C.1.f\n.\n3\nDid the claimant provide the evidence requested?\nIf\nyes\n, the RPO\nscans the medical evidence into TIMS\nforwards the hard copy of the medical evidence to the RO rating activity, and\ngoes to Step 4.\nIf\nno\n, the RPO\ndenies the claim, and\nnotifies the claimant of the decision.\n4\nThe RO rating activity\nprepares a rating decision, and\nfurnishes the RPO\na copy of the decision, and\nthe evidence considered in the claim.\n5\nThe RPO\nscans the rating decision into TIMS\ntakes final action on the claim based on the rating determination, and\nnotifies the claimant of the decision.",
+  "title": "M21-1, Part XIII, Subpart i, Chapter 1, Section C - Ratings to Extend the Delimiting Date for Educational Assistance",
+  "citation": "Part XIII, Subpart i, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173636/M21-1-Part-XIII-Subpart-i-Chapter-1-Section-C-Ratings-to-Extend-the-Delimiting-Date-for-Educational-Assistance",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:25:43.242774",
+  "tags": [
+    "m21-1"
+  ]
+}

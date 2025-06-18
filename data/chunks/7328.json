@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_ii_2_B_13",
+  "content": "/>\nX.ii.2.B.2.a\n.\nInitial Review of Supplemental Service Records\nUpon receipt of supplemental service records from DoD or a service department, automation will establish a tracking EP as described in\nM21-4, Appendix B\n.  Claims processors must conduct an initial review of the documents to determine whether the records are duplicates.\nDoes initial review of the supplemental service records indicate they are duplicates?\nIf\nyes\n,\nannotate the service records in VBMS\nDuplicate service records reviewed, NAN\n, and\nclear the tracking EP.\nIf\nno\n, refer the records to the rating activity for review.\nNote\n:  If the supplemental service records are submitted by the Veteran or their authorized representative, follow the guidance in\nM21-1, Part X, Subpart ii, 2.B.1.d\n.\nReferences\n:  For more information on\nEP control of supplemental service records, see\nM21-4, Appendix B\n, and\nannotating evidence in VBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part X, Subpart ii, Chapter 2, Section B - Revision Based on Receipt of Supplemental Service Records",
+  "citation": "Part X, Subpart ii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177964/M21-1-Part-X-Subpart-ii-Chapter-2-Section-B-Revision-Based-on-Receipt-of-Supplemental-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:12:43.259830",
+  "tags": [
+    "m21-1"
+  ]
+}

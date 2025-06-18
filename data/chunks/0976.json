@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_1_B_28",
+  "content": "/>\nIII.ii.1.B.4.a\n.\nUsing the SSA INQUIRY Command in Share\nUse the SSA INQUIRY command in VBMS or Share to verify the monthly amount of benefits SSA paid to a\nVeteran\nVeteran’s spouse or surviving spouse\nVeteran’s surviving child(ren), or\nVeteran’s parent(s).\nThe SSA INQUIRY command requires the user to provide\nthe Veteran’s/claimant’s\nname\nSSN\ndate of birth, and\nVA file number, and\nthe reason for inquiry for each individual for whom information is needed.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 1, Section B - Department of Veterans Affairs (VA) Requests for Information From the Social Security Administration (SSA)",
+  "citation": "Part III, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014111/M21-1-Part-III-Subpart-ii-Chapter-1-Section-B-Department-of-Veterans-Affairs-VA-Requests-for-Information-From-the-Social-Security-Administration-SSA",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:35.947607",
+  "tags": [
+    "m21-1"
+  ]
+}

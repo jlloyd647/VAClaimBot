@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_2_B_33",
+  "content": "/>\nVI.i.2.B.3.i\n.\nRequesting Compensation or P&F Service’s Approval of Administrative Decisions\nIf approval of an administrative decision by Compensation or P&F Service is necessary according to the instructions in\nM21-1, Part VI, Subpart i, 2.B.3.g\n,\nextend the suspense date of the EP that was established in connection with the administrative decision to a date that is 60 days in the future, and\nfollow the instructions in the table below.\nIf the decision requires approval by ...\nThen ...\nCompensation Service\nadd the special issue\nCompensation Service Review-Over $25K\nto the EP.\nNotes\n:\nNational Work Queue (NWQ) will automatically route the EP to the appropriate team within Compensation Service following addition of the referenced special issue.\nIf the EP is being processed\noutside\nof NWQ, claims processors must manually broker it to\nCompensation Service (Washington DC)\n.\nReference\n:  For more information on the action described in the preceding bullet, see the\nVBMS Core User Guide\n.\nP&F Service\nadd the special issue\nPension & Fiduciary Service Review\nto the EP, and\nsubmit the request using the P&F Service Submission Tool.\nNotes\n:\nNWQ will automatically route the EP to the appropriate team within P&F Service following the addition of the referenced special issue.\nIf the EP is being processed\noutside\nof NWQ, claims processors must manually broker it to P&F Service.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 2, Section B - Correcting the Erroneous Payment of Benefits to a Beneficiary",
+  "citation": "Part VI, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179474/M21-1-Part-VI-Subpart-i-Chapter-2-Section-B-Correcting-the-Erroneous-Payment-of-Benefits-to-a-Beneficiary",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:04.081849",
+  "tags": [
+    "m21-1"
+  ]
+}

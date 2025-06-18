@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_2_C_12",
+  "content": "/>\nXIV.2.C.2.d\n.\nProcessing Work Item 834E\nFollow the instructions in the table below when an 834E work item is received.\nStep\nAction\n1\nEstablish EP 692.\n2\nAttempt to obtain identifying information that differs from the information that appears on the work item\nby\nreviewing the claims folder, and\ncontacting the beneficiary by telephone.\nNote\n:  Follow the instructions in\nM21-1, Part III, Subpart i, 2.D.1.e\nwhen requesting information from a beneficiary by telephone.\n3\nWere attempts to obtain new identifying information successful?\nIf\nyes\n, go to the next step.\nIf\nno\n,\ndisregard the remaining steps in this table, and\nfollow the instructions in\nM21-1, Part XIV, 2.C.3.a\n.\n4\nUsing the new identifying information referenced in Step 2, follow the instructions in the\nVBMS Core User Guide\nfor making an SSA inquiry through FOLQ.\n5\nFollow the instructions in the table below.\nIf …\nThen …\nthe unverified SSN belongs to a Veteran, and\nFOLQ returns an SSN that does\nnot\nmatch the SSN in VA’s corporate record\nrefer the case to the station duplicate record coordinator to\nresolve the potential duplicate record, and\nrequest correction of the SSN, and\nclear the pending EP 692\n.\nthe unverified SSN belongs to a Veteran’s dependent, and\nFOLQ returns an SSN that does\nnot\nmatch the SSN in VA’s corporate record\nupdate the corporate record by entering the SSN obtained through FOLQ in the SSN field on the\nDEPENDENTS screen in Share, or\nDEPENDENCY screen in VBMS-A, and\nclear the pending EP 692\n.\nFOLQ is unable to locate an SSA record\nfollow the instructions in\nM21-1, Part XIV, 2.C.3.a\n.\nReferences\n:  For more information on\nFOLQ, see\nM21-1, Part III, Subpart ii, 1.B.3\n, and\nusing\nShare, see the\nShare User Guide\n, and\nVBMS-A, see the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part XIV, Chapter 2, Section C - Social Security Number (SSN) Verification",
+  "citation": "Part XIV, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173304/M21-1-Part-XIV-Chapter-2-Section-C-Social-Security-Number-SSN-Verification",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:31:54.224176",
+  "tags": [
+    "m21-1"
+  ]
+}

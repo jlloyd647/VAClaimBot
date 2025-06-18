@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_ii_3_E_124",
+  "content": "/>\nXI.ii.3.E.17.i\n.\nEP Control and Disposition for Initial Claims or Claims of CUEs\nFollow the steps in the table below to take action on an initial claim or claim for CUEs pending at the time of death when VA receives a substitution or accrued claim.\nNote\n:  If a survivor’s claim is received, establish the appropriate EP with the DOC the VA received the survivors claim.\nStep\nAction\n1\nUse the table below when determining if the claimant is a valid substitute claimant.\nIf the claimant ...\nThen ...\nis a valid substitute claimant\nrefer to\nM21-1, Part XI, Subpart ii, 3.E.17.f\n.\nis not a valid substitute claimant\nrefer to\nM21-1, Part XI, Subpart ii, 3.E.17.e\n.\n2\nIf award action is needed for the accrued claim and a standard form for accrued is received, establish EP 165 if there is no EP pending.  Adjudicate the accrued claim and notify the claimant.\nIf a standard form for accrued is not received, notify the claimant of the decision for the initial claim or CUE pending at the time of original claimant’s death.  If applicable, also explain in the notification letter that any money due for accrued cannot be paid unless an application for accrued is received timely.\nNote\n:  If accrued benefits are awarded to a survivor who is also receiving pension, establish an EP 150 using the date of the accrued notification letter as the DOC.  Add a note in VBMS to document the reason for the EP 150.  National Work Queue will route the EP 150 to a PMC to determine the impact, if any, of the accrued benefits on the pension entitlement.\n3\nIf applicable, fully adjudicate the claim for survivor’s benefits, granting or denying the claim as appropriate.  Do not allow the EP 140 or 190 to remain pending.\nException\n:  When the initial claim or claim for CUE pending at death is inextricably intertwined with a claim for DIC and the cause of death, both EPs must be worked together unless entitlement to DIC is granted.",
+  "title": "M21-1, Part XI, Subpart ii, Chapter 3, Section E  - Accrued Authorization and Notification",
+  "citation": "Part XI, Subpart ii, Chapter 3, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174208/M21-1-Part-XI-Subpart-ii-Chapter-3-Section-E-Accrued-Authorization-and-Notification",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:21:05.025085",
+  "tags": [
+    "m21-1"
+  ]
+}

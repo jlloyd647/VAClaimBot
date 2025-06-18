@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_13",
+  "content": "/>\nII.ii.2.A.1.h\n.\nOther VBMS Functionality Available to Maintain the eFolder\nVBMS-Core contains a variety of tools and functionality that allow a claims processor to organize and maintain the eFolder.  Use of these features are strongly recommended, but may also be required by individual manual references and other guidance.\nThe\nVBMS Core User Guide\ncontains instructions on how to use features such as\nassociating documents to a specific claim\nbookmarking an eFolder document\nannotating a document\ntagging a document with no legal, administrative, or historical value for a claim as having no evidentiary value, and\nmanaging duplicate copies of the same document and designating best copy, certified copy, or establishing effective date.\nNote\n:  When annotating an award for record-keeping purposes, enter information into the remarks section of the document that briefly provides the reasons for the required action.\nReferences\n:  For more information on\nadding bookmarks and associating documents to a claim, see the\nVBMS Core User Guide\nadding remarks to an award, see the\nVBMS Awards User Guide\nthe material that requires removal from a claims folder, see\nM21-1, Part II, Subpart ii, 2.B\n, and\nmanaging duplicate documents, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

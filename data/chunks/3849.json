@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_1_B_28",
+  "content": "/>\nIntroduction\nThis topic contains information on decision notices generated using RADL, including\noverview of RADL\ntypes of\ndecisions for which claims processors may\nuse RADL to generate a decision notice\n, and\nnot use RADL to generate a decision notice\nsections of a RADL\n-generated decision notice\nusing RADL to prepare a decision notice in VBMS\n– Awards (\nVBMS-A)\ndevelopment functionality within RADL\nsoliciting claims in a RADL\n-generated decision notice\nincluding in a RADL-generated decision notice a summary of the evidence the authorization activity considered in making a decision\n, and\nadding free text to a RADL-generated decision notice\n.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 1, Section B - Decision Notices",
+  "citation": "Part VI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179469/M21-1-Part-VI-Subpart-i-Chapter-1-Section-B-Decision-Notices",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:45.480026",
+  "tags": [
+    "m21-1"
+  ]
+}

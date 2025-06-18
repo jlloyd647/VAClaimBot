@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_B_25",
+  "content": "/>\nXI.i.1.B.3.b\n.\nEntitlement to DIC and MOD With No Running Award\nFollow the steps in the table below when there is entitlement to Dependency and Indemnity Compensation (DIC) and MOD and there is no running award.\nStep\nAction\n1\nOn the VBMS-A ALL AWARDS page, select ADD NEW AWARD, then select\nCPD SPOUSE\nfrom the AWARD TYPE drop-down menu (if a CPD SPOUSE tab is not already created).\n2\nSelect the RECORD DECISIONS button.\n3\nSelect the RATING tab.\n4\nSelect the DEATH DECISIONS tab.\nNote\n:  A rating decision is needed, if this screen is blank, and the Veteran did not die in service.\n5\nUnder the BASIC ELIGIBILITY tab, select the ADD button.\n6\nSelect the appropriate DIC eligibility reason.\n7\nInput the date in the EVENT DATE field.\nNote\n:  The EFFECTIVE DATE field will automatically default to the first day of the month following the event date.\n8\nSelect the ACCEPT button.  This will record the DIC decision.\n9\nSelect the ADD button to record the MOD decision.\n10\nSelect\nELIGIBLE FOR VETERAN’S RATE MONTH OF DEATH\nfrom the BASIC ELIGIBILITY drop-down menu.\n11\nInput the date in the EVENT DATE and AWARD EFFECTIVE DATE field.\nNote\n:  The MOD effective date is the first day of the month of the Veteran’s death.\n12\nSelect the benefit from the BENEFIT drop-down menu.\n13\nSelect the SERVICE PERIOD field.\n14\nClick the ACCEPT button.  The screen will display both decisions.\n15\nSelect the OK button.  This will take the user to the RECORD DECISIONS screen.\n16\nGenerate the award.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section B  - System Information for Veteran Notice of Death (NOD) and Month of Death (MOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174194/M21-1-Part-XI-Subpart-i-Chapter-1-Section-B-System-Information-for-Veteran-Notice-of-Death-NOD-and-Month-of-Death-MOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:13.632383",
+  "tags": [
+    "m21-1"
+  ]
+}

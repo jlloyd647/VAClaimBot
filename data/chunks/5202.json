@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_ii_1_B_49",
+  "content": "/>\nVII.ii.1.B.6.c\n.\nAction to Take When the Hines ITC Is Unable to Issue VA Form 21-8960-1\nWhen the Hines Information Technology Center (ITC) cannot issue\nVA Form 21-8960-1\n,\nVA’s claims-processing system generates work item 882H,\nSchool Child Verification Letter Not Sent\n.  When the work item appears in an RO's inventory, the RO must send the beneficiary a\nVA Form 21-8960-1\n.\nTo control for return of the form,\nestablish a future diary under diary code 30,\nLocal Regional Office Special Use\n, in Share that expires the month after a 60-day period that begins the\nlater\nof the following dates:\nthe date the work item was generated, or\nthe date the RO sent the form to the beneficiary, and\nenter the comment\nSchool Child Verification Development\nin the COMMENT text box.\nReference\n:  For more information on 800 series work items, see\nM21-4, Appendix B\n.",
+  "title": "M21-1, Part VII, Subpart ii, Chapter 1, Section B - Awards and Adjustments Based Upon School Attendance",
+  "citation": "Part VII, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176631/M21-1-Part-VII-Subpart-ii-Chapter-1-Section-B-Awards-and-Adjustments-Based-Upon-School-Attendance",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:54:17.295390",
+  "tags": [
+    "m21-1"
+  ]
+}

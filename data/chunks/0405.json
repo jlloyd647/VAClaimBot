@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_8",
+  "content": "/>\nII.ii.2.A.1.c\n.\nAssociating an eFolder Note\nTo document information or recent actions taken on a claim, users may add a note from any screen in VBMS that displays the ADD NOTE icon.  Associating a note to a Veteran or claim determines whether or not the note will be temporary or permanent.  A note associated to a Veteran is always permanent, and claim-associated notes can be temporary or permanent.\nNotes can be added and viewed to document information or recent actions taken on a claim.  Notes should reflect actions that are not captured by a tracked item or development letter.\nExamples\n:  Notes can be used to document\nunsuccessful attempts to contact the Veteran, or\nthe reason for postponement of a routine future exam.\nA permanent, claim-associated note in VBMS is\nrequired\nto document\nthe rationale for changing the\ndate of claim (DOC) of\nan end product (EP)\nan explanation for\nestablishing an EP 930, and\ncancelling an EP 930, and\nthe details of an EP 930 or quality review error correction, which must include the\nspecific corrective action(s) taken\ndate of the action(s) taken, and\nstation number of the regional office (RO) that took the action(s).\nNote\n:  Any VBMS user can view permanent notes associated to a Veteran’s claim; however, temporary notes associated to a specific claim are deleted when the claim is closed or completed.  Depending on access rights, only the original creator of the note, the user assigned to the claim, and persons with supervisor or administrator roles can view temporary notes.\nImportant\n:  Do not type anything in a note that would be seen as inappropriate or offensive by the Veteran, the general public, or the Court of Appeals for Veterans Claims.  State the facts only, not opinions.  Permanent notes become part of the Veteran’s record at midnight on the day the note was created and are subject to the Freedom of Information Act (FOIA).\nReference\n:  For more information on\nassociating an eFolder document note to a claim, see the\nVBMS Core User Guide.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

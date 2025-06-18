@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VIII_i_3_A_5",
+  "content": "/>\nVIII.i.3.A.1.a\n.\nInformation on Controlling Chapter 18 Benefit Claims\nThe Denver Regional Office (RO) processes all claims for Chapter 18 benefits.\nUse the table below to determine the action ROs must take upon receipt of a\nVA Form 21-0304,\nApplication for Benefits for a Qualifying Veteran’s Child Born With Disabilities\n, or other supporting documents or evidence related to Chapter 18 benefits.\nIf …\nThen the RO will ...\na Veterans Benefits Management System (VBMS) electronic claims folder (eFolder) exists for the child\nupload the documents, (i.e., application and/or supporting documents or evidence) into the child’s eFolder, and\nsend the Denver RO an encrypted e-mail with the Veteran’s claim number and child’s Social Security number (SSN) to\nVAVBADEN/RO/BDEFECTS\n.\nno\nVBMS eFolder exists for the child\nscan the documents and send them via an encrypted e-mail to\nVAVBADEN/RO/BDEFECTS\n.\nNote\n:  Do not establish an end product (EP) or an eFolder.  The Denver RO will create a corporate record for the child and establish the EP and eFolder.\nthere is no way to identify the child’s information\ntransfer documents to the Denver RO centralized mail portal, and\ne-mail the DOCUMENT ID number to\nVAVBADEN/RO/BDEFECTS\n.\nNotes\n:\nROs other than the Denver RO should\nnot\nestablish EPs for Chapter 18 benefit claims.  All Chapter 18 claims will be tracked under the jurisdiction of the Denver RO.\nConcurrent EPs should\nnot\nbe sent to the Denver RO.  The Denver RO only works the Chapter 18 issue.\nDo not transfer the Veteran’s claims folder or broker in VBMS.\nClaims for Chapter 18 benefits are worked under the child’s SSN and there is no claims folder for these claims.",
+  "title": "M21-1, Part VIII, Subpart i, Chapter 3, Section A - General Chapter 18 Benefits Information",
+  "citation": "Part VIII, Subpart i, Chapter 3, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177428/M21-1-Part-VIII-Subpart-i-Chapter-3-Section-A-General-Chapter-18-Benefits-Information",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:55:41.025941",
+  "tags": [
+    "m21-1"
+  ]
+}

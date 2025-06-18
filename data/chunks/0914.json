@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_2_F_16",
+  "content": "/>\nIII.i.2.F.2.f\n.\nEntering a Claim-Specific Special Issue\nThe RO has a responsibility to identify any contention that may have a special issue associated with it.  Once the RO identifies the contention as having a special issue, the RO must enter a claim-specific special issue indicator that provides additional details about the contention and claim.\nUse of special issue indicators is mandatory when the claim meets the criteria for their application.  ROs are responsible for identifying and inputting special issue indicators as required by\nM21-4, Appendix E, 2\n.  If a special issue exists and applies to the claim, use of the corresponding indicator is required.\nExample\n:  The claimant files a claim for diabetes mellitus due to Agent Orange exposure while serving in Vietnam.  Since Agent Orange is identified as a special issue, the diabetes mellitus contention must contain an\nAgent Orange-Vietnam\nspecial issue indicator.\nSpecial issues indicators may need to be updated throughout the life of a claim.  It is important that claims processors are vigilant in identifying when the circumstances of the claim require the addition, removal, or editing of special issue indicators.\nExample\n:  The claimant submits a fully developed claim (FDC), and the claims processor properly applies the FDC special issue indicator to one of the contentions associated with the claim.  The claim is later excluded from the FDC Program based on evidence received after claims establishment, so the claims processor changes the FDC special issue indicator from\nFully Developed Claim\nto\nFDC Excluded – Evidence Received After FDC CEST\n.\nReference\n:  For more information on how to add or remove a special issue indicator in VBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 2, Section F - Record Maintenance During the Development Process",
+  "citation": "Part III, Subpart i, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000046277/M21-1-Part-III-Subpart-i-Chapter-2-Section-F-Record-Maintenance-During-the-Development-Process",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:17.270964",
+  "tags": [
+    "m21-1"
+  ]
+}

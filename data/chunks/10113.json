@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_7_None_6",
+  "content": "/>\nXIV.7.1.b\n.\nHow VA Processes the Data It Receives From SSA and BOP\nEach month, a VA computer system compares Social Security numbers (SSNs) in VA compensation and pension (C&P) files against SSNs in SSA’s and BOP’s inmate database.  When a match arises, the system\ngenerates one of the following worksheets, depending on the database from which the match arose:\nVA and Federal BOP Computer Match\n, or\nVA and SSA State Prisoner Computer Match\nuploads a copy of the worksheet into the appropriate electronic claims folder (eFolder), and\nestablishes an 800 series work item.\nImportant\n:\nIf automatic upload of the worksheet does not occur, claims processors must manually upload a copy of the worksheet into the appropriate eFolder.\nWorksheets containing personally identifiable information (PII) for multiple claimants must be redacted appropriately prior to upload.\nReference\n:\nFor more information on redacting documents containing PII, see\nM21-1, Part II, Subpart ii, 2.B.1.d\n.",
+  "title": "M21-1, Part XIV, Chapter 7 - Data-Matching Programs That Identify Incarcerated Beneficiaries and Dependents",
+  "citation": "Part XIV, Chapter 7, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173307/M21-1-Part-XIV-Chapter-7-Data-Matching-Programs-That-Identify-Incarcerated-Beneficiaries-and-Dependents",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:33:08.650702",
+  "tags": [
+    "m21-1"
+  ]
+}

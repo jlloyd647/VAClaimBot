@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_C_28",
+  "content": "/>\nX.i.6.C.3.g\n.\nGenerating an Automated VBMS STR Request\nFollow the steps in the table below to ensure an automated VBMS STR request is generated for BDD and BDD-excluded claims after the service member has been discharged.\nStep\nAction\n1\nVerify the status of the automated STR request in VBMS by checking the\nObtain STRs\nsection of the\nDevelopment Plan\n.\nDetermine whether additional action is required using the table below.\nIf the service member’s information\n…\nThen\n…\nwas updated prior to the end of the day following discharge (the STR status is not\nerror\nor\nwarning\n)\nno additional action is required.\nwas not updated prior to the end of the day following discharge (the STR status is\nerror\nor\nwarning\n)\nNote\n:  For pre-discharge claims the message will read\nWARNING:  This Veteran is not eligible for an Electronic STR Request.  Eligibility checked on MM/DD/YYYY at HH:mm.  The RAD Date does not meet the eligibility criteria.\ngo to Step 2.\n2\nUpdate the Veteran’s service in VBMS to reflect the correct RAD date.\nFor correct RAD on or after January 1, 2014\nupdate the Veteran’s military service\nreturn to the OBTAIN STRS tab in the\nDevelopment Plan\nsection\nresubmit the STR request by clicking on\nRequest STR Again\n, and\nthe status message will be updated immediately to reflect a new status.\nNotes\n:\nThe only way to avoid an\nerror\nor\nwarning\nmessage is to ensure that the service member’s period of service in BIRLS is complete\nbefore\nthe end of the day following discharge.\nClicking on the REQUEST STR AGAIN button without entering a complete period of service in BIRLS will continue to generate the same error message.\nDo not delay other development actions awaiting the certified copies of the STRs.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section C - Division of Responsibilities – Benefits Delivery at Discharge (BDD) and BDD-Excluded Claims",
+  "citation": "Part X, Subpart i, Chapter 6, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177951/M21-1-Part-X-Subpart-i-Chapter-6-Section-C-Division-of-Responsibilities-Benefits-Delivery-at-Discharge-BDD-and-BDD-Excluded-Claims",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:51.791303",
+  "tags": [
+    "m21-1"
+  ]
+}

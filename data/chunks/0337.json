@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_C_35",
+  "content": "/>\nII.i.2.C.5.e\n.\nAction Required Upon Receipt of Identifying Information for Unidentifiable Mail\nDocuments in packets marked as unidentifiable mail will remain viewable in the CM portal through the SEARCH feature for a period of one year after RMO approval.  At the expiration of the one-year period, the unidentifiable mail will be moved into an archive status, and the documents can no longer be viewed.\nFollow the steps in the table below to search for unidentifiable mail, when information is received that may lead to identification of a packet previously processed as unidentifiable mail.\nStep\nAction\n1\nAccess the SEARCH feature in the CM portal and search for the Veteran based on available information.\n2\nIf an unidentifiable mail packet is located\nopen the mail packet from the SEARCH feature by selecting PERFORM WORK from the ACTIONS menu\ndownload the documents contained in the mail packet to the user's desktop by selecting DOWNLOAD from the TASK menu\ntake proper action to control the documents in VBMS, and\nmanually upload the documents to VBMS from the user's desktop.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section C - Mail Management",
+  "citation": "Part II, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174860/M21-1-Part-II-Subpart-i-Chapter-2-Section-C-Mail-Management",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:30.870043",
+  "tags": [
+    "m21-1"
+  ]
+}

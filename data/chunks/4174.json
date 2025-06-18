@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_B_27",
+  "content": "/>\nVI.ii.4.B.3.c\n.\nAwarding Benefits After Determining the Amount of a Veteran’s MRP Has Not Yet Been Calculated\nWithhold\nall\ndisability compensation when a withholding for MRP is required in accordance with the instructions in\nM21-1, Part VI, Subpart ii, 4.B.2.a\n-\nc\n,\nand\nfewer than six months have passed since the Veteran retired without the service department calculating the amount of MRP.\nWhen a withholding for MRP is required, establish end product (EP) 290 after authorizing the award by\nusing the current date as the date of claim and the claim label\nIDES Retired Pay Waiver/Election\nwhen processing an Integrated Disability Evaluation System (IDES) case, or\nBDD Retired Pay Waiver/Election\nwhen processing any other type of case\nentering\nAwaiting MRP Information\nas an associated contention, and\nadding the appropriate tracked item as identified in\nM21-4 Appendix D\n, with a suspense date that is 10 days from the current date.\nException\n:  Do\nnot\nwithhold\nall\ndisability compensation if a Veteran is already receiving disability compensation on the date of retirement.  Under such circumstances, withhold only the amount of any\nincrease\nin compensation to which the Veteran is entitled.\nImportant\n:  Do\nnot\nwithhold for MRP if\nsix or more months have passed since the Veteran retired and the Veteran’s service department has not yet calculated MRP, or\nthe effective date and authorization of the award is before the corresponding retired pay cutoff date/time, as described in\nM21-1, Part VI, Subpart ii, 4.B.2.c\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section B - Preparing and Adjusting Awards in Military Retired Pay (MRP) Cases",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179488/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-B-Preparing-and-Adjusting-Awards-in-Military-Retired-Pay-MRP-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:18.975843",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_2_F_31",
+  "content": "/>\nIII.i.2.F.4.b\n.\nClaim-Level Suspense\nThe claim-level suspense reason and date will automatically update based on tracked items when a claim is in\nOpen\nstatus.\nEach tracked item will automatically map to a claim-level suspense reason.\nWhen the claim status is a status other than\nOpen\n, and a tracked item is added or reopened, the system will automatically set the claim status to\nOpen\nand update the claim-level suspense reason and date based on the opened tracked item(s).\nThe claim-level suspense reason and date will be updated by the claim status when the claim status is anything other than\nOpen\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 2, Section F - Record Maintenance During the Development Process",
+  "citation": "Part III, Subpart i, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000046277/M21-1-Part-III-Subpart-i-Chapter-2-Section-F-Record-Maintenance-During-the-Development-Process",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:17.270964",
+  "tags": [
+    "m21-1"
+  ]
+}

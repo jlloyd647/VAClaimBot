@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_C_26",
+  "content": "/>\nV.iv.1.C.4.a\n.\nCombined Evaluations Contained on the Coded Conclusion\nThe coded conclusion contains the\ncurrent combined evaluation\nhistorical combined evaluation(s), and\nthe effective date(s) for each combined evaluation.\nThe COMBINED EVALUATION FOR COMPENSATION field is populated whenever there is at least one SC or\n38 U.S.C. 1151\n-awarded disability.\nThe COMBINED EVALUATION FOR PENSION field is populated with the combined evaluations of both the NSC and SC disabilities whenever a claim for pension has been decided.\nException\n:  Proposed evaluations, such as under the Integrated Disability Evaluation System program or proposed reductions, are\nnot\nreflected in the combined evaluation.\nNote\n:  VBMS-R automatically calculates each combined evaluation effective date based on the issues established and effective dates entered.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section C - Coded Conclusion",
+  "citation": "Part V, Subpart iv, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180525/M21-1-Part-V-Subpart-iv-Chapter-1-Section-C-Coded-Conclusion",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:08.257771",
+  "tags": [
+    "m21-1"
+  ]
+}

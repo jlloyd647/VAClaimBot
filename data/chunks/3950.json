@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_2_None_7",
+  "content": "/>\nVI.ii.2.1.b\n.\nDetermining Whether a Veteran Received Separation Benefits\nA review of one or more of the following will typically reveal whether or not a Veteran received separation benefits:\napplication for VA compensation or pension\nDD Form 214, Certificate of Release or Discharge From Active Duty\ndocumentation in the Veteran’s claims folder, such as\nresponses to requests for information/records submitted through\nthe Personnel Information Exchange System (PIES) or\nAskDFAS\n(Defense Finance and Accounting Service), and/or\nletters from\nthe Coast Guard (if the Veteran served in the Coast Guard)\nDFAS Retired and Annuity, and/or\nDFAS Military Pay Operations\nthe MISCELLANEOUS INFO tab on the VETERANS IDENTIFICATION screen in the Beneficiary Identification and Records Locator Subsystem\nthe DISCHARGE PAY tab on the MILITARY PAYMENT INFORMATION screen in the\nVeterans Benefits Management System (VBMS) - Awards (VBMS-A), and/or\nthe MILITARY PAYMENTS tab on the MILITARY INFORMATION screen in Share.\nNotes\n:\nThe presence of an amount in the SEPARATION PAY field on the MILITARY PAYMENTS tab in Share is only an indicator the Veteran received\nsome type\nof separation benefit.  It is\nnot\na reliable indicator of whether this benefit is the same “separation pay” described in\n10 U.S.C. 1174\n.\nUse the spreadsheet titled\nSeparation Program Designator (SPD) Codes\nto determine whether – based on the SPD code that appears in Block 26 of the Veteran’s\nDD Form 214\n– the Veteran was eligible for any of the separation benefits named on the spreadsheet.  If eligibility did\nnot\nexist, it is safe to conclude the Veteran was not awarded any of them.\nIf it is unclear whether or not a Veteran received separation benefits, follow the instructions in\nM21-1, Part VI, Subpart ii, 2.2.b\n.\nReference\n:  For guidance in accessing information in VA’s systems of record, see the\nShare User Guide\n, and\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 2 - Recoupment of Separation Benefits",
+  "citation": "Part VI, Subpart ii, Chapter 2, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179478/M21-1-Part-VI-Subpart-ii-Chapter-2-Recoupment-of-Separation-Benefits",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:32.145895",
+  "tags": [
+    "m21-1"
+  ]
+}

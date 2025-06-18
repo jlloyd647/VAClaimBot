@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_6_None_14",
+  "content": "/>\nXIV.6.2.c\n.\nEP Credit and Justification for Clearing an EP\nClear an end product (EP) 290 for every group of records on a list of potential duplicate payment cases that require the analysis described in\nM21-1, Part XIV, 6.2.a\n, even if such analysis results in a determination that no corrective action is necessary.\nJustify the clearing of EP 290 by\nsaving a copy of only that row of the list that refers to the claim number under which the EP 290 was cleared, and\nuploading the copy into the corresponding electronic claims folder (eFolder).\nNotes\n:\nIndividual rows from a list of potential duplicate payment cases may be copied and pasted into a Word document (for uploading into an eFolder) by using the Snipping Tool accessory in Windows.\nUploading a copy of the\nentire\nlist of potential duplicate payment cases would be inappropriate as it contains personally identifiable information about other claimants/beneficiaries.",
+  "title": "M21-1, Part XIV, Chapter 6 - Review of Potential Duplicate Payment Cases",
+  "citation": "Part XIV, Chapter 6, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173308/M21-1-Part-XIV-Chapter-6-Review-of-Potential-Duplicate-Payment-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:32:59.381161",
+  "tags": [
+    "m21-1"
+  ]
+}

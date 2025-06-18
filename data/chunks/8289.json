@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_A_19",
+  "content": "/>\nXI.i.1.A.2.a\n.\nProcess for Receiving a Returned Check as a NOD\nThe table below describes the stages in the process of receiving a returned check as a NOD.\nStage\nDescription\n1\nThe Department of the Treasury\nreceives a Veteran’s returned VA benefit payment, and\nsends an electronic file to the Hines ITC.\n2\nIf the file indicates the payment was returned due to death of person entitled, the Hines ITC suspends\nthe Veteran’s award, and\nany apportionee awards.\n3\nThe Hines ITC\nprocesses the payment, and\nestablishes the applicable work item for action by the RO of jurisdiction (ROJ).\n4\nThe ROJ\nconsiders establishment of the work item in Stage 3 as notice of the Veteran’s death, and\nundertakes development action to determine the exact date of death.\nReference\n:  For more information on processing work items, see\nM21-4, Appendix B, 4\n.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section A  - General Policies for Veteran First Notice of Death (FNOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174187/M21-1-Part-XI-Subpart-i-Chapter-1-Section-A-General-Policies-for-Veteran-First-Notice-of-Death-FNOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:04.318608",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_G_14",
+  "content": "/>\nIX.iii.1.G.2.b\n.\nExample:  Rules for UME Deductibility\nExample\n:\nA married Veteran who is entitled to A&A claims payment of UMEs of $3,000.\nEffective December 1, 2014, the MAPR for a Veteran with one dependent is $16,851.  The Veteran’s entitlement to A&A is disregarded.\nCalculation\n:  The table below outlines the calculation for determining the deductible medical expenses.\nStep\nCalculation\nDescription\n1\n$16,851\nx 0.05\n$842\nMAPR\n5 percent\n5 percent deductible (rounded down)\n2\n$3,000\n- $842\n$2,158\nGross medical expenses\n5 percent deductible\nDeductible medical expenses\nImportant\n:  It is rarely necessary to go through the process outlined in the example above.  When gross medical expenses are entered in the MEDICAL EXPENSE tab found in the FINANCIAL screen of the Veterans Benefits Management System (VBMS)-Awards (VBMS-A), the system performs the necessary calculations.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section G - Pension - Deductible Medical Expenses",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section G",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177522/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-G-Pension-Deductible-Medical-Expenses",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:36.061469",
+  "tags": [
+    "m21-1"
+  ]
+}

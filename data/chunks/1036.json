@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_A_39",
+  "content": "/>\nIII.ii.2.A.4.h\n.\nProactive Digitization of Service Records\nIn September 2021, NPRC began bulk-scanning service records that had not been previously requested by VA. The records are scanned on a first-in, first-out basis, which may result in a Veteran’s complete STRs being digitized before the personnel records, or vice versa. Scanned records are automatically uploaded to the corresponding Veteran’s eFolder.\nImportant\n:\nThe\nNPRC Document(s) bulk-scanned into VBMS\nflash is automatically applied to the Veteran’s corporate record via a batch process when\nany\nof the service records are uploaded to VBMS.  Presence of the flash\ndoes not\nmean that the bulk-scanning of the Veterans entire service record has completed.\nClaims processors must compare the records currently uploaded in VBMS as part of the proactive digitization process with the totality of records that would be in NPRC’s possession and determine if there are likely still records left unscanned.  If STRs and personnel records from all periods of service are\naccounted for, no further requests are necessary, or\nincomplete or unavailable, a PIES O50 request for the remaining unscanned records is necessary.\nReferences\n:  For more information on\nNPRC, see\nM21-1, Part III, Subpart ii. 2.A.4\nSTRs NPRC houses, see\nM21-1, Part III, Subpart ii, 2.A.4.d\n, and\ncorporate flashes, see\nM21-4, Appendix E, 2.1.b\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section A - General Information on Service Records",
+  "citation": "Part III, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014117/M21-1-Part-III-Subpart-ii-Chapter-2-Section-A-General-Information-on-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:54.542216",
+  "tags": [
+    "m21-1"
+  ]
+}

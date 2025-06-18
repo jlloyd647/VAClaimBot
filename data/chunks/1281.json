@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_3_None_25",
+  "content": "/>\nIII.ii.3.2.g\n.\nPMR Retrieval Program Tracked Items\nPMR requests processed through the PMR Retrieval Program will automatically have tracked items created and updated by VBAAP.  Specifically, VBAAP will:\nadd the\nPMR Pending\ntracked item with a 15-day suspense upon initial request of PMRs from the PHP\nupdate the\nPMR Pending\ntracked item\nwith an additional 15-day suspense upon making a follow-up request (if required), and\nafter PMRs have been received and verified complete, and\nclose the\nPMR Pending\ntracked item if records are not received within 30 days.\nAdditionally, VBAAP will complete subsequent development actions and add corresponding tracked items for the following PMR reject reasons:\nVA Form 21-4142\nis expired\nVA Form 21-4142/21-4142a\nis incomplete (missing claimant or PHP information), and\nVA Form 21-4142\nis outdated.\nImportant\n:\nAll PMR Retrieval Program development actions will have a corresponding VBMS note.\nAn employee who determines a tracked item was improperly opened, updated, or closed by VBAAP should update the tracked item to the appropriate state, as necessary, and add a note in VBMS documenting the corrective action taken.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 3 - Requesting Evidence From Private Health Providers (PHPs)",
+  "citation": "Part III, Subpart ii, Chapter 3, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181428/M21-1-Part-III-Subpart-ii-Chapter-3-Requesting-Evidence-From-Private-Health-Providers-PHPs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:09.092025",
+  "tags": [
+    "m21-1"
+  ]
+}

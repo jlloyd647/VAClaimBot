@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_i_2_E_8",
+  "content": "/>\nIV.i.2.E.1.c\n.\nRequesting an A&A and Housebound Examination\nUse the table below when requesting an A&A and housebound examination.\nNotes\n:\nA disability benefits questionnaire (DBQ) does not exist at this time for A&A and housebound examinations.\nA&A examinations do not require condition-specific DBQs unless a claim for an increased rating is received or found to be within scope of the claim for special monthly compensation (SMC) as noted in\nM21-1, Part II, Subpart iii, 1.A.3.c\n.\nIf the examination is being requested via use of the ...\nThen ...\nCompensation and Pension Record Interchange (CAPRI)\nselect\nAID AND ATTENDANCE OR HOUSEBOUND EXAMINATION\nfrom the LIST OF EXAMS menu, and\nensure any relevant information for the examiner is placed in the COMMENTS field.\nVeterans Benefits Management System (VBMS)\nadd the specific service-connected (SC) condition(s) upon which the claim is based to the A&A contention in the RATED ISSUE(S) field under the CONTENTIONS chevron in VBMS\nassociate the examination scheduling request (ESR) with the A&A contention, ensuring that its classification type is\nSpecial Monthly Compensation – Aid and Attendance/Housebound\nensure any other relevant information for the examiner is placed in the ADDITIONAL INFORMATION field, and\nensure the\nDBQ A&A Worksheet – VA Form 21-2680\nis selected.\nNote\n:  When the SC condition(s) applicable to the claim for A&A or housebound benefits is/are added to the A&A contention, as described above, standard language will automatically populate in the ESR indicating that the Veteran is claiming A&A or housebound benefits based on the selected SC condition(s).\nReferences\n:  For more information on\ndeveloping for A&A and housebound status under\n38 CFR 3.351\n, see\nM21-1, Part IX, Subpart ii, 1.A.3\n, and\nrequesting examinations in\ngeneral, see\nM21-1, Part IV, Subpart i, 2.A\nCAPRI, see the\nCAPRI User Manual\n, and\nVBMS Exam Management System (EMS), see the\nVBMS Core User Guide\n, and\nEMS User Guide\n.",
+  "title": "M21-1, Part IV, Subpart i, Chapter 2, Section E - Examinations in Special Situations",
+  "citation": "Part IV, Subpart i, Chapter 2, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180507/M21-1-Part-IV-Subpart-i-Chapter-2-Section-E-Examinations-in-Special-Situations",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:39:14.369048",
+  "tags": [
+    "m21-1"
+  ]
+}

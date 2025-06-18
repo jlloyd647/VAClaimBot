@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_C_12",
+  "content": "/>\nV.iv.1.C.2.a\n.\nComponents of an Analogous Code\nAn analogous code consists of two diagnostic codes (DCs) separated by a hyphen.  The\nfirst\nDC of an analogous code is a four-digit code as follows:\nthe first two digits refer to the body system involved in the rating, and\nthe second two digits are\nalways\n99.\nThe\nsecond\nDC of an analogous code is composed of a four-digit code that\nis taken from the rating schedule, and\nidentifies the criteria used to evaluate the claimed disability.\nExample\n:  Use\n6599-6516\nfor postoperative tonsillectomy if the condition is evaluated under the criteria for chronic laryngitis.\nNote\n:  A DC\nmay not\nend in\n99\nunless it is the\nfirst\nfour-digit code in an analogous code.\nReferences\n:  For more information on\nanalogous ratings, see\n38 CFR 4.20\nM21-1, Part V, Subpart ii, 3.D.1.c and d\nLendenmann v. Principi\n, 3 Vet.App. 345 (1992), and\nWebb v. McDonough\n,\n71 F.4th 1377 (Fed.Cir. 2023), and\nlisting pension rating codes, see\nM21-1, Part V, Subpart iv, 1.C.8\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section C - Coded Conclusion",
+  "citation": "Part V, Subpart iv, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180525/M21-1-Part-V-Subpart-iv-Chapter-1-Section-C-Coded-Conclusion",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:08.257771",
+  "tags": [
+    "m21-1"
+  ]
+}

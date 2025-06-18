@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_iii_2_A_15",
+  "content": "/>\nVI.iii.2.A.2.c\n.\nProcedure When Simultaneous Award Adjustments Are Not Permitted\nFollow the steps in the table below when simultaneous award adjustments are\nnot\npermitted.\nStep\nAction\n1\nMake only the award adjustment that will result in an\nincrease\nin the beneficiary’s award.\nReference\n:  For more information on separate award adjustments based on multiple transactions, see\nM21-1, Part VI, Subpart iii, 2.A.1.c\nand\nd\n.\n2\nInstead of taking fiscal authorization action, leave a remark (associated with the award adjustment made in Step 1) that reads\nAction taken in accordance with M21-1, Part VI, Subpart iii, 2.A.2.c\n.\nReference\n:  For more information on leaving remarks about an award in the\nVeterans Benefits Management System (VBMS), see the\nVBMS Awards User Guide\n.\n3\nNotify the beneficiary of the action taken in Step 1.\n4\nAfter the system has posted the award adjustment described in Step 1 (usually overnight), make the award adjustment that will result in the creation of an overpayment in the beneficiary’s account.\n5\nNotify the beneficiary of the action taken in Step 4.\nImportant\n:  Add to the decision notice a paragraph explaining that the increased benefits were\nnot\nused to offset the existing overpayment since the issue that resulted in creation of an overpayment and the issue that resulted in an increase in benefits were not related.\nI\nmportant\n:  The instructions in the table above represent a temporary procedure that users\nmust\nfollow until the claims processing system is capable of simultaneously processing multiple award adjustments of separate, distinct transactions simultaneously.\nReference\n:  For more information about notifying beneficiaries of award adjustments, see\nM21-1, Part VI, Subpart i, 1.B\n.",
+  "title": "M21-1, Part VI, Subpart iii, Chapter 2, Section A - Simultaneous Award Adjustments",
+  "citation": "Part VI, Subpart iii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179496/M21-1-Part-VI-Subpart-iii-Chapter-2-Section-A-Simultaneous-Award-Adjustments",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:50:33.513851",
+  "tags": [
+    "m21-1"
+  ]
+}

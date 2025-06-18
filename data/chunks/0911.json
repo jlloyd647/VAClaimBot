@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_2_F_13",
+  "content": "/>\nIII.i.2.F.2.c\n.\nAdditional Fields for Examination Management\nThe contention screen contains additional fields that assist with identification and exam management functionality in VBMS.  The CLASSIFICATION and MEDICAL fields are required components when entering a contention.  The ALTERNATE CONTENTION NAME field is required for Caseflow-managed end products (EPs) but can be used for other claims as well.\nThe following table describes how to utilize each field.\nContention Field\nApplication\nCLASSIFICATION\nUse appropriate medical verbiage that corresponds to the claimed medical condition, instead of the claimant’s original language.  The\nAdministrative\nclassification is only for non-rating issues, such as dependency and non-service-connected burial.\nMEDICAL\nSelect\nYes\nin the MEDICAL field if the contention may require an examination or medical opinion to make a determination.  Otherwise, select\nNo.\nALTERNATE CONTENTION NAME\nUse when the contention name, as stated by the claimant or required for Caseflow-managed EPs, results in grammatically incorrect or confusing exam request language when the contention is listed in the standardized exam request paragraphs (e.g., the contention name states the prior decision).\nResult\n:  “\nEntitlement to service connection for bilateral pes planus, to include as secondary to a service-connected right and/or left foot disability is remanded\n” would utilize “bilateral pes planus” as an alternate contention name for use in the Exam Management System.\nExceptions\n:\nIndividual unemployability as a contention must be identified by\nselecting\nUnemployability\nas a classification in order to complete necessary specific development actions in VBMS, and\nselecting\nYes\nin the MEDICAL field.\nSpecific contentions and classifications must be associated for issues being processed at a pension management center (PMC), as detailed in\nM21-1, Part III, Subpart i, 2.F.2.d\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 2, Section F - Record Maintenance During the Development Process",
+  "citation": "Part III, Subpart i, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000046277/M21-1-Part-III-Subpart-i-Chapter-2-Section-F-Record-Maintenance-During-the-Development-Process",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:17.270964",
+  "tags": [
+    "m21-1"
+  ]
+}

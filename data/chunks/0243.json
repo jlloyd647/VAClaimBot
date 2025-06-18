@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_1_B_30",
+  "content": "/>\nII.i.1.B.4.c\n.\nHandling Unscanned Shipments That Are Marked as Completed\nUnscanned shipments in a\nCompleted\nstatus can be located and scanned using the\nBTS Issue Tracker\n.  The table below provides instruction on how to request scanning of the documents.\nStep\nAction\n1\nSelect the\nBTS Issue Tracker Form\nand complete the SUBMITTER INFORMATION fields.\n2\nSelect the\nRescan: Missing Document\nscanning vendor request type.\n3\nComplete the SHIPMENT DETAILS fields and provide an explanation in the ADDITIONAL INFORMATION field.\n4\nClick SUBMIT.\nReference\n:  For more information on using the\nBTS Issue Tracker\n, see the\nFCS Training Manual\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 1, Section B - Veterans Claims Intake Program (VCIP) Shipping",
+  "citation": "Part II, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174856/M21-1-Part-II-Subpart-i-Chapter-1-Section-B-Veterans-Claims-Intake-Program-VCIP-Shipping",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:09:59.879693",
+  "tags": [
+    "m21-1"
+  ]
+}

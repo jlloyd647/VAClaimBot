@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_E_19",
+  "content": "/>\nVI.ii.4.E.1.n\n.\nProcessing AEWs With an Amount Withheld for MRP That Is Equal to or Greater Than the Amount Shown in the Due From VA Column\nReduce\nthe amount of both withholdings (for MRP only) for the month in question by the amount shown in the\nDue From VA\ncolumn on the AEW for the same month if\nthere is a withholding in place for MRP\nfrom the first day of the month,\nand\nfrom a day other than the first day of the month, and\neach\nof the amounts withheld for MRP is\nequal to or greater than\nthe amount shown in the\nDue From VA\ncolumn of the AEW for the same month.\nNote\n:  Follow the instructions in\nM21-1, Part VI, Subpart ii, 4.E.1.o\nif\nany\nof the withholdings for MRP during the month in question are\nless\nthan the amount shown in the\nDue From VA\ncolumn of the AEW for the same month.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section E - Processing Audit Error Worksheets (AEWs)",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179491/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-E-Processing-Audit-Error-Worksheets-AEWs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:46.854474",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_A_23",
+  "content": "/>\nV.iv.1.A.3.d\n.\nUsing Diagnostic Terminology to Name Issues\nWhen establishing issues for inclusion in the rating decision’s\nDecision\nsection, use the diagnostic terminology provided by the medical examiner (or alternative medical evidence), as discussed in\nM21-1, Part V, Subpart iv, 1.C.7.b\n.\nIf the diagnostic terminology used to describe the condition is different than the terminology used by the claimant on his/her application, include the terminology that the claimant used as a parenthetical note in the following fields on VBMS-R’s ISSUE MANAGEMENT tab:\nISSUE, and\nDECISION.\nExample\n:  The Veteran claims\nringing in the ears\n.  The medical examiner diagnoses the condition as\ntinnitus\n.  The rating decision\nNarrative\nshould list the condition as\ntinnitus (claimed as ringing in the ears)\nin its corresponding\nIssue\nand\nDecision\nnumbered items.\nNote\n:  Do\nnot\ninclude the parenthetical note, if indicated, in the DIAGNOSIS field on VBMS-R’s DISABILITY DECISION INFORMATION (DDI) screens.  The parenthetical note should not appear on the\nCodesheet\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section A - Completing the Rating Decision Narrative",
+  "citation": "Part V, Subpart iv, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180523/M21-1-Part-V-Subpart-iv-Chapter-1-Section-A-Completing-the-Rating-Decision-Narrative",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:46:49.618474",
+  "tags": [
+    "m21-1"
+  ]
+}

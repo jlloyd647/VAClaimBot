@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_iii_2_B_9",
+  "content": "/>\nVI.iii.2.B.1.d\n.\nDetermining Whether to Notify the Finance Activity\nAfter a claims processor determines a debt exists in a beneficiary’s account, the case\nmust\nbe reviewed to determine whether the finance activity should be notified.\nThe collection status in the Enterprise Management of Payments Workload and Reporting for VA (eMPWR-VA) must be\nCollectible\nprior to authorization in order to ensure an award action reduces or removes an existing debt.\nFollow local regional office (RO) procedures to contact the finance activity for fiscal transactions when award action alone does not remove existing debts that are in\nCollectible\nstatus.\nReference\n:  For more information on viewing receivables in eMPWR-VA, see the\neMPWR-VA User Guide\n.",
+  "title": "M21-1, Part VI, Subpart iii, Chapter 2, Section B - The Finance Activity at the Regional Office (RO)",
+  "citation": "Part VI, Subpart iii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179497/M21-1-Part-VI-Subpart-iii-Chapter-2-Section-B-The-Finance-Activity-at-the-Regional-Office-RO",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:50:42.800550",
+  "tags": [
+    "m21-1"
+  ]
+}

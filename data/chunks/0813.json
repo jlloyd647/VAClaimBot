@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_1_B_36",
+  "content": "/>\nIII.i.1.B.5.d\n.\nHandling Copies of DD Form 214 in an STR Document in VBMS\nIn some cases, during the scanning of paper documents into an electronic claims folder (eFolder) in the Veterans Benefits Management System (VBMS), the\nDD Form 214\nwas scanned with the STRs.\nWhen a\nDD Form 214\nis part of the STR document in the eFolder, RO employees must ensure the\nDD Form 214\nis properly identified.  This must be done either by\nensuring the subject line of the STR document identifies the inclusion of the certified\nDD Form 214\n, or\nadding a bookmark indicating the certified\nDD Form 214\nis included in the STR document.\nReference\n:  For more information on VBMS folder maintenance functionality, see\nthe\nVBMS Core User Guide\n, and\nM21-1, Part II, Subpart ii, 2.A.1\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 1, Section B - Service Requirements and Verification of Eligibility",
+  "citation": "Part III, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181425/M21-1-Part-III-Subpart-i-Chapter-1-Section-B-Service-Requirements-and-Verification-of-Eligibility",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:14:48.408182",
+  "tags": [
+    "m21-1"
+  ]
+}

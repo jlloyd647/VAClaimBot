@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_G_35",
+  "content": "/>\nIX.iii.1.G.3.q\n.\nMedicare Premiums\nPremiums for Medicare Parts A, B, and D and for long-term care insurance are medical expenses.\nAllow a deduction for Medicare Part B premiums as a continuing medical expense, if the information is obtained using the Social Security Administration (SSA) INQUIRY command and not claimed by the beneficiary or if it is submitted by the claimant and it indicates that the claimant pays the premium.\nUnless an earlier effective date is supported by the evidence of record\ngrant the medical expense from the first of the month following the effective date of the Medicare Part B premiums subject to\n38 CFR 3.31\nadvise the claimant, and\nsolicit a claim for an earlier effective date if the SMI START DATE field in the SSA INQUIRY screen precedes the date the expense is being counted.\nThis is an exception to the general rule that all deductible expenses must be specifically claimed.\nHowever, this exception may only be applied when benefits are being reviewed based on\na valid claim initiated by submission of a standard form\nthird-party evidence that could result in decreased benefits, or\nan automated end product (EP), such as a cost-of-living adjustment (COLA) or a match with SSA payment data.\nImportant\n:\nA claimant may be paying Medicare premiums even if they are not eligible for Social Security monetary benefits.\nUse care when interpreting information obtained from a VBMS/Share SSA INQUIRY command.  Do\nnot\nallow a deduction for Medicare Part B premiums, if the\nSSA\nBASIC INFO screen shows\nPd by State\nin the SMI OPTION CODE field, and\na date in the SMI START DATE field.\nReferences\n:  For more information on\nusing Share, see the\nShare User Guide\n, and\nrequirements for a complete claim, see\nM21-1, Part II, Subpart iii, 1.A.1.a\n.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section G - Pension - Deductible Medical Expenses",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section G",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177522/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-G-Pension-Deductible-Medical-Expenses",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:36.061469",
+  "tags": [
+    "m21-1"
+  ]
+}

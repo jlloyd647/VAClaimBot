@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_B_12",
+  "content": "/>\nXI.i.1.B.2.d\n.\nAmending the CPD Spouse Tab Created by the Automated MOD Process\nFollowing the automated FNOD/MOD processing, a claim for death benefits is often received from the surviving spouse.  The COMPENSATION AND PENSION DEATH (CPD) SPOUSE tab will exist in VMBS-Awards (VBMS-A) and the user will\nnot\nneed to add a new award.\nFollow the steps in the table below when amending the CPD SPOUSE tab.\nStep\nAction\n1\nSelect the RECORD DECISIONS button.\n2\nSelect the BASIC ELIGIBILITY tab.  This screen will show ELIGIBLE FOR VETERAN’S RATE MONTH OF DEATH in the DECISION field.  Do\nnot\nremove this decision unless you are denying MOD.\n3\nSelect the appropriate death benefit eligibility decision.\n4\nInput the appropriate date in the EVENT DATE field.\nNote\n:  The EFFECTIVE DATE field will automatically default to the first of the month following the event date\n.\n5\nSelect the ACCEPT button and this will record the decision.\nNote\n:  The screen will display both decisions.\n6\nSelect the OK button.  This will take the user to the RECORD DECISIONS screen.\nGenerate the award.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section B  - System Information for Veteran Notice of Death (NOD) and Month of Death (MOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174194/M21-1-Part-XI-Subpart-i-Chapter-1-Section-B-System-Information-for-Veteran-Notice-of-Death-NOD-and-Month-of-Death-MOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:13.632383",
+  "tags": [
+    "m21-1"
+  ]
+}

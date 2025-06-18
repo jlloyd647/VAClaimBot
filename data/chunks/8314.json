@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_B_27",
+  "content": "/>\nXI.i.1.B.3.d\n.\nAmending a Running Spouse Award After MOD Has Been Paid by Finance Action, Interim MOD Process, or Retro Batch MOD\nA running award or a converted record will likely have had the MOD paid via an old method.  These cases will not have an MOD decision in the VBMS-A record unless it was paid on the award itself.\nEffective August 2010, all DIC and Survivors Pension cases require an MOD decision.  Otherwise, the error message SURVIVING SPOUSE AWARD REQUIRES A MONTH OF DEATH DECISION will appear.\nFollow the steps in the table below to amend a running surviving spouse award after MOD has been paid by finance action, interim MOD process, or retro batch MOD.\nStep\nAction\n1\nThe surviving spouse’s death benefit decision(s) will be displayed on the BASIC ELIGIBILITY screen.\n2\nSelect ADD and then select the\nDenied – Veteran’s MOD Rate Previously Paid\noption from the DECISION drop-down menu.\n3\nSelect DONE.\nThis will take the user to the RECORD DECISIONS screen.\nNote\n:  If it is a converted case, the user must input a date on the ONLY GENERATE NEW AWARD LINES FROM field.\n4\nGenerate the award.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section B  - System Information for Veteran Notice of Death (NOD) and Month of Death (MOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174194/M21-1-Part-XI-Subpart-i-Chapter-1-Section-B-System-Information-for-Veteran-Notice-of-Death-NOD-and-Month-of-Death-MOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:13.632383",
+  "tags": [
+    "m21-1"
+  ]
+}

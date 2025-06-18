@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_C_17",
+  "content": "/>\nX.i.6.C.2.d\n.\nWhen to Combine BDD and BDD-Excluded Claims\nIf the claimant has concurrently pending BDD and BDD-excluded EPs, and it is later determined that the BDD claim did not meet BDD program requirements and should have been established as a BDD-excluded claim, follow the guidance below\n.\nStep\nAction\n1\nEnsure both EPs are under the correct station’s jurisdiction.  Request the other EP from NWQ, if necessary.\n2\nChange the pending BDD-excluded claim to an EP 400.\n3\nChange the pending BDD claim to a BDD-excluded EP.\nReference\n:  For additional information on the proper EPs and claim labels for BDD-excluded claims, see\nM21-1, Part X, Subpart i, 6.B.2.h\n.\n4\nAdd the contentions from the EP 400 to the newly changed BDD-excluded claim.\n5\nAdd a note in VBMS describing\nthe actions taken to combine the two EPs\nwhy the claimant was not eligible for the BDD program, and\ndevelopment actions for the added contentions that were previously completed under the EP 400, if applicable.\n6\nCancel the EP 400.\n7\nContinue developing the BDD-excluded claim as noted in this section.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section C - Division of Responsibilities – Benefits Delivery at Discharge (BDD) and BDD-Excluded Claims",
+  "citation": "Part X, Subpart i, Chapter 6, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177951/M21-1-Part-X-Subpart-i-Chapter-6-Section-C-Division-of-Responsibilities-Benefits-Delivery-at-Discharge-BDD-and-BDD-Excluded-Claims",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:51.791303",
+  "tags": [
+    "m21-1"
+  ]
+}

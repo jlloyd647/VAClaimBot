@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_D_10",
+  "content": "/>\nXI.i.1.D.1.e\n.\nDate of Death Unknown\nIf the fact of death is established, but the date of death is unknown\nuse the SUSPEND/RESUME button in VBMS\nsuspend the beneficiary’s award, to include any associated apportionment(s), effective the first of the month following the month for which VA last paid the beneficiary, and\ninitiate development for the date of death.\nNote\n:  Claims processors may use the SSA INQUIRY function in VBMS to obtain a beneficiary’s date of death.\nReferences\n:  For more information on\nsuspending an award, see the\nVBMS-Awards User Guide\n, and\nthe SSA INQUIRY function, see\nM21-1, Part III, Subpart ii, 1.B.3\n.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section D  - General Procedures for Non-Veteran Beneficiary Notice of Death (NOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174196/M21-1-Part-XI-Subpart-i-Chapter-1-Section-D-General-Procedures-for-Non-Veteran-Beneficiary-Notice-of-Death-NOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:32.155073",
+  "tags": [
+    "m21-1"
+  ]
+}

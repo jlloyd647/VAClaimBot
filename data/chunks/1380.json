@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_i_2_C_11",
+  "content": "/>\nIV.i.2.C.1.f\n.\nDocumenting Examination Cancellations and Rejections\nVHA examination facilities may communicate cancellation of an examination appointment or rejection of a request by directly e-mailing the claims processor responsible for the request’s submission.  If notice of an examination’s cancellation or rejection is received or discovered in the course of subsequent claims folder review, the claims processor\nmust\nensure that the examination’s cancellation/rejection is\ndocumented in the claims folder, and\nreflected in associated tracked items.\nFollowing receipt of notification or discovery of an examination’s cancellation/rejection,\nconvert any cancellation/rejection notice or notification e-mail to portable document format (PDF)\nupload the PDF file to the corresponding electronic claims folder (eFolder)\nclose all tracked items associated with the examination request, and\nresubmit the examination request if necessary and/or appropriate.\nExceptions\n:  The specific actions outlined above are\nnot\nrequired if\nreview of the corresponding Veteran’s claims folder and electronic record indicates that the examination’s status has already been appropriately updated via automated or system-generated means, and/or\nnotice of the examination’s cancellation - or the ESR's rejection - is being handled using the VBMS examination management system.\nReferences\n:  For more information on\ninputting examination requests, see\nM21-1, Part IV, Subpart i, 2.A\nrescheduling examinations, see\nM21-1, Part IV, Subpart i, 2.C.1.d\nconverting and uploading a document into PDF format, see\nM21-1, Part II, Subpart ii, 2.A.1.b\n, and\ndocumenting notice of examination cancellation or rejection, see the\nNational Work Queue (NWQ) Playbook\n.",
+  "title": "M21-1, Part IV, Subpart i, Chapter 2, Section C - Control of Examinations",
+  "citation": "Part IV, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180502/M21-1-Part-IV-Subpart-i-Chapter-2-Section-C-Control-of-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:55.563613",
+  "tags": [
+    "m21-1"
+  ]
+}

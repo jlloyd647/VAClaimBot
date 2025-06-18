@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_ii_1_B_8",
+  "content": "/>\nIV.ii.1.B.1.c\n.\nEstablishing Future Examination Control Without a Rating Decision\nUse the table below to determine how to\nestablish future examination control when the rating activity determines that a review examination is necessary, but control is not established by a rating decision.\nIf ...\nThen establish control by using...\nthere is an active corporate record, and\nanother future examination diary is not currently pending\nthe DIARY\ncommand in Share with reason code\n01 – Future Physical Examination\n.\nNote\n:  A future examination diary cannot be added for a date greater than five years in the future.\nthere is not an active corporate record, and\nthe examination date is neither\nless than 10 days in the future, nor\ngreater than one year in the future\na future pending issue under EP 310,\nestablished in VBMS or Share.\nthe future examination cannot be controlled by\neither method\ndescribed above\na local diary.\nNote\n:  Individual regional offices may exercise discretion in the manner in which they control these cases.\nReferences\n:  For more information on establishing future examination control in\nShare, see the\nShare User Guide\n, and\nVBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part IV, Subpart ii, Chapter 1, Section B - Control of Future Examinations",
+  "citation": "Part IV, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014904/M21-1-Part-IV-Subpart-ii-Chapter-1-Section-B-Control-of-Future-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:40:10.040481",
+  "tags": [
+    "m21-1"
+  ]
+}

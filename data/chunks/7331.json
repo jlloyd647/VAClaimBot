@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_ii_2_B_16",
+  "content": "/>\nX.ii.2.B.2.d\n.\nProcessing Service Records That Do Not Require Reconsideration of a Prior Claim\nWhen service records do not require reconsideration, the rating activity must annotate the service records in VBMS using the following format:\nNAN\n,\n[brief justification]\n(\nExample\n:  NAN, not relevant to prior decision).\nExample\n:  Military dental records are received from DoD after a previous rating decision awarded SC for hypertension, low back strain, and hearing loss.  No formal reconsideration rating is required as the dental records are not relevant since they do not relate to previously decided issues.\nAdditionally, the rating activity must use the table below to determine if additional action is needed for chronic, unclaimed condition(s).\nIf the service records ...\nThen the rating activity will complete a New Evidence/Needs Reviewed deferral in VBMS which instructs the claims processor to ...\ncontain a chronic, unclaimed condition(s)\nsolicit a claim for the chronic, unclaimed condition(s).\ndo\nnot\ncontain a chronic, unclaimed condition(s)\nclear the tracking EP.",
+  "title": "M21-1, Part X, Subpart ii, Chapter 2, Section B - Revision Based on Receipt of Supplemental Service Records",
+  "citation": "Part X, Subpart ii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177964/M21-1-Part-X-Subpart-ii-Chapter-2-Section-B-Revision-Based-on-Receipt-of-Supplemental-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:12:43.259830",
+  "tags": [
+    "m21-1"
+  ]
+}

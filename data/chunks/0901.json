@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_2_E_11",
+  "content": "/>\nIII.i.2.E.1.f\n.\nDocumenting the Claims Folder When Identified Evidence Is Not Considered Relevant\nWhen it is determined that records identified by the claimant are\nnot\nrelevant, a formal documentation of this determination must be completed and made part of the claims folder.\nClaims processors shall document the claimant’s record when evidence identified by the claimant is not considered relevant and VA’s duty to assist under\n38 U.S.C. 5103A\ndoes not require VA to obtain those records.\nFollow the steps below when documenting the claimant’s record.\nIf ...\nThen ...\nduring development, the claims processor determines evidence is considered\nnot relevant\nthat claims processor shall\nadd the following note in the Veterans Benefits Management System (VBMS) using the note feature:\nRecords from\n[name of facility or physician]\nnot requested because they are not relevant\n, and\nassociate the note to the corresponding claim.\nwhen rating the claim, the decision maker sees a note in VBMS indicating that certain identified records are\nnot relevant\nif that decision maker\nagrees\n, they shall insert the above statement into the INTRO/EVIDENCE tab under UPDATE EVIDENCE in FREE TEXT EVIDENCE,\nor\nif that decision maker\ndoes not\nagree\n, they shall develop or direct development for the records.\nNotes\n:\nIt is imperative that decision makers, in addition to reviewing items under the DOCUMENTS tab in VBMS, also review all electronic notes prior to rating the case.\nWhen deciding legacy appeals, decision makers shall annotate the\nEvidence\nsection of the statement of the case or supplemental statement of the case with the same note from the above table when evidence is not considered relevant.",
+  "title": "M21-1, Part III, Subpart i, Chapter 2, Section E - Relevance Determinations",
+  "citation": "Part III, Subpart i, Chapter 2, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000046269/M21-1-Part-III-Subpart-i-Chapter-2-Section-E-Relevance-Determinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:07.996368",
+  "tags": [
+    "m21-1"
+  ]
+}

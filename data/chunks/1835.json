@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_A_20",
+  "content": "/>\nIX.iii.1.A.2.h\n.\nProcess for Handling Development Notices Containing FTI\nThe table below describes the process for handling development that contains FTI.\nStage\nWho Is Responsible\nActions\n1\nAuthorization activity\ncreate an FTI Custom 5103 Notice or subsequent development letter via the FTI Letters Users Interface (UI)\nupon successful finalization, the letter is automatically stored in the FTI File Repository (FFR)\nselect the option to view the finalized letter in VBMS Core or FTI Letters UI\ndownload the letter and save a portable document format (PDF) copy of the letter and FTI security log into the PMC RO\nFor Print Folder\n, and\nupdate the FTI security log to reflect any movement of the notice when it is transferred or securely stored.\n2\nIntake Processing Center or RO Mailroom\naccess finalized letters and FTI security logs from the\nFor Print Folder\nprint and deliver the sealed envelope(s) containing the notice(s), including Veterans service organization copies, to the U.S. Postal Service, or store the sealed envelopes in a secure location until delivery to the U.S. Postal Service is possible\nupdate the FTI security log, and\naccess the RO\nFor Print Folder\nand move the letter to a historical folder.\nImportant\n:  Centralized printing is not approved for development that includes FTI.\nReference\n:  For more information on the FFR see the\nFTI Secure Enclave Guide\n.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section A - General Information on the Effect Income and Net Worth Have on Pension and Parents’ Dependency and Indemnity Compensation (DIC)",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177516/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-A-General-Information-on-the-Effect-Income-and-Net-Worth-Have-on-Pension-and-Parents-Dependency-and-Indemnity-Compensation-DIC",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:39.896908",
+  "tags": [
+    "m21-1"
+  ]
+}

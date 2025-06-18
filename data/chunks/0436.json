@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_43",
+  "content": "/>\nII.ii.2.A.5.d\n.\nNotifying a VSO That Claims Documents Submitted Through D2D Failed to Upload\nThe D2D application submission process does not have functionality to re-transmit documents that have failed to upload.  Follow the instructions in the table below when claims documents submitted through D2D fail to upload.\nStep\nAction\n1\nAdd a new contention in VBMS with the following attributes:\nIn the field …\nEnter …\nCONTENTION\nD2D\n.\nCLASSIFICATION\nAdministrative Issue\n.\nDATE OF CONTENTION\n(default to DOC).\nTYPE\nNew\n.\nMEDICAL\nNo\n.\n2\nSend an encrypted e-mail to the Veterans service organization (VSO) that submitted the claims documents.\nEnter the following in the subject line of the e-mail:\nRequesting resubmission of D2D documents that failed to upload\n.\nProvide the following in the body of the e-mail:\ndate the EP was established\nclaim label\nVBMS claim ID number\nclaimant’s name, and\nan indication of what documents are missing.\n3\nUpload a copy of the e-mail to the eFolder.\n4\nAdd a tracked item to indicate the failure-to-upload issue is pending resolution.\n5\nAdd a note that states:\nVSO contacted for assistance in obtaining documents that failed to upload\n.\n6\nFollow the lost claims procedures in\nM21-1, Part II, Subpart ii, 2.A.3.b\nif the documents are not uploaded within 15 days.\nNotes\n:\nTelephone contact can be substituted for e-mail notification and is encouraged.  Document successful contact on\nVA Form 27-0820\n.\nUpload all e-mail(s) or\nVA Form(s) 27-0820\nto the eFolder, if applicable.\nReferences\n:  For more information on\ncreating a tracked item in VBMS, see the\nVBMS Core User Guide\n, and\nthe appropriate tracked item for claims documents failing to upload, see\nM21-4, Appendix D.1\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

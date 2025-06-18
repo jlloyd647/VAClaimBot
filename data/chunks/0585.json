@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_A_43",
+  "content": "/>\nII.iii.2.A.4.g\n.\nProgramming Errors Impacting Date of Receipt of ITF\nIn some cases, updates to the corporate record for both manually entered and electronically submitted communications of an ITF were affected by a programming error that caused the incorrect date of receipt of the communication to appear\nin Share and eBenefits, and\non the acknowledgement letter referenced in\nM21-1, Part II, Subpart iii, 2.A.1.l\n.\nThis programming error impacted ITFs recorded\nbetween June 26, 2015, and December 13, 2015, and\nin other isolated incidents outside this date range.\nWhen the assignment of an effective date for a grant of entitlement to benefits is necessary in a case involving a claimant who communicated to VA an ITF, and there is a date discrepancy, utilize the date of receipt of the communication as shown in a\nnote in Modern Award Processing - Development or VBMS, or\nVA Form 21-0966\nin the claimant’s claims folder.\nIn the event that none of the above-mentioned items can be used to verify the ITF receipt date, the VBMS date should be utilized as the date of receipt of the ITF for consideration when assigning an effective date.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section A - Intent to File (ITF)",
+  "citation": "Part II, Subpart iii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:12:24.433955",
+  "tags": [
+    "m21-1"
+  ]
+}

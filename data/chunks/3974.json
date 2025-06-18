@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_2_None_32",
+  "content": "/>\nVI.ii.2.2.g\n.\nCalculating the After-Tax Amount of Separation Benefits\nTo calculate the after-tax amount of a Veteran’s separation benefit,\nuse the table below to determine which flat-tax rate was in effect on the date the Veteran received the benefit\nmultiply the gross amount of the separation benefit by the appropriate flat-tax rate, and\nsubtract the product from the gross amount of the separation benefit.\nEffective Date\nFlat-Tax Rate\nDecember 31, 1993, and earlier\n20 percent\nJanuary 1, 1994\n28 percent\nAugust 7, 2001\n27.5 percent\nJanuary 1, 2002\n27 percent\nMay 28, 2003\n25 percent\nJanuary 1, 2018\n22 percent\nNotes\n:\nThere is no need to make the calculations described in this block when\nclaims processors use VIS to verify the amount of a Veteran’s separation benefit, and\nVIS displays the amount of Federal income tax the Veteran’s service department withheld.\nA request for the adjustment of a recoupment balance, based on an assertion that the Federal income tax a Veteran paid on a separation benefit was incorrectly reported to or calculated by VA, must be supported by credible evidence showing the amount of Federal income tax the Veteran actually paid.\nIf questions arise regarding calculation of the after-tax amount of a Veteran’s separation benefit, request assistance by sending an e-mail to\nVAVBAWAS/CO/MILPAY\n, which is the corporate mailbox of Compensation Service’s Military Pay Staff.\nReference\n:  For up-to-date information about the flat-tax rate for supplemental wages, see the\nInternal Revenue Manual\n, Part 4, 23.8.4\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 2 - Recoupment of Separation Benefits",
+  "citation": "Part VI, Subpart ii, Chapter 2, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179478/M21-1-Part-VI-Subpart-ii-Chapter-2-Recoupment-of-Separation-Benefits",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:32.145895",
+  "tags": [
+    "m21-1"
+  ]
+}

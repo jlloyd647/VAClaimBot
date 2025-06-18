@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_E_26",
+  "content": "/>\nX.i.6.E.3.c\n.\nIDES Claims Establishment\nFor each record that appears on the VTA\nPending CEST\nreport, the MSC must establish an end product (EP) in VBMS, following the instructions in\nM21-1, Part II, Subpart iii, 3.A\nand the table below.\nStep\nAction\n1\nMake the appropriate entries using the table below.\nCharacteristic\nSelection/Entry\nEP\n689\nDate of Claim\nThe date listed in the PREPARE CLAIM START DATE field as shown in VTA.\nClaim Label\nDISABILITY EVALUATION SYSTEM\nClaim Type\nPREDISCHARGE\nPre-Discharge Claim Type\nIDES\n2\nApply the\nIDES Participant\ncorporate flash in Share or VBMS.\n3\nUpdate the following fields on the MSC tab in VTA:\nMSC ASSIGNED\nVA REGIONAL OFFICE, and\nCLAIMS ESTABLISHMENT (CEST) DATE.\n4\nAssign the claim to the MSC who will be responsible for the case.\n5\nAdd the following note in VBMS:\nEP 689 established for IDES case that was initially referred to VA on [\nMM/DD/YYYY\n]\n.\nNotes\n:\nThe date shown in this note must reflect the entry in the PREPARE CLAIM START DATE field in VTA at the time of claims establishment.\nThis note explains the date of claim (DOC) of the EP 689.\nReferences\n:  For more information on using\nVTA, see the\nVTA User Guide\nShare, see the\nShare Users Guide\n, and\nVBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section E - Integrated Disability Evaluation System (IDES), Referrals, and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177953/M21-1-Part-X-Subpart-i-Chapter-6-Section-E-Integrated-Disability-Evaluation-System-IDES-Referrals-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:10.391087",
+  "tags": [
+    "m21-1"
+  ]
+}

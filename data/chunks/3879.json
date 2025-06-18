@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_2_B_18",
+  "content": "/>\nVI.i.2.B.2.e\n.\nExample 2:  Duplicate Payment That May Not Be Treated as an Administrative Error\nSituation\n:\nA Veteran is in receipt of disability compensation for residuals of a shoulder injury that VA rated 10-percent disabling.\nOn December 1, 2013, the Veteran submits a new claim for an increased disability rating for their shoulder.\nA Claims Assistant (CA) establishes the Veteran’s claim under a new PID.\nVA increases the disability rating for the shoulder to 20 percent and begins paying the Veteran benefits under the new PID.  (The Veteran is now receiving two benefit payments:  one under the old PID and another under the new PID.)\nWhile updating the Veteran’s address on June 1, 2015, a VSR discovers the Veteran is receiving two benefit payments from VA each month.\nActions\n:\nSuspend the lower of the two benefit payments effective the date in the LAST PAID DATE field on the CURRENT AND HISTORICAL AWARD INFORMATION page in VBMS.\nSend the Veteran notice of VA’s proposal to discontinue the duplicate payment effective the date VA began paying it.\nUnless the Veteran submits evidence within 65 days that shows the proposed action should not be taken,\ndiscontinue the duplicate payment effective the date VA began paying it, and\nnotify the Veteran of the action taken.\nNotes\n:\nDo\nnot\ntreat the duplicate payment of benefits in this case as an administrative error.\nThe Veteran is responsible for repaying the overpayment.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 2, Section B - Correcting the Erroneous Payment of Benefits to a Beneficiary",
+  "citation": "Part VI, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179474/M21-1-Part-VI-Subpart-i-Chapter-2-Section-B-Correcting-the-Erroneous-Payment-of-Benefits-to-a-Beneficiary",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:04.081849",
+  "tags": [
+    "m21-1"
+  ]
+}

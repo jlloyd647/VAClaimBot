@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_1_B_23",
+  "content": "/>\nIII.i.1.B.3.b\n.\nVerification of Service Using the VID Tab in Share\nThe VID tab in Share can be used as proof of service if sufficient information is provided on the screen.\nProof of service exists if the service verification field contains a\nY\nor\nD\nin the VADS field, or\nY\nin the VER field.\nAlso, the VID tab shows\nthe character of service is\nHON\n(honorable), or\nUHC\n(under honorable conditions)\nthe branch of service code is\nnot\nARNG\n(Army National Guard), or\nANG\n(Air National Guard), and\nthe separation reason is\nSAT\n(satisfactory).\nA separation reason of DEV indicates that further development may be required.  Upon verification of service, the separation reason must be updated.\nException\n:  For Merchant Marine service records, a separation reason of DEV may not require clarification if it meets certain criteria.\nNote\n:  The entry\nD\nis added from Defense Manpower Data Center processing.\nReferences\n:  For more information on\nthe VADS field in the corporate record, see the\nShare User Guide\n, and\nMerchant Marine service records, see\nM21-1, Part X, Subpart i, 5.A\nand\nB\n.",
+  "title": "M21-1, Part III, Subpart i, Chapter 1, Section B - Service Requirements and Verification of Eligibility",
+  "citation": "Part III, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181425/M21-1-Part-III-Subpart-i-Chapter-1-Section-B-Service-Requirements-and-Verification-of-Eligibility",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:14:48.408182",
+  "tags": [
+    "m21-1"
+  ]
+}

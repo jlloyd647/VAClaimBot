@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_iii_4_None_6",
+  "content": "/>\nVI.iii.4.1.a\n.\nAutomatic Suspension of Payments on a Veteran’s Disappearance\nIf two consecutive checks to a Veteran are returned indicating\nWhereabouts Unknown\nor\nMoved Left No Address,\npayments are automatically suspended during processing of the returned check, and\nan\n810 Work Item\n,\nNotice of Benefit Payment Transaction\n(810WI), is generated with claim label\n612 Account Suspended - Undeliverable Payment\n, as notification of the suspended payments.\nReference\n:  For more information on 800 series work items, see\nM21-4, Appendix B, 3 and 4\n, and\nM21-4, Appendix C, 1.b\n.",
+  "title": "M21-1, Part VI, Subpart iii, Chapter 4 - Disappearance and Reappearance of a Veteran",
+  "citation": "Part VI, Subpart iii, Chapter 4, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179502/M21-1-Part-VI-Subpart-iii-Chapter-4-Disappearance-and-Reappearance-of-a-Veteran",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:51:29.119047",
+  "tags": [
+    "m21-1"
+  ]
+}

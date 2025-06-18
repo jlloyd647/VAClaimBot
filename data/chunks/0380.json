@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_1_A_9",
+  "content": "/>\nII.ii.1.A.1.d\n.\nHandling Missing or Discrepant BIRLS and Corporate Records\nUse the table below to determine what steps to take when it is necessary to handle missing or discrepant BIRLS and corporate record data.\nIf ...\nThen ...\na BIRLS record is missing\nfollow the guidance in the\nDuplicate Record Consolidation Materials\nto prevent duplicate record creation and, if directed,\nuse the BIRLS ADD command in Share to create the BIRLS record.\nNote\n:  Review the ALL RELATIONSHIPS tab in the CORPORATE record – the claimant may have a corporate record as a dependent, who is now seeking benefits related to their own military service.\ncorporate record is missing\nuse the BIRLS UPDATE command in Share to create the corporate record.\nNotes\n:\nThe minimum information required to create a corporate record includes the\nSSN and/or eight-digit BIRLS claim number\nfirst name\nlast name, and\ndate of birth.\nIf the minimum information required cannot be obtained via the alternative data sources or claimant contact discussed in\nM21-1, Part II, Subpart ii, 1.A.1.c\n, Steps 1-3, process the correspondence as unidentifiable mail.\na BIRLS and corporate record both exist but under different claims folder numbers\nfollow the duplicate claim processing guidance in the\nDuplicate Record Consolidation Materials\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 1, Section A - Establishing New and Converting Old Claims Folders",
+  "citation": "Part II, Subpart ii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174863/M21-1-Part-II-Subpart-ii-Chapter-1-Section-A-Establishing-New-and-Converting-Old-Claims-Folders",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:51.427145",
+  "tags": [
+    "m21-1"
+  ]
+}

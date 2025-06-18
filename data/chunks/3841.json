@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_1_B_18",
+  "content": "/>\nVI.i.1.B.1.m\n.\nSteps to Follow After Preparing a Decision Notice\nAfter preparing a decision notice,\nreview it for completeness and accuracy, making corrections as needed\nensure the notice date reflects the expected date of mailing\nensure that the notice is addressed to the\nclaimant or beneficiary at the most recent address of record, or\nclaimant’s or beneficiary’s fiduciary, if VA has appointed one\nensure that the notice and any other associated documents that must be provided to the claimant or beneficiary\nare included in a package, created in VBMS Package Manager, and\nare transmitted for centralized printing and mailing, and\nconfirm that a copy of the decision notice has been included in the eFolder.\nException\n:  Locally print and mail the decision notice and any associated documents where centralized printing is not permitted, such as in cases involving Federal tax information (FTI).\nImportant\n:  When preparing a decision notice, ensure that the decision notice is copied to\na claimant’s or beneficiary’s authorized power of attorney (POA), and\nthe claimant or beneficiary, if VA has appointed a fiduciary.\nReferences\n:  For more information on\nproviding copies of VA correspondence to a POA, see\nM21-1, Part I, Subpart i, 2.B.1\ncreating packages using Package Manager for centralized printing and distribution through CBCM, see the\nTalent Management System (TMS) course titled\nCentralized Benefits Communications Management\n(VA 4562424), and\nVBMS Core User Guide\ndecision notices containing FTI, see\nM21-1, Part VI, Subpart i, 1.B.2\n, and\nthe consequences of not uploading a decision notice to the claims folder, see\nM21-1, Part VI, Subpart i, 1.B.1.c\n.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 1, Section B - Decision Notices",
+  "citation": "Part VI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179469/M21-1-Part-VI-Subpart-i-Chapter-1-Section-B-Decision-Notices",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:45.480026",
+  "tags": [
+    "m21-1"
+  ]
+}

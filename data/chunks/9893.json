@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_2_C_9",
+  "content": "/>\nXIV.2.C.2.a\n.\nUnverified SSNs Work Item Information\nThe table below contains a description of the two work items that are created based on the Unverified Social Security Numbers matching program.\nWork Item Code\nName\nDescription\n834D\nSSN NOT IN FILE\nSSA did not issue the SSN in the VA record.\n834E\nSSN DOES NOT MATCH\nIdentifying information in VA records does not match SSA records.\nNote\n:  This does not necessarily mean the SSN is incorrect.",
+  "title": "M21-1, Part XIV, Chapter 2, Section C - Social Security Number (SSN) Verification",
+  "citation": "Part XIV, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173304/M21-1-Part-XIV-Chapter-2-Section-C-Social-Security-Number-SSN-Verification",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:31:54.224176",
+  "tags": [
+    "m21-1"
+  ]
+}

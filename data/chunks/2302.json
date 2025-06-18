@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_H_31",
+  "content": "/>\nIX.iii.1.H.3.e\n.\nReport of Death and Due Process\nUse the table below to determine what actions to take when an EP 130 is established based on death of beneficiary, and an EP 600 (such as a COLA adjustment) is pending.\nIf ...\nThen ...\nnew financial information was recorded under the EP 600 that would impact award generation, and\nfinal action is not yet warranted for the EP 600\ndo not create further overpayment that is not directly associated with the notice of death.\nNote\n:  It may be necessary to use the appropriate override command in VBMS-A to prevent erroneous overpayment.\nno new financial information was recorded under EP 600 that would impact award generation, or\nfinal action is warranted for the EP 600\nprocess the award in VBMS-A as normal.\nReference\n:  For more information on override commands in VBMS-A, see the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section H - Adjustments Based on Changes in Status",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section H",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177523/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-H-Adjustments-Based-on-Changes-in-Status",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:45.357937",
+  "tags": [
+    "m21-1"
+  ]
+}

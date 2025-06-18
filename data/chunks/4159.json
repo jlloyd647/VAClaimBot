@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_B_9",
+  "content": "/>\nVI.ii.4.B.1.d\n.\nRemoving the Retired Pay Indicator When Entitlement to MRP Is Terminated\nThe retired pay indicator must be deactivated if a service department discontinues the payment of MRP to a Veteran because entitlement to MRP has terminated, for example, removal of the Veteran from the Temporary Disability Retirement List (TDRL).  Deactivate the retired pay indicator by\nselecting the RETIRED PAY tab on the MILITARY PAYMENT INFORMATION screen\nclicking the ADD button\nentering the type of MRP that was terminated in the RETIRED PAY TYPE field\nentering the date payment of MRP ended in the EFFECTIVE DATE field, and\nentering\n0.00\nin the GROSS AMOUNT field.\nImportant\n:  If a service department awards a Veteran discharge pay after discontinuing MRP, it will be necessary to update the fields on the DISCHARGE PAY tab, as well.\nReferences\n:  For more information on\ntaking the actions described in this block, see the\nVBMS Awards User Guide\n, and\nremoval of a Veteran from the TDRL, see\nM21-1, Part VI, Subpart ii, 4.B.6\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section B - Preparing and Adjusting Awards in Military Retired Pay (MRP) Cases",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179488/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-B-Preparing-and-Adjusting-Awards-in-Military-Retired-Pay-MRP-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:18.975843",
+  "tags": [
+    "m21-1"
+  ]
+}

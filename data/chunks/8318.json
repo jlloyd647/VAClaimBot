@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_C_6",
+  "content": "/>\nXI.i.1.C.1.a\n.\nUpdating the Veteran’s Record When Death Was Erroneous\nFollow the steps in the table below if you determine\na notice of death (NOD) was erroneous, and\nthe Veteran is\nnot\ndeceased.\nStep\nAction\n1\nProcess a\nBENEFICIARY IDENTIFICATION AND RECORDS LOCATOR SUBSYSTEM\n(BIRLS) UPDATE to delete the following from the BIRLS record\nthe date of death\nthe cause of death, and\nany other erroneous information.\n2\nCreate an end product (EP) and take award action to resume any payments that were erroneously interrupted.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section C  - Errors During Notice of Death (NOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174195/M21-1-Part-XI-Subpart-i-Chapter-1-Section-C-Errors-During-Notice-of-Death-NOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:22.881307",
+  "tags": [
+    "m21-1"
+  ]
+}

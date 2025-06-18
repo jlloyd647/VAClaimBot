@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_ii_1_B_24",
+  "content": "/>\nVII.ii.1.B.3.a\n.\nProcessing Notice of an Initial Award of DEA to a Child for or to Whom VA Is or Was Paying Disability Compensation\nAn RPO’s initial award of DEA to a child for or to whom VA is paying\ndisability compensation\n(including an apportionment) triggers the creation of work item 820,\nCH35 Duplicate Entitlement\n.  Use the table below to process the work item.\nStep\nAction\n1\nDid VA pay (or is VA still paying) disability compensation for or to (including an apportionment) the child during a period of time when concurrent payment of DEA and disability compensation is or was prohibited?\nIf\nyes\n,\nclear the work item, and\ngo to the next step.\nIf\nno\n,\ncancel the work item, and\ndisregard the remaining steps in this table.\nImportant\n:  If an initial award of DEA to a child commences at the end of a routine break between school sessions (such as a summer break), disability compensation may be payable to or for the child during the break, according to the policy expressed in\nM21-1, Part VII, Subpart ii, 1.A.3.d\n, and\nM21-1, Part XIII, Subpart i, 1.B.2.b\n.\n2\nEstablish end product (EP) 130 under the Veteran’s name and add\nPotential Under/Overpayment\nas a special issue.\nException\n:  If VA is apportioning benefits to the child, take the action described in this step under both the Veteran’s\nand\nthe child’s name.\n3\nFollow the instructions in the table in\nM21-1, Part VII, Subpart ii, 1.B.3.d\n.\nReference\n:  For information on processing 800 series work items, see\nM21-4, Appendix B, 4\n.",
+  "title": "M21-1, Part VII, Subpart ii, Chapter 1, Section B - Awards and Adjustments Based Upon School Attendance",
+  "citation": "Part VII, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176631/M21-1-Part-VII-Subpart-ii-Chapter-1-Section-B-Awards-and-Adjustments-Based-Upon-School-Attendance",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:54:17.295390",
+  "tags": [
+    "m21-1"
+  ]
+}

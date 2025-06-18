@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_E_15",
+  "content": "/>\nVI.ii.4.E.1.j\n.\nSpecial Handling of AEWs That Display an APPBD or APPBC\nIf an AEW displays an amount to the right of the text\nAmount Previously Paid by DFAS\nor\nAmount Previously Paid by Coast Guard\n,\nfollow the steps in\nM21-1, Part VI, Subpart ii, 4.E.1.g\nfor routine processing of the AEW, but\npostpone authorization of the award adjustment pending completion of the steps in the table below.\nNotes\n:\nThe\nNet Effect\nof the award adjustment the award-processing application displays should still match the total of all amounts displayed in the\nDue From VA\ncolumn on the AEW.\nTo calculate the amount of the Veteran’s payment (so it can be provided in the corresponding decision notice), subtract the\nAmount Previously Paid by DFAS\nfrom the total of all amounts displayed in the\nDue From VA\ncolumn on the AEW.\nStep\nAction\n1\nUse the AEW Assistant to generate the\nAEW Letter to Finance\n.\n2\nE-mail a copy of the letter to the finance activity.\nNote\n:  The letter asks the finance activity to establish the APPBD or APPBC as a “collectible receivable.”\n3\nUpload a copy of the letter to the Veteran’s eFolder.\n4\nAfter the finance activity establishes the collectible receivable, refer the award adjustment for authorization.\nNo\nt\ne\n:  The award adjustment must be authorized within\ntwo days\nin order to avoid Debt Management Office involvement.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section E - Processing Audit Error Worksheets (AEWs)",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179491/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-E-Processing-Audit-Error-Worksheets-AEWs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:46.854474",
+  "tags": [
+    "m21-1"
+  ]
+}

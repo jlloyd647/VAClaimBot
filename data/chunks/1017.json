@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_A_16",
+  "content": "/>\nIII.ii.2.A.2.b\n.\nDetermining Whether a Veteran Has an Additional Service Obligation\nKnowing whether a Veteran left active duty with an obligation for further service in the Reserve (including the National Guard) is critical in locating service records.\nThe table below explains how RO employees may use the Veterans Information Solution (VIS) and a Veteran’s\nDD Form 214\nto determine whether a Veteran has an additional service obligation and, if so, the type of service the Veteran is currently performing.\nIf …\nThen the Veteran …\nthe type of separation shown on the Veteran’s\nDD\nForm 214\nis\nRelease From Active Duty\nleft active duty with an obligation for further service in the Reserve.\nthe type of separation shown on the Veteran’s\nDD Form 214\nis\nDischarge\nleft active duty with\nno\nfurther service obligation.\nthe code in the RESERVE COMPONENT CATEGORY (RCC) field in VIS (under the heading\nNational Guard and Reserve Service Period\n) is\nSA\nis currently an active member of the Reserve or National Guard.\nthe code in the RCC field in VIS is\nRE\nis currently in the Individual Ready Reserve (IRR) or Inactive National Guard.\nNote\n:  If a Veteran had an obligation for further service in the Reserve, the\nDD Form 214\nwill show the termination date of the service obligation. If the termination date has passed, secure the Veteran’s service records according to the instructions for locating and obtaining the service records of Veterans with\nno\nservice obligation in the Reserve.\nReferences\n:  For more information on\nmigration of service treatment records (STRs), see\nM21-1, Part III, Subpart ii, 2.A.3.e\nDD Form 214\n, see\nM21-1, Part III, Subpart i, 1.B\n, and\nusing VIS, see the\nVIS User Guide\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section A - General Information on Service Records",
+  "citation": "Part III, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014117/M21-1-Part-III-Subpart-ii-Chapter-2-Section-A-General-Information-on-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:54.542216",
+  "tags": [
+    "m21-1"
+  ]
+}

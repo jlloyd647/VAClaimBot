@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_3_B_21",
+  "content": "/>\nII.iii.3.B.3.c\n.\nUpdating VA Systems for Active Service Based on a Single Day of ADT or IADT\nWhen SC for disability or death has been established based on a single day of ADT or IADT, the rating activity will update VBMS to reflect that the period of service is active service.\nNote\n:  The corporate record will not allow entry of the same date as both EOD and RAD.  The rating activity will utilize the day following as the end date of service but clearly indicate in the SPECIAL NOTATION box on the rating\nCodesheet\n(as directed in\nM21-1, Part III, Subpart i, 1.A.2.k\n) that the service was actually only one single day of service.\nReference\n:  For more information on rating activity documentation of the period of ADT/IADT upon which a grant of SC is based, see\nM21-1, Part III, Subpart i, 1.A.2\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 3, Section B - System Updates at Intake",
+  "citation": "Part II, Subpart iii, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174882/M21-1-Part-II-Subpart-iii-Chapter-3-Section-B-System-Updates-at-Intake",
+  "updated": "Jun 16, 2025",
+  "scraped_at": "2025-06-17T11:14:07.055847",
+  "tags": [
+    "m21-1"
+  ]
+}

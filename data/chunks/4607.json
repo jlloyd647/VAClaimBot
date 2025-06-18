@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_i_1_A_70",
+  "content": "/>\nVII.i.1.A.7.h\n.\nAction to Take Following Receipt of Notice That No SSN Has Been Assigned or Requested\nFollow the instructions in the table below following receipt of notice that no SSN has been assigned to or requested for a beneficiary or a dependent.\nIf no SSN was assigned to or requested for a ...\nThen update the corporate record by ...\nVeteran\naccessing the PROFILE screen in VBMS, and\nselecting\nSSA Verified No Number Exists\nfrom the drop-down box in the SSN VERIFICATION STATUS field.\nnon-Veteran beneficiary, or\ndependent\naccessing the DEPENDENTS screen in VBMS\nselecting the name of the beneficiary or dependent that has no SSN\n, and\nselecting\nSSA Verified No Number Exists\nfrom the drop-down box in the SSN VERIFIED? field.",
+  "title": "M21-1, Part VII, Subpart i, Chapter 1, Section A - General Information on Relationship and Dependency",
+  "citation": "Part VII, Subpart i, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176613/M21-1-Part-VII-Subpart-i-Chapter-1-Section-A-General-Information-on-Relationship-and-Dependency",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:51:47.839820",
+  "tags": [
+    "m21-1"
+  ]
+}

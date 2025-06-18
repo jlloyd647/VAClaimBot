@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_9",
+  "content": "/>\nII.ii.2.A.1.d\n.\nIndexing a Document in VBMS\nWhen uploading a document into an eFolder, index the document in accordance with the\nDocument Identification and Date of Receipt Guide\n.\nImportant\n:\nDBQs that are completed by Department of Veterans Affairs (VA) or non-VA health care providers outside the Compensation & Pension examination process and submitted by the claimant must be indexed as\nDisability Benefits Questionnaire (DBQ) – Veteran Provided\n.\nLegacy appeal-related documents have secondary category type labels that can be affixed under the CATEGORY - TYPE: ALTERNATE field, with the following options:\nNotice of Disagreement (NOD)\nStatement of the Case (SOC)\nSubstantive Appeal to Board of Veteran’s Appeals\n, and\nSupplemental Statement of the Case (SSOC)\n.\nNote\n:  Documents of an\nUnknown\ntype must be relabeled.  If a category and type cannot be determined, use the subject line to briefly describe the document.\nReferences\n:  For more information on how to\nproperly label a document, see the\nDocument Identification and Date of Receipt Guide\n, and\nedit document properties in VBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

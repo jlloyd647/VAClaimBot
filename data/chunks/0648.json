@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_F_24",
+  "content": "/>\nII.iii.2.F.4.a\n.\nProcessing a Retraction of a Request to Withdraw an Initial Claim\nFollow the instructions in the table below upon receipt of a retraction of a request to withdraw an initial claim.\nStep\nAction\n1\nDid VA receive the retraction within 30 days of the date VA notified the claimant that it had acted on the claimant’s request to withdraw the claim?\nIf\nyes\n, go to the next step.\nIf\nno\n,\nnotify the claimant that VA could not execute the retraction because the claimant submitted it after the 30-day time limit referenced in this step, and\ntake no further action.\n2\nDid VA withdraw the claim based on a misinterpretation of communication from the claimant?\nIf\nyes\n,\nreestablish the claim in the claims processing system, using EP 930 with a date of claim corresponding with the date of receipt of the originally received claim, and\ngo to Step 4.\nIf\nno\n, go to the next step.\n3\nRe-establish the claim in the claims-processing system, using the appropriate EP.  The EP will be re-established using the date of receipt of the originally received claim.\nImportant\n:  Do not establish an EP that is indicative of an original claim, such as an EP 110, 010, 140, 180, or 190, even if the claim that the claimant withdrew was an original claim.\nReference\n:  For more information on selecting an appropriate EP, see\nM21-4, Appendix B\n.\n4\nComplete any outstanding development actions.\n5\nMake a decision on the claim.\n6\nFollow the instructions in\nM21-1, Part VI, Subpart i, 1.B\nfor notifying the claimant of the decision.\nReference\n:  For more information on withdrawals and reinstatements of decision review requests, see\nM21-5, Chapter 4, Topic 4\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section F - Withdrawal of Initial Claims",
+  "citation": "Part II, Subpart iii, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174878/M21-1-Part-II-Subpart-iii-Chapter-2-Section-F-Withdrawal-of-Initial-Claims",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:13:15.760646",
+  "tags": [
+    "m21-1"
+  ]
+}

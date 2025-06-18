@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_2_B_21",
+  "content": "/>\nVI.i.2.B.2.h\n.\nExample:  Duplicate Payment That Should Be Treated as an Administrative Error\nSituation\n:\nOn May 1, 2012, VA begins paying disability compensation to a Veteran for SC PTSD, based on a disability rating of 30 percent.\nOn August 12, 2014, a CA establishes a new claim under a new PID, based on the Veteran’s submission of a claim for service connection (SC) for coronary artery disease.\nOn October 1, 2014, VA grants SC for coronary artery disease and assigns a disability rating of 30 percent.  (The Veteran now begins receiving two benefit payments, one under each PID).\nWhile updating the Veteran’s address on August 1, 2016, a VSR discovers the Veteran is receiving two benefit payments from VA each month.\nActions\n:\nSend the Veteran notice of VA’s proposal to consolidate the two awards into one.\nUnless the Veteran submits evidence within 65 days that shows the proposed action should\nnot\nbe taken,\nconsolidate the two awards into one, and\nnotify the Veteran of the action taken.\nNotes\n:\nThe duplicate payments referenced in this example\nshould be\ntreated as an administrative error.\nThe Veteran is\nnot\nresponsible for repaying any overpayment resulting from consolidation of the two awards.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 2, Section B - Correcting the Erroneous Payment of Benefits to a Beneficiary",
+  "citation": "Part VI, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179474/M21-1-Part-VI-Subpart-i-Chapter-2-Section-B-Correcting-the-Erroneous-Payment-of-Benefits-to-a-Beneficiary",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:04.081849",
+  "tags": [
+    "m21-1"
+  ]
+}

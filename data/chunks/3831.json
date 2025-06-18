@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_1_B_8",
+  "content": "/>\nVI.i.1.B.1.c\n.\nFailure to Issue a Decision Notice\nIf a regional office (RO) decides a claim but fails to notify the claimant of the decision, the claim remains open, legally, even if the RO clears the corresponding end product (EP).  Under such circumstances, if VA denied entitlement to a benefit, failed to notify the claimant of the denial, and then granted entitlement to the same benefit years later, the claimant might be entitled to benefits retroactive to the initial date of claim, because the decision on the initial claim never became binding.\nIn order to avoid the situation described in the preceding paragraph,\nclaims processors\nmust follow the\nsteps provided in\nM21-1, Part VI, Subpart i, 1.B.1.n\nafter preparing every decision notice, and\ninstructions in\nM21-1, Part II, Subpart i, 2.C.6\nfor handling undeliverable, essential mail if a decision notice is returned as undeliverable.\nIf VA made a decision on a claim, but a corresponding decision notice cannot be located in the claimant’s claims folder, proceed as if the claimant was never notified of the decision.\nImportant\n:  A Package Manager status other than IN_PROGRESS or FINALIZED indicates that the decision notice was not sent.\nReferences\n:  For more information on\nthe requirements to send decision notices to the claimant’s or beneficiary’s most recent address of record and to confirm that the decision notice has been added to the electronic claims folder (eFolder), see\nM21-1, Part VI, Subpart i, 1.B.1.n\n, and\nmailing through the Centralized Benefits Communications Management (CBCM) program, see\nM21-1, Part II, Subpart i, 2.C.4.c\n.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 1, Section B - Decision Notices",
+  "citation": "Part VI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179469/M21-1-Part-VI-Subpart-i-Chapter-1-Section-B-Decision-Notices",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:45.480026",
+  "tags": [
+    "m21-1"
+  ]
+}

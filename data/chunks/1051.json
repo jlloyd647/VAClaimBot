@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_A_56",
+  "content": "/>\nIII.ii.2.A.6.c\n.\nRMC Intake Site Codes\nThe INTAKE tab in VBMS can also be used to review details about records that have been shipped from RMC (station code 376) to the scanning vendor.\nThe table below identifies what each RMC intake site code means.\nIf the record was handled by intake site  …\nThen …\nA\na paper claims folder was sent to the scanning vendor and\ncould\ncontain STRs if the records were previously combined.\nB, or\nF\nall records were sent to the scanning vendor.\nC\nSTRs were sent to the vendor and should\nnot\ncontain a paper claims folder.\nD\nrecords scanned\nprior to May 2017, were scanned on-site at RMC, and\nfrom May 2017 and onward, were scanned off-site by the scanning vendor.\nE\nOfficial Military Personnel File documents were sent to the scanning vendor by the VA RMC Liaison Office staff.\nNote\n:  The INTAKE tab is generally only available to Intake Processing Center employees.\nReference\n:  For more information on the INTAKE tab in VBMS, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section A - General Information on Service Records",
+  "citation": "Part III, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014117/M21-1-Part-III-Subpart-ii-Chapter-2-Section-A-General-Information-on-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:54.542216",
+  "tags": [
+    "m21-1"
+  ]
+}

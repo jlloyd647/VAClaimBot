@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_1_B_32",
+  "content": "/>\nVI.i.1.B.3.c\n.\nTypes of Decisions for Which Claims Processors May Not Use RADL to Generate a Decision Notice\nClaims processors may\nnot\nuse RADL to generate decision notices for the following types of decisions:\ndecisions associated with EPs other than those listed in\nM21-1, Part VI, Subpart i, 1.B.3.b\ndecisions on claims for pension (with the exception of the administrative denials referenced in\nM21-1, Part VI, Subpart i, 1.B.3.b\n), to include “dual” claims (claims for both compensation\nand\npension)\nfinal\nrating decisions to rate a beneficiary incompetent\ndecisions to adjust an award based on review of an audit error worksheet (AEW)\nrare ancillary decisions, such as those involving\ncivil service preference\ndischarge of an education loan\nextension of delimiting dates for education benefits under 38 U.S.C. Chapter\n30\n,\n31\n,\n32\n, or\n1606\nloan guaranty benefits, or\nRestored Entitlement for Survivors\ndecisions regarding the eligibility of a Veteran’s child for an appointment to a service academy, as explained in\nM21-1, Part XIII, Subpart ii, 5.A\n, and\ndecisions on contested claims.\nNote\n:  Use the AEW Assistant to generate a decision notice regarding an award adjustment that is based on review of an AEW worksheet.  Under all the other circumstances described in this block, use PCGL.\nReference\n:  For more information on using the AEW Assistant, see\nM21-1, Part VI, Subpart ii, 4.E.1.r\n.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 1, Section B - Decision Notices",
+  "citation": "Part VI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179469/M21-1-Part-VI-Subpart-i-Chapter-1-Section-B-Decision-Notices",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:45.480026",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_40",
+  "content": "/>\nII.ii.2.A.5.a\n.\nIdentifying Claims Submitted Using a VA Electronic Application Process That Failed to Upload to the eFolder\nIn rare situations, a technical error in the Enterprise Veterans Self Service (EVSS) system, which supports electronic transmission of claims material through VA claims submission service websites, results in the failure of a claims document to upload to the eFolder.  These cases can be identified by\nan automatically established EP\nan eBenefits claim label, and\nthe absence of claims documents for the current claim in the eFolder.\nNotes\n:\nClaims documents submitted through the Digits-2-Digits (D2D) submission process cannot be recovered when transmission failure occurs.  Upon identifying such a case, follow the instructions in\nM21-1, Part II, Subpart ii, 2.A.5.d\n.\nClaims submitted through D2D can be identified by the D2D claim labels.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

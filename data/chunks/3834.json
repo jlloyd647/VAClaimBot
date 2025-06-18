@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_1_B_11",
+  "content": "/>\nVI.i.1.B.1.f\n.\nRequirement to Provide a Summary of Evidence in a Decision Notice\nClaims processors must summarize (for the benefit of the claimant) the evidence VA considered in reaching a decision in the corresponding decision notice.\nNotes\n:\nIf a decision notice was preceded by a notice of proposed adverse action, as described in\nM21-1, Part VI, Subpart i, 1.B.1.a\n, there is no need to re-summarize in that decision notice any evidence referenced in the notice\nof proposed adverse action\n.\nThe list of evidence provided in the decision notice must identify individual documents deemed relevant to the determination at hand and may\nnot\nrely solely on general references to\nreview of the claims folder\n.\nRating decisions contain a summary of the evidence VA considered when deciding any rating-related issues.  As long as the claimant will receive a copy of the rating decision, there is no need to summarize this same evidence in the decision notice.\nDecision notices regarding a VA rating decision that claims processors generated using Automated Decision Letter (ADL) did\nnot\ninclude a copy of the rating decision.  In order to comply with the requirement to provide claimants a summary of the evidence the rating activity considered, ADL copied the evidence the rating activity listed in the rating decision and pasted it into the decision notice.  This approach changed on December 11, 2017, when Redesigned ADL (RADL) was deployed.  Now, decision notices that notify a claimant of a rating decision\ninclude\na copy of the rating decision.\nReference\n:  For information on summarizing evidence in a decision notice, see the\nVeterans Benefits Management System (VBMS) Awards User Guide\n.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 1, Section B - Decision Notices",
+  "citation": "Part VI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179469/M21-1-Part-VI-Subpart-i-Chapter-1-Section-B-Decision-Notices",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:45.480026",
+  "tags": [
+    "m21-1"
+  ]
+}

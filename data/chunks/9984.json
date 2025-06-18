@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_4_C_7",
+  "content": "/>\nXIV.4.C.1.b\n.\nOverview of the Match\nThe table below provides an overview of the match.\nStage\nDescription\n1\nThe Office of Performance Analysis & Integrity (OPA&I) selects beneficiary files for the data match and sends the files to Hines Information Technology Center (ITC).\nReference\n:  For more information on OPA&I selection, see\nM21-1, Part XIV, 4.C.1.c\n.\n2\nHines ITC sends the file to the SSA and IRS.\n3\nThe SSA and IRS run this file against their files.\n4\nFiles are then returned from both the SSA and IRS.\n5\nHines ITC combines the SSA and IRS files and matches the combined file against the corporate record.\n6\nHines ITC performs a filter to exclude those cases where development based on income or net worth is not required.\nReference\n:  For more information on Hines ITC filtering of matches, see\nM21-1, Part XIV, 4.C.1.d\n.\n7\nFor cases not filtered, Hines ITC\nestablishes the appropriate end product (EP) for the pension management center (PMC)\nmails the appropriate letter(s) to the beneficiary, and\nuploads the letter(s) to the secured Federal tax information (FTI) file repository (FFR).\nReferences\n:  For more information on the\nPAA EP, see\nM21-1, Part XIV, 4.C.1.f\n, and\nautomatic generation of compressed letter, see\nM21-1, Part XIV, 4.C.2.d\n.",
+  "title": "M21-1, Part XIV, Chapter 4, Section C - Federal Tax Information (FTI) Match:  Post Award Audit (PAA) for Pension and Parents' Dependency and Indemnity Compensation (DIC) Beneficiaries",
+  "citation": "Part XIV, Chapter 4, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173313/M21-1-Part-XIV-Chapter-4-Section-C-Federal-Tax-Information-FTI-Match-Post-Award-Audit-PAA-for-Pension-and-Parents-Dependency-and-Indemnity-Compensation-DIC-Beneficiaries",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:32:31.445528",
+  "tags": [
+    "m21-1"
+  ]
+}

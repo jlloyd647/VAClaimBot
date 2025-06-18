@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_4_B_26",
+  "content": "/>\nXIV.4.B.2.d\n.\nRemoving an FTI Document Within VBMS and Securely Storing in the FFR\nIf a PMC/VSC employee discovers an FTI document within VBMS, outside of the restricted FTI DOCUMENTS tab, print out all FTI documents and send for imaging and storage to the secure FFR.\nOnce imaged and securely stored, call-in or create a service desk ticket for tracking purposes for VBMS.  An AVSCM or APMCM must send an e-mail to the VBMS POC requesting deletion of the FTI documents.  Use the term\nFTI Documents outside of the restricted FTI DOCUMENTS tab in VBMS\nin the subject line of the e-mail.  The e-mail must contain:\nservice desk ticket number\nrequest to receive a verification e-mail once documents have been deleted\nfile number\nVeteran’s name\nreceipt date\ndocument identification\ndocument type, and\nstorage date.\nImportant\n:  Do\nnot\ninclude FTI in the e-mail.\nOnce a confirmation e-mail is received from VBMS stating the documents in question have been deleted, close/resolve the service ticket created, if applicable.\nReferences\n:\nFor more information on\ntracking FTI, see\nM21-1, Part XIV, 4.B.2.j\ndestroying scanned FTI, see\nM21-1, Part XIV, 4.B.2.h\n, and\nIR policy and reporting procedures, see\nM21-1, Part XIV, 4.B.1.l\nand\nm\n.",
+  "title": "M21-1, Part XIV, Chapter 4, Section B - Federal Tax Information (FTI) Match: Safeguarding",
+  "citation": "Part XIV, Chapter 4, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173312/M21-1-Part-XIV-Chapter-4-Section-B-Federal-Tax-Information-FTI-Match-Safeguarding",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:32:22.064620",
+  "tags": [
+    "m21-1"
+  ]
+}

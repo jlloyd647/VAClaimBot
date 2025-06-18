@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_8_None_10",
+  "content": "/>\nXIV.8.1.e\n.\nNCIC Offense Codes and Descriptions\nThe table below contains information about the offense codes and descriptions referenced in\nM21-1, Part XIV, 8.1.d\n.  The National Crime Information Center (NCIC) assigns these codes and corresponding descriptions, and they are an indicator that the individual with the felony arrest warrant\nis/was fleeing, or\nhas violated the conditions of probation or parole.\nOffense Code\nOffense Description\n4901\nescape\n4902\nflight to avoid prosecution\n4999\nflight-escape\n5011\nparole violation\n5012\nprobation violation\n8101\njuvenile offender abscond (escape/flee) while on parole\n8102\njuvenile offender abscond while on probation\nNotes\n:\nEach\nForm FFP-3\nreceived from OIG should include one of the seven offense codes or corresponding descriptions listed above in order to classify the individual as a fugitive felon for VA purposes.  If an offense code or description is not noted on the FFP-3, see\nM21-1, Part XIV, 8.1.f\nto determine next course of action.\nWhile a\nForm FFP-3\nmay indicate an individual's \"failure to appear,\" this does not meet the VA's definition of a fugitive felon as the offense code and description are not included in the seven codes/descriptions reflected above. Therefore, no adjustments to the award are required.\nReference\n:  For a complete list of offense codes and descriptions used by NCIC, see the\nInterstate Compact Offender Tracking System (ICOTS) offense code resource page\n.",
+  "title": "M21-1, Part XIV, Chapter 8 - Fugitive Felon Match",
+  "citation": "Part XIV, Chapter 8, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173306/M21-1-Part-XIV-Chapter-8-Fugitive-Felon-Match",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:33:17.983814",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_iii_1_B_50",
+  "content": "/>\nXI.iii.1.B.5.h\n.\nEstablishing Debts Against State Veterans Cemeteries or Tribal Cemeteries\nThe table below describes the stages for establishing a debt against a State Veterans cemetery or tribal cemetery after the expiration of regular due process procedures outlined in\nM21-1, Part XI, Subpart iii, 1.B.5.g\n.\nImportant\n:  State Veterans cemeteries and tribal cemeteries are third parties; therefore, the Debt Management Center (DMC) does not have jurisdiction over these debts nor will the DMC send debt notices.\nStage\nWho is Responsible\nDescription\n1\nPMC VSR\nProcesses a State plot award decision in VBMS-A to terminate the State plot payment against the incorrect State Veterans cemetery or tribal cemetery\ncreates and sends a decision notification letter to the cemetery\nnotifies the local finance activity of termination, and\nrequests the local finance activity to create and mail debt notice to the cemetery.\n2\nlocal finance activity\nCreates and mails debt notice to State Veterans cemetery or tribal cemetery\nmoves debt from the eMPWR-VA to the Centralized Administrative Accounting Transaction System (CAATS), and\nnotifies PMC VSR that a debt has been moved to CAATS.\n3\nPMC VSR\nProcesses a State plot award decision in VBMS-A to pay the correct State Veterans cemetery or tribal cemetery, and\ncreates and sends a decision notification letter to the cemetery.",
+  "title": "M21-1, Part XI, Subpart iii, Chapter 1, Section B  - Burial Benefits",
+  "citation": "Part XI, Subpart iii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174201/M21-1-Part-XI-Subpart-iii-Chapter-1-Section-B-Burial-Benefits",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:21:33.024665",
+  "tags": [
+    "m21-1"
+  ]
+}

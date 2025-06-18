@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_K_48",
+  "content": "/>\nIX.iii.1.K.5.h\n.\nExample:  Medical Expenses for the Hardship Exclusion\nExample\n:  A Veteran with a running award reports total family income.  The Veteran’s only established dependent is a child.  The child has Social Security income of $9,000 and the Veteran has income of $2,000.  The Veteran reports unreimbursed medical expenses of $400.  The Veteran claims that it would cause a hardship to count the child’s income.  The Veteran reports family expenses of $18,496.  The $18,496 includes the $400 in medical expenses.\nResult\n:  Treat the $400 as a family expense since the 5-percent medical expense threshold for a Veteran with one dependent is $842 effective December 1, 2014.  By treating the $400 as a family expense, family IVAP can be reduced.\nCalculation\n:  The table below outlines the calculation for determining the IVAP after applying the hardship exclusion.\nStep\nCalculation\nDescription\n1\n$2,000\n+$9,000\n$11,000\nVeteran’s income\nChild's Income\nIVAP before applying hardship exclusion\n2\n$11,000\n+$5,851\n$16,851\nIVAP before applying hardship exclusion\nVA pension\nIVAP plus pension entitlement\n3\n$18,496\n-$16,851\n$1,645\nFamily expenses\nIVAP plus pension entitlement\nHardship exclusion\n4\n$9,000\n-$1,645\n$7,355\nChild’s income\nHardship exclusion\nChild's income minus the hardship exclusion\n5\n$2,000\n+$7,355\n$9,355\nVeteran’s income\nChild's income minus the hardship exclusion\nIVAP after applying hardship exclusion",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section K - Other Deductible Expenses",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section K",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177526/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-K-Other-Deductible-Expenses",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:08:13.655409",
+  "tags": [
+    "m21-1"
+  ]
+}

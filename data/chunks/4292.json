@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_5_None_40",
+  "content": "/>\nVI.ii.5.4.d\n.\nElection Is Required Between FEC and an Increased Rate of VA Compensation Following an On-the-Job Injury\nScenario\n:\nA Veteran who is a Federal Government employee has a back disorder and a knee disorder that are each rated 10 percent disabling.\nThe Veteran reinjures his knee in an on-the-job accident.\nOWCP awards FEC for the knee injury.\nVA increases the disability rating for the knee to\n20 percent, effective May 1, 2005, for a combined disability rating of 30 percent, and\n40 percent, effective May 1, 2006, for a combined disability rating of 50 percent.\nResults\n:\nAn election is required between FEC and any VA compensation for the knee disorder that exceeds the rate payable for a disability rated 10-percent disabling.\nFollow the instructions in the table below if the Veteran elects FEC.\nEffective Date\nAction\nMay 1, 2005\nPay compensation at the rate payable for a combined disability rating of 20 percent by entering into the OTHER WITHHOLDING field on the AWARD ADJUSTMENTS screen in VBMS-A the difference between\nthe rate payable for a combined disability rating of 30 percent, and\nthe rate payable for a combined disability rating of 20 percent.\nMay 1, 2006\nContinue paying compensation at the rate payable for a combined disability rating of 20 percent rate but increase the withholding to the difference between\nthe rate payable for a combined disability rating of 50 percent, and\nthe rating payable for a combined disability rating of 20 percent.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 5 - Federal Employees’ Compensation (FEC)",
+  "citation": "Part VI, Subpart ii, Chapter 5, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179486/M21-1-Part-VI-Subpart-ii-Chapter-5-Federal-Employees-Compensation-FEC",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:56.178846",
+  "tags": [
+    "m21-1"
+  ]
+}

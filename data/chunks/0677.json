@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_3_A_17",
+  "content": "/>\nII.iii.3.A.3.a\n.\nAuto-Establish Process\nAuto-Establish is an automatic process taking traditional paper compensation claims filed on\nVA Form 21-526EZ\nthat have been received and scanned into the CM portal and\nextracting data from the form, and\nautomatically establishing the claim in VBMS.\nNote\n:  A claim submitted on\nVA Form 21-526EZ\nto the CM portal using the Direct Upload tool will also go through the Auto-Establish process.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 3, Section A - Claims Establishment",
+  "citation": "Part II, Subpart iii, Chapter 3, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174881/M21-1-Part-II-Subpart-iii-Chapter-3-Section-A-Claims-Establishment",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:13:56.774884",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_1_B_28",
+  "content": "/>\nII.i.1.B.4.a\n.\nLocating Source Materials\nThe source folder or shipment must be located before a rescan request can be submitted.  Perform a search using the file number and select the matching shipment to identify the DCS ID number and location of the RMN shipment.\nNotes\n:\nIf the RMN shipment location cannot be identified, copy the tracking number and enter it in the\nUPS tracking website\n.\nThe website provides meaningful information only if the tracking number is 120 days old or less.\nReferences\n:  For more information on\nshipping manifests and DCSs, see the\nVBMS Core User Guide\n, and\nsubmitting a rescan request, see\nM21-1, Part II, Subpart i, 1.B.4.b\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 1, Section B - Veterans Claims Intake Program (VCIP) Shipping",
+  "citation": "Part II, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174856/M21-1-Part-II-Subpart-i-Chapter-1-Section-B-Veterans-Claims-Intake-Program-VCIP-Shipping",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:09:59.879693",
+  "tags": [
+    "m21-1"
+  ]
+}

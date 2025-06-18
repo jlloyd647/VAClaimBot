@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIII_i_3_B_8",
+  "content": "/>\nXIII.i.3.B.1.c\n.\nEP Control Over Eligibility Determination Requests\nUse an end product (EP) 290 –\nCharacter of Discharge\nto control any incoming VHA request for an eligibility determination regarding COD.\nImportant\n:  If Box 16 of\nVA Form 20-0986\nis checked or if remarks in Box 17 clearly indicate that emergency (as opposed to routine) mental health care is requested,\nensure that the\nEmergency Care\ncorporate flash has been appended to the former service member’s record, and\nfollow the procedural instructions found in\nM21-1, Part XIII, Subpart i, 3.B.1.e\n.\nNotes\n:\nIf an application for disability compensation is received after an EP 290 has been established to control such a request,\nseparately establish the appropriate rating EP, using the date of receipt of the claim for disability compensation as the date of claim\nadd\ncharacter of discharge\nas a contention, and\nadd the\nCharacter of Discharge\nspecial issue indicator to the contention.\nIf a VHA request is received while a rating EP is pending, and no COD determination has been made,\nseparately establish an EP 290 –\nCharacter of Discharge\n, and\nadd\ncharacter of discharge\nas a contention to the rating EP\nthe\nCharacter of Discharge\nspecial issue indicator to the contention, and\nany tracked items for the COD determination, previously controlled solely under the rating EP, to the newly established EP 290.",
+  "title": "M21-1, Part XIII, Subpart i, Chapter 3, Section B - Healthcare Eligibility Determinations for Former Service Members Discharged Under Other-Than-Honorable (OTH) Conditions",
+  "citation": "Part XIII, Subpart i, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173782/M21-1-Part-XIII-Subpart-i-Chapter-3-Section-B-Healthcare-Eligibility-Determinations-for-Former-Service-Members-Discharged-Under-Other-Than-Honorable-OTH-Conditions",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:26:20.479555",
+  "tags": [
+    "m21-1"
+  ]
+}

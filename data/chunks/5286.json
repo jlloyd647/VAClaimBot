@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_iii_1_B_35",
+  "content": "/>\nVII.iii.1.B.4.b\n.\nActions to Take if Other Dependents Remain Entitled to an Apportionment\nFollow the instructions in the table below when\nVA must discontinue an apportionment for a child based on the instructions in\nM21-1, Part VII, Subpart iii, 1.B.4.a\n, and\nother dependents (such as an estranged spouse) remain entitled to an apportionment of the primary beneficiary’s benefits.\nStep\nAction\n1\nUpdate the ALLOTMENT DECISION screen in VBMS to discontinue the apportionment to the child effective the date the primary beneficiary began paying child support.\n2\nDoes the most recent apportionment decision specify how much of the primary beneficiary’s award is to be allotted to each apportionee?\nIf\nyes\n, go to Step 5.\nIf\nno\n, go to the next step.\n3\nDetermine how much of the primary beneficiary’s award to apportion to the remaining apportionee(s) by following the instructions in\nM21-1, Part VII, Subpart iii, 1.A.3.e\n.\n4\nDocument the decision made in Step 3 according to the instructions in\nM21-1, Part VII, Subpart iii, 1.A.3.g\n.\n5\nUpdate the ALLOTMENT DECISION screen with the new amount(s) allotted to the remaining apportionee(s).\n6\nNotify the primary beneficiary and the apportionee(s) of the actions taken.\nReference\n:  For more information on making award adjustments in\nVBMS, see the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part VII, Subpart iii, Chapter 1, Section B - Adjusting Apportioned Awards",
+  "citation": "Part VII, Subpart iii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176633/M21-1-Part-VII-Subpart-iii-Chapter-1-Section-B-Adjusting-Apportioned-Awards",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:54:36.072027",
+  "tags": [
+    "m21-1"
+  ]
+}

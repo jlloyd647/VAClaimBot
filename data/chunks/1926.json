@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_B_45",
+  "content": "/>\nIX.iii.1.B.4.b\n.\nInterpreting Social Security Award Letters\nSocial Security award letters may indicate the date that the first payment will be sent to the beneficiary or may show a date of entitlement, for example, July 2014.  If only a date of entitlement is shown, assume that the beneficiary will receive a full month’s payment for the entitlement month, for example, July 2014, and each month thereafter.\nHowever, if an offset or deduction is required for some reason, such as, payee employed, or overpayment to be recouped, then benefits may not be payable from the date of entitlement.  If this is the case, the text of the letter should state the reason why benefits are not payable from the date of entitlement.\nThe Social Security award letter shows the amount and date of any retroactive payment issued to the beneficiary.  An\nR\nin the PAYMENT INDICATOR field of the VBMS screen indicates that an SSA action possibly affected payment.\nNote\n:  With the exception of Social Security cost-of-living increases, VA counts income from the first day of the month following the date the beneficiary receives it.  Unless Social Security retroactive payments are involved, a Social Security payee who first becomes entitled to Social Security as of July 2014 would generally receive the first Social Security payment in August 2014.  VA would count this as income as of September 1, 2014.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section B - Social Security Administration (SSA) Benefits Program",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177517/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-B-Social-Security-Administration-SSA-Benefits-Program",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:49.186739",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_4_C_8",
+  "content": "/>\nXIV.4.C.1.c\n.\nOPA&I Filtering of Matches\nOPA&I selects eligible beneficiary records to send to Hines ITC.  Prior to selecting records, OPA&I will automatically exclude records in which the beneficiary\nhas a pending FTI eligible EP during the PAA match\nhas had an FTI eligible EP claim established within two years from the date OPA&I selects records for a PAA match\nis receiving a payment of $90 due to Medicaid status as of the date of the PAA selection\nhas a missing cost-of-living adjustment line for the tax year of the requested match, or\nis deceased.\nNote\n:  The first two bullets apply to EP series with claim labels listed in\nM21-1, Part XIV, 4.A.1.d\n.\nReference\n:  For information on FTI eligible EP claims, see the\nFTI-GUI User Guide\n.",
+  "title": "M21-1, Part XIV, Chapter 4, Section C - Federal Tax Information (FTI) Match:  Post Award Audit (PAA) for Pension and Parents' Dependency and Indemnity Compensation (DIC) Beneficiaries",
+  "citation": "Part XIV, Chapter 4, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173313/M21-1-Part-XIV-Chapter-4-Section-C-Federal-Tax-Information-FTI-Match-Post-Award-Audit-PAA-for-Pension-and-Parents-Dependency-and-Indemnity-Compensation-DIC-Beneficiaries",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:32:31.445528",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XII_ii_2_D_6",
+  "content": "/>\nXII.ii.2.D.1.a\n.\nGeneral Information for the Special Allowance Award Under 38 U.S.C. 1312(a)\nRefer to the table below for general award information for the special allowance payable under\n38 U.S.C. 1312(a)\n.\nAward Data\nDescription\nPayee Number\nUse payee number 70 to establish an initial for award under\n38 U.S.C. 1312(a)\n. Use payee numbers 71-78 for subsequent payees.\nVeteran’s Social Security Number (SSN)\nEnsure that the Veteran’s SSN, as shown in the Beneficiary Identification and Records Location Subsystem (BIRLS), is the same as that shown on\nSSA Form 101\n,\nDetermination of Award\nSSA Form 101C\n,\nDetermination of Award\n, or\nSSA Form 101U3\n,\nDetermination of Award\n.\nIf the number is incorrect, enter the correct number in BIRLS.\nMonthy Rate\nPay the amount certified by the Social Security Administration (SSA).\nIf the amount certified is not a whole-dollar amount, round down to the nearest dollar.\nEffective Date\nThe commencement date of an award is always the first day of the month in which the individual is eligible to receive benefits as certified by the SSA.\nExample\n:  If\nSSA Form 101\n,\nSSA Form 101C\n, or\nSSA Form 101U3\nshows\n4/02\nas the commencing date, use 04/01/2002 as the effective date.\nEnding Date - Child Involved\nDo not provide an ending date on awards to a surviving spouse, parent, or child incapable of self-support (when they are the only child on the award, unless certified by SSA.)\nEnding Date - Child or Children Involved\nProvide an ending date on all awards to, or on behalf of, a child or children other than children\nthat are incapable of self-support.",
+  "title": "M21-1, Part XII, Subpart ii, Chapter 2, Section D - Authorization and Notification for the Special Allowance Under 38 U.S.C. 1312(a)",
+  "citation": "Part XII, Subpart ii, Chapter 2, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175226/M21-1-Part-XII-Subpart-ii-Chapter-2-Section-D-Authorization-and-Notification-for-the-Special-Allowance-Under-38-USC-1312a",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:24:47.650503",
+  "tags": [
+    "m21-1"
+  ]
+}

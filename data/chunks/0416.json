@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_20",
+  "content": "/>\nII.ii.2.A.2.d\n.\nPreparing a Document for Deletion by VBMS OIT\nThe supervisor who approves the document deletion request from a claims processor must\nchange the document subject line to\nApproved for Deletion\n, and\ntransfer the document to the\nUnassociated Documents\nqueue.\nImportant\n:  VBMS OIT will periodically run a report on the\nUnassociated Documents\nqueue to locate and remove the documents that have been identified for deletion. For this reason, supervisors must use the specific subject line identified in this block.\nNotes\n:\nVBMS OIT may contact the supervisor if additional information is needed before processing the request.\nEach\nVBMS Request for Document Deletion Form\nshould be saved electronically in a central location at each RO, for use as\nreference material when answering questions from VBMS OIT, and\na record of how the document deletion decision was made.\nReference\n:  For more information on editing a document’s subject line, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

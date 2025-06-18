@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_C_14",
+  "content": "/>\nXI.i.1.C.2.c\n.\nErroneous Date of Death Later Than the Correct MOD and Benefit Checks Are Returned\nThe system may establish a proceed due segment in the record if the\nFNOD is completed with a date of death that is later than the correct MOD, and\nVeteran’s uncashed benefit checks are returned.\nIf\nall\nthe returned checks represent payment for the MOD or later:\nuse an\nOptional Form (OF) 41\n, or\nannotate a\nDepartment of Veterans Affairs Form 20-6560, Notice of Benefit Payment Transaction\n, and\nask the finance activity to return the amount in proceeds to appropriations, and\ncomplete a BIRLS UPDATE to correct the date of death in BIRLS.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section C  - Errors During Notice of Death (NOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174195/M21-1-Part-XI-Subpart-i-Chapter-1-Section-C-Errors-During-Notice-of-Death-NOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:22.881307",
+  "tags": [
+    "m21-1"
+  ]
+}

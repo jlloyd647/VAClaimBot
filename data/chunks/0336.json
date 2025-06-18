@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_C_34",
+  "content": "/>\nII.i.2.C.5.d\n.\nRMO Review of Unidentifiable Mail\nPackets approved as unidentifiable mail in the UM FIRST AUTH queue will route to the UM FINAL AUTH queue for review by the records management officer (RMO) or authorized designee.  The RMO will review all unidentifiable mail in the UM FINAL AUTH queue to ensure that both the user and IPC supervisor or RMC Supervisory Program Support Assistant have provided the note indicating the steps taken to identify the Veteran.\nImportant\n:\nThe term\nsupervisor\nwill be used to describe both the IPC supervisor and RMC Supervisory Program Support assistant, unless otherwise noted\n.\nRefer to the table below for necessary RMO actions to complete the review of the unidentifiable mail.\nIf the required note describing attempts to locate the packet ...\nThen the RMO will ...\nwas\nnot\nplaced by\nboth\nthe requesting user and the supervisor\nplace a note on the packet stating that the request for unidentifiable mail has been denied\ndeny the unidentifiable mail request by clicking the DENY button in the ACTIONS menu, and\nenter the denial reason in the pop-up box.\nNote\n:  After denial, the packet routes back to the supervisor UM FIRST AUTH queue and the denial reason is visible.\nwas placed by\nboth\nthe requesting user and supervisor\napprove the unidentifiable mail request by clicking the APPROVE button in the ACTIONS menu, and\nat the pop-up prompt stating\nI certify that this is unidentifiable mail\n, select OK.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section C - Mail Management",
+  "citation": "Part II, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174860/M21-1-Part-II-Subpart-i-Chapter-2-Section-C-Mail-Management",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:30.870043",
+  "tags": [
+    "m21-1"
+  ]
+}

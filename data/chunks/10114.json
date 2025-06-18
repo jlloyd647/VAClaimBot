@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_7_None_7",
+  "content": "/>\nXIV.7.1.c\n.\nIndividuals That Data Matching Identifies\nThe data matching referenced in\nM21-1, Part XIV, 7.1.b\nidentifies Veterans, dependents, and survivors that have been incarcerated.\nUse the table below to determine the individual being identified in the data match.\nIf a Veteran’s SSN and the SSN in the SSA or BOP database are …\nAnd the case is a …\nThen the match is on …\nthe same\n---\nthe Veteran’s SSN.\nnot the same\nlive case\na dependent’s SSN.\nNote\n:  Assume the incarcerated person is the Veteran’s dependent.\ndeath case\na survivor’s SSN.\nImportant\n:\n38 CFR 3.666\nrequires the removal of an incarcerated dependent from a beneficiary’s award if the beneficiary receives\npension\n.  There is no such requirement, however, if the beneficiary is a\nVeteran receiving disability compensation, or\nsurviving spouse receiving DIC.\nReference\n:  For more information on handling notice of a Veteran’s, dependent’s, or survivor’s incarceration, see\nM21-1, Part VI, Subpart iii, 1.A\n-\nC\n.",
+  "title": "M21-1, Part XIV, Chapter 7 - Data-Matching Programs That Identify Incarcerated Beneficiaries and Dependents",
+  "citation": "Part XIV, Chapter 7, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173307/M21-1-Part-XIV-Chapter-7-Data-Matching-Programs-That-Identify-Incarcerated-Beneficiaries-and-Dependents",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:33:08.650702",
+  "tags": [
+    "m21-1"
+  ]
+}

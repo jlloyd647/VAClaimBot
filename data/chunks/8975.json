@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XII_i_3_E_23",
+  "content": "/>\nXII.i.3.E.3.c\n.\nCorrection of the Date of Death in a Prior Award\nIf a report of actual death is received correcting the date of death shown in the previous report\nedit the dates of the date of death in Participant Profile\nupdate the Beneficiary Identification and Records Locator Subsystem (BIRLS) using the BIRLS update command, and\namend the award\nonly\nif an adjustment in the commencing date is required.\nNote\n:  If the award must be amended to adjust the commencing date\nenter the appropriate annotation in the REMARKS section as provided in\nM21-1, Part XII, Subpart i, 3.E.2\n, and\nprecede the entry with\nReport of actual death made\n[date]\ncorrected by subsequent report of actual death\n.",
+  "title": "M21-1, Part XII, Subpart i, Chapter 3, Section E - Allowance, Allotments, or Service Pay Under 38 U.S.C. 5110(j)",
+  "citation": "Part XII, Subpart i, Chapter 3, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175217/M21-1-Part-XII-Subpart-i-Chapter-3-Section-E-Allowance-Allotments-or-Service-Pay-Under-38-USC-5110j",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:23:24.170819",
+  "tags": [
+    "m21-1"
+  ]
+}

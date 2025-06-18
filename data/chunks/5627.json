@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VIII_ii_2_C_15",
+  "content": "/>\nVIII.ii.2.C.2.b\n.\nRequirement to Provide Adequate Explanation of Decisions to Deny\nWhen denying SC for a condition based on BPOT exposure, the decision and decision notice must provide adequate reasons for the decision.  Decision makers must include a discussion of the specific provisions that were not met under the relevant presumptive provisions, as well as any other avenue of SC raised by the claimant or evidence.\nIn order to properly document decisions to deny benefits based on BPOT exposure in VBMS-R, claims processors must:\nuse a combination of any applicable system-generated language, glossary text fragments, and free text to ensure the decision and decision notice adequately explain why the claim could not be granted under all applicable provisions, and\napply the appropriate special issue and special issue basis for each decided contention.\nImportant\n:  If the system-generated text options do not adequately cover the reason a claim is being denied, decision makers must use glossary text or free text to supplement the explanation of the decision.\nReferences\n:  For more information on\nBPOT general rating decision requirements, see\nM21-1, Part VIII, Subpart ii, 2.C.1.d\nsystem-generated text and glossary fragments, see the\nVBMS Rating User Guide\nconsidering unclaimed theories of SC, see\nM21-1, Part II, Subpart iii, 1.A.2.e\n, and\ndecision notification requirements, see\n38 CFR 3.103(f)\n.",
+  "title": "M21-1, Part VIII, Subpart ii, Chapter 2, Section C - Rating Claims Based on Exposure to Burn Pits and Other Toxins, Including Fine Particulate Matter (BPOT)",
+  "citation": "Part VIII, Subpart ii, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177443/M21-1-Part-VIII-Subpart-ii-Chapter-2-Section-C-Rating-Claims-Based-on-Exposure-to-Burn-Pits-and-Other-Toxins-Including-Fine-Particulate-Matter-BPOT",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:57:23.049292",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_21",
+  "content": "/>\nII.ii.2.A.2.e\n.\nEstablishing a Local Mailbox for Document Error Report Submissions\nAll ROs, the Board of Veterans’ Appeals, and decision review operations centers must each designate, at minimum, five PDF editors to receive and complete station requests to amend documents in the VBMS eFolder.  The editors must have Adobe Pro installed on their computers to perform the necessary edits.\nEach RO must have a centralized mailbox for VBMS end users to submit a\nDocument Error Report\nto the designated PDF editors.  Follow the steps in the table below when establishing a local mailbox for\nDocument Error Report\nsubmissions.\nStep\nAction\n1\nSend an e-mail to the RO Information Technology (IT) staff and include the request for establishment of a corporate mailbox.\nImportant\n:  The IT staff should use the same naming convention when establishing the corporate mailbox.\nExample\n:  DocErrCorr.VBAXXX@va.gov (VAVBAXXX/RO/DOCERRCORR) where XXX is the three-letter code for the RO (such as ALB, BUF, BOS, DET.)).\n2\nComplete a local area network (LAN) form for each designated PDF editor.\n3\nSend the RO IT Staff an updated LAN form for each person who requires access to the corporate mailbox.\n4\nNotify the local Information Security Officer of the mailbox email address and request Public Key Infrastructure (PKI) encryption.\n5\nDesignated PDF editors must add the corporate mailbox and install PKI certificates.\nNote\n:  PDF editors must be assigned a terminal digit (TD) range to receive and complete the requests to amend documents in the VBMS eFolder (such as User 1 – TD 00-19, User 2 – TD 20-39, and so forth).",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

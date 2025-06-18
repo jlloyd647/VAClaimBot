@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_3_B_23",
+  "content": "/>\nII.iii.3.B.3.e\n.\nUpdating VA Systems for Claims When ADT or IADT Is the Only Service\nWhen a Veteran with only ADT and/or IADT service submits a claim for compensation, enter the period(s) of ADT and/or IADT upon which the claim is based as verified service in VBMS.\nIn the BRANCH field, enter the actual component of service such as\nArmy Reserve\nor\nAir National Guard\n.\nIf the separation reason is not known or not indicated on the record of service, enter\nUnknown\n.\nIf the character of service is not known or not indicated in the record of service and the\nevidence indicates the separation was an administrative separation, then follow the procedures at\nM21-1, Part X, Subpart iv, 1.B\nto determine the appropriate character of service entry,\nor\nseparation was not an administrative separation, then enter\nUnknown\nin the CHARACTER field.\nChoose the appropriate type of service in the SERVICE TYPE field.\nImportant\n:\nEnter the first period of ADT if the claimant does not specify the period of service upon which the claim is based.\nDo not enter a period of ADT or IADT into VBMS as a period of verified active service.\nThese procedures apply\nonly\nfor claims in which there is no period of active service verifiable.\nIf VA grants any of the claimed issues, change the ADT and/or IADT to active service before the rating decision is complete, as discussed in\nM21-1, Part II, Subpart iii, 3.B.3.a\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 3, Section B - System Updates at Intake",
+  "citation": "Part II, Subpart iii, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174882/M21-1-Part-II-Subpart-iii-Chapter-3-Section-B-System-Updates-at-Intake",
+  "updated": "Jun 16, 2025",
+  "scraped_at": "2025-06-17T11:14:07.055847",
+  "tags": [
+    "m21-1"
+  ]
+}

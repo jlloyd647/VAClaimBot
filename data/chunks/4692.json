@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_i_1_D_8",
+  "content": "/>\nVII.i.1.D.1.c\n.\nHow RBPS Sorts and Processes Claims\nRBPS receives dependent data via one of the methods described in\nM21-1, Part VII, Subpart i, 1.D.1.b\n, then determines whether the dependency claim is eligible for automated processing.\nThe table below describes what happens with the claim after its eligibility for automated processing is determined.\nIf the claim is …\nThen …\neligible\nfor automated processing\nRBPS\nestablishes an end product (EP) 130 with the appropriate claim label\nuses rules-based programming to decide the claim, and\nprocesses the decision through the Veterans Service Network (VETSNET)\nVETSNET clears the EP 130, and\nthe Hines Information Technology Center\ngenerates a decision notice, and\nuploads the corresponding award print and decision notice into the Veteran’s electronic claims folder (eFolder).\nnot\neligible for automated processing\nRBPS establishes an EP 130 with a claim label designating it as an RBPS-rejected claim, and\nthe National Work Queue (NWQ) will recall and distribute the EP for any additional development and/or adjudication.\nReference\n:  For a list of claims that are\nnot\neligible for automated processing through RBPS, see\nM21-1, Part VII, Subpart i, 1.D.1.d\n.\nNotes\n:\nIf an EP 130 is already pending when RBPS places a claim under EP control, RBPS will establish an incremental EP, such as EP 131 or EP 132.\nIncremental EPs created by RBPS must be\nconsolidated under the EP 130 by the station that received the EP 130 for processing, and\nafter consolidation, cancelled using the reason\nWorked Under Proper EP\n.\nReferences\n:  For more information on\nrequesting jurisdiction of EPs from NWQ, see the\nNWQ Playbook\n, and\nclaim labels used for EP 130s, see\nM21-4, Appendix C\n.",
+  "title": "M21-1, Part VII, Subpart i, Chapter 1, Section D - Dependency Claims Processed by the Rules-Based Processing System (RBPS)",
+  "citation": "Part VII, Subpart i, Chapter 1, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176616/M21-1-Part-VII-Subpart-i-Chapter-1-Section-D-Dependency-Claims-Processed-by-the-Rules-Based-Processing-System-RBPS",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:52:15.896294",
+  "tags": [
+    "m21-1"
+  ]
+}

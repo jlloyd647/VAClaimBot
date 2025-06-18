@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_C_27",
+  "content": "/>\nX.i.6.C.3.f\n.\nAutomated VBMS STR Requests\nFor claims established as diaries, automatic STR requests are generated to the HAIMS system on the day following discharge for service members separating or retiring from the Coast Guard on or after September 1, 2014, and all other branches of service on or after January 1, 2014.  If the service information is not complete in BIRLS as of close of business on the day following discharge, the automated STR request will not generate.\nPre-discharge claims processors need to ensure this automated request is generated for BDD and BDD-excluded claims on or after the day following discharge.\nImportant\n:\nIf STRs were received prior to RAD, then do not wait for a response from the HAIMS STRs request to proceed with processing the BDD claim on the day following discharge, including promulgation and authorization of the award.\nFollow established procedures as outlined in\nM21-1, Part III, Subpart ii, 2\nfor obtaining STRs for prior periods of service.\nNote\n:  Upon establishment of a rating EP (non-diary EP), VBMS submits an automated request to the HAIMS system for service members separating or retiring from the Coast Guard on or after September 1, 2014, and all other branches of service on or after January 1, 2014.\nReference\n:  For more information on generating an automated VBMS STR request for BDD claims, see\nM21-1, Part X, Subpart i, 6.C.3.g\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section C - Division of Responsibilities – Benefits Delivery at Discharge (BDD) and BDD-Excluded Claims",
+  "citation": "Part X, Subpart i, Chapter 6, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177951/M21-1-Part-X-Subpart-i-Chapter-6-Section-C-Division-of-Responsibilities-Benefits-Delivery-at-Discharge-BDD-and-BDD-Excluded-Claims",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:51.791303",
+  "tags": [
+    "m21-1"
+  ]
+}

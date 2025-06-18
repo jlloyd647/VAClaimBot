@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_2_A_8",
+  "content": "/>\nXIV.2.A.1.c\n.\nSocial Security Income Match\nThe table below describes the stages of the Social Security income match and provides a description of the Department of Veterans Affairs (VA) initial actions.\nStage\nDescription\n1\nVA receives a file from SSA containing SS income information for pension and Parents’ DIC recipients.\n2\nVA batch establishes an EP 150\nPMC-Soc Sec Admn Match\nto control for income matches that contain discrepancies.\n3\nClaims processors pull detailed SSA payment data through the SSA Inquiry in the Veterans Benefits Management System (VBMS).",
+  "title": "M21-1, Part XIV, Chapter 2, Section A - Social Security Income Match",
+  "citation": "Part XIV, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173301/M21-1-Part-XIV-Chapter-2-Section-A-Social-Security-Income-Match",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:31:35.623701",
+  "tags": [
+    "m21-1"
+  ]
+}

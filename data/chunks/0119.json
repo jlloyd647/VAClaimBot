@@ -1,0 +1,12 @@
+{
+  "chunk_id": "I_i_2_C_30",
+  "content": "/>\nI.i.2.C.3.c\n.\nUpdating an Incorrect Private Attorney/Agent Address in the Corporate Database\nClaims processors that identify a discrepancy between the private attorney/agent mailing address applied by a VA system (VBMS or otherwise) and the representative’s mailing address found on the\nOGC Accreditation Search\nmust report the discrepancy to Compensation Service.\nWhen identified, the claims processor must\ne-mail the\nVAVBAWAS/CO/AFC\ncorporate mailbox to report the discrepancy, and\noverride the system-generated mailing address and use the address identified on the\nOGC Accreditation Search\n.\nImportant\n:  Overriding the system-generated mailing address will only affect the current letter being generated.  The override process will need to be completed on each letter being sent to the representative until the corporate database is updated to reflect the address listed in the\nOGC Accreditation Search\n.\nReference\n:  For more information on adding/editing a representative's address in VBMS Core, see\nM21-1, Part I, Subpart i, 2.B.1.g\n.",
+  "title": "M21-1, Part I, Subpart i, Chapter 2, Section C - System Updates for Power of Attorney (POA) Appointments",
+  "citation": "Part I, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181477/M21-1-Part-I-Subpart-i-Chapter-2-Section-C-System-Updates-for-Power-of-Attorney-POA-Appointments",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:08:48.011362",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_23",
+  "content": "/>\nII.ii.2.A.2.g\n.\nRemoving an Incorrectly Scanned Document\nPDF editors, or claims processors given the authority to perform the corrective actions, will determine if an incorrectly scanned document needs to be removed from the eFolder.  This action will be taken once the claim processor has completed the\nVBMS Request for Document Deletion Form\nand e-mailed the form to the specified mailbox.\nNotes\n:\nThe document must be moved to the\nUnassociated Documents\nqueue in VBMS while awating approval.\nPDF editors are responsible for accessing and clearing out pending\nDocument Error Reports\non a weekly basis.\nReference\n:  For more information on working with unassociated documents, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

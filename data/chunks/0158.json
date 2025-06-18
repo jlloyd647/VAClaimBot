@@ -1,0 +1,12 @@
+{
+  "chunk_id": "I_ii_1_C_13",
+  "content": "/>\nI.ii.1.C.1.h\n.\nReviewing and Disposing of EP 330 for Pension- Related Hospital Reports\nThe Milwaukee and St. Paul PMCs are responsible for making hospital adjustments to pension awards and disposing of EP 330.\nUpon receipt of an EP 330, the claims processor shall access the Compensation and Pension Record Interchange (CAPRI) to review the hospital report and determine if a hospital adjustment is required.  Refer to VBMS notes for information about the location of the Department of Veterans Affairs (VA) medical center at which the hospitalization occurred.\nUse the table below to determine proper disposition of EP 330.\nIf a hospital adjustment is ...\nThen ...\nrequired\nupload all relevant records from CAPRI to include the hospital report and all admission and/or discharge summaries, to the eFolder, and\nwhen\nreduction is required, clear EP 330 and establish EP 600 to issue due process\na rating is required, change EP 330 to EP 120 before sending claim to rating activity, or\nrestoring benefits due to discharge or authorized absence of 30 days or more, change EP 330 to EP 135.\nnot\nrequired\nannotate\nNo Action Necessary\n(\ndate of admission or date of discharge\n) in VBMS notes, and\nclear EP 330.\nImportant\n:  Do not upload CAPRI records to the eFolder.\nNote\n:  Cancellation of EP 330 is only appropriate when a previous EP 330 was established for the same period of hospitalization.  When canceling the EP, the user must annotate the reason in VBMS notes.\nReferences\n:  For more information on\ngranting A&A during hospitalization, see\nM21-1, Part IX, Subpart ii, 1.B.2\nrestoring an award after discharge, see\nM21-1, Part X, Subpart iii, 1.D.6\n, and\nsending due process, see\nM21-1, Part X, Subpart iii, 1.D.1.f\n.",
+  "title": "M21-1, Part I, Subpart ii, Chapter 1, Section C - Pension Management Center (PMC) Procedures",
+  "citation": "Part I, Subpart ii, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181484/M21-1-Part-I-Subpart-ii-Chapter-1-Section-C-Pension-Management-Center-PMC-Procedures",
+  "updated": "May 28, 2025",
+  "scraped_at": "2025-06-17T11:09:18.790562",
+  "tags": [
+    "m21-1"
+  ]
+}

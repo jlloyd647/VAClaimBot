@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_7_None_15",
+  "content": "/>\nXIV.7.2.c\n.\nActions to Take When Data Matching Identifies a VA Beneficiary or a Dependent\nIf comparison of the worksheet with the corporate record (and, if necessary, the claims folder) confirms the person identified by the match is a VA beneficiary or a dependent, follow the instructions in the table below.\nIf the title of the worksheet is …\nThen …\nVA and SSA State Prisoner Computer Match\nconsider the worksheet official notice of imprisonment in a penal institution, and\nfollow the instructions in\nM21-1, Part VI, Subpart iii, 1.A.3.a\n.\nVA and Federal BOP Computer Match\nconsider the worksheet official notice the beneficiary or dependent was\nconvicted of a felony or misdemeanor, and\nimprisoned in a Federal penal institution for more than 60 days, and\nfollow the instructions in\nM21-1, Part VI, Subpart iii, 1.A.3.a\n.\nNotes\n:\nDo\nnot\ninfer that an individual identified on a worksheet was never incarcerated simply because they do not appear on one of the prison websites referenced in\nM21-1, Part VI, Subpart iii, 1.A.3.b\n.  Many of these websites list only those individuals that are\ncurrently\nincarcerated.  In every case, contact with the facility shown on the worksheet is required to establish that a person was\nnot\nincarcerated.\nFor the purpose of this block, treat an incarcerated apportionee as an incarcerated\ndependent (except as noted in\nM21-1, Part VI, Subpart iii, 1.A.1.c\n), and\nVA beneficiary.\nReference\n:  For more information on handling notice of imprisonment of a surviving spouse, child, or parent beneficiary, see\nM21-1, Part VI, Subpart iii, 1.C\n.",
+  "title": "M21-1, Part XIV, Chapter 7 - Data-Matching Programs That Identify Incarcerated Beneficiaries and Dependents",
+  "citation": "Part XIV, Chapter 7, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173307/M21-1-Part-XIV-Chapter-7-Data-Matching-Programs-That-Identify-Incarcerated-Beneficiaries-and-Dependents",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:33:08.650702",
+  "tags": [
+    "m21-1"
+  ]
+}

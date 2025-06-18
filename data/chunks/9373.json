@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIII_i_3_A_26",
+  "content": "/>\nXIII.i.3.A.4.b\n.\nProcessing a Request Requiring Action by the Rating Activity\nWhen a VHA facility request requires the rating activity to determine eligibility for SC for treatment purposes, follow the steps in the table below.\nStep\nAction\n1\nIs a rating decision for the condition already of record?\nIf\nyes\n, process the request as a request requiring claims folder review only as outlined in\nM21-1, Part XIII, Subpart i, 3.A.2\n.\nIf\nno\n, go to the next step.\n2\nRequest that the claimant submit an application and refer to the table below to determine the appropriate subsequent action.\nIf an application …\nThen …\nis received within 30 days\nsend\nSection 5103\nnotice to the claimant, if required\nperform the necessary development, and\nupon completion of development, go to the next step.\nis not received within 30 days\nnotify the claimant that VA cannot consider SC without an application\nreturn\nVA Form 10-7131\nto the originator, and\ntake no further action.\nImportant\n:  Do not generate a rating decision for the purpose of medical care eligibility in the absence of contentions from the Veteran.  VA must make an effort to obtain contentions by requesting an application from the Veteran.\nNote\n:  Ensure that the request for an application informs the Veteran of the option of submitting a claim electronically.\nReference\n:  For more information on determining whether the issuance of Section 5103 notice is necessary, see\nM21-1, Part III, Subpart i, 2.B\n.\n3\nTake rating action as described in\nM21-1, Part XIII, Subpart i, 3.A.4.c\n.\n4\nWhen the rating decision is completed,\ncomplete Part II of\nVA Form 10-7131\n, or\nattach a copy of the rating decision to the\nVA Form 10-7131\n.\n5\nReturn\nVA Form 10-7131\nto the originator.\n6\nPromulgate the rating decision and send notification to the claimant.\nReference\n: For more information on requests for medical outpatient benefits, see\nM21-1, Part XIII, Subpart i, 3.A.5\n.",
+  "title": "M21-1, Part XIII, Subpart i, Chapter 3, Section A - General Information on Eligibility for Medical Services",
+  "citation": "Part XIII, Subpart i, Chapter 3, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173640/M21-1-Part-XIII-Subpart-i-Chapter-3-Section-A-General-Information-on-Eligibility-for-Medical-Services",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:26:11.217701",
+  "tags": [
+    "m21-1"
+  ]
+}

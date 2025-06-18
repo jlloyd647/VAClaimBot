@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_A_43",
+  "content": "/>\nV.iv.1.A.5.h\n.\nAddressing Favorable Findings in the Rating Narrative\nRating decisions generated on or after February 19, 2019, must address, as a narrative element for each decided issue, any findings made by the adjudicator that are favorable to the claimant under\n38 CFR 3.104(c)\n.\nUse the table below to determine how to properly address and document favorable findings in the rating decision narrative.\nIf ...\nThen address favorable findings in the\nReasons for Decision\nsection by ...\nawarding the claim\nrelying on system-generated grant language automated by VBMS-R’s DDI screen entries and selections.\ndenying the claim\nadding and saving individual entries for each finding that was favorable to the claimant, if any, using the FAVORABLE FINDINGS screen under VBMS-R’s ISSUE MANAGEMENT tab.\nImportant\n:  Favorable findings must be specific enough so that a claimant, upon reading the notification and rating decision, will be able to determine what evidence was used to make the finding.  Users must edit a favorable finding to address the specific evidence that supports the favorable finding.\nincreasing, reducing, or continuing an existing evaluation\nrelying on system-generated language automated by evaluation builder entry and selections.\nException\n:  As noted in\nM21-1, Part V, Subpart iv, 1.A.5.a\n, rating decisions for survivor benefits need only document favorable findings in accrued cases involving disability compensation.\nReference\n:  For more information on favorable finding generation in VBMS-R, see the\nVBMS Rating User Guide.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section A - Completing the Rating Decision Narrative",
+  "citation": "Part V, Subpart iv, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180523/M21-1-Part-V-Subpart-iv-Chapter-1-Section-A-Completing-the-Rating-Decision-Narrative",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:46:49.618474",
+  "tags": [
+    "m21-1"
+  ]
+}

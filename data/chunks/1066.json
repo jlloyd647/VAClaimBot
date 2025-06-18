@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_B_13",
+  "content": "/>\nIII.ii.2.B.1.h\n.\nObtaining STRs in HAIMS for Survivor Benefits Claims\nVBMS limitations do not currently allow requests for STRs located in HAIMS as part of a survivor benefits claim.\nClaims processors must follow the procedures in\nM21-1, Part III, Subpart ii, 2.B.1.k\nto obtain the STRs via JLV.\nThe table below describes the process for obtaining STRs for survivor benefits claims when attempts to obtain the STRs via JLV are unsuccessful.\nStage\nDescription\n1\nThe pension management center (PMC) requests the STRs from VALO by sending an encrypted e-mail to\nVAVBASTL/RO/NGRESERVES\ncontaining\nthe subject\nPMC 140/029\nto distinguish it from a request for the STRs of a member of the Reserve or National Guard\nthe service member’s or Veteran’s\nfull name (first, middle, last)\nSSN, and\nbranch of service, and\nthe requestor’s name and contact information (phone and e-mail) for questions.\n2\nThe VALO requests the STRs through the DoD points of contact.\n3\nUpon receipt of the STRs, the VALO will\nupload the STRs into VBMS, and\nrespond to the PMC e-mail.\nIf the VALO has not responded within 30 days, then the PMC sends a follow-up e-mail to request a status update.\nReferences\n:  For more information on\nmigration of STRs after service ends, see\nM21-1, Part III, Subpart ii, 2.A.3.e\n, and\ndeveloping claims for Dependency and Indemnity Compensation and death compensation, see\nM21-1, Part XII, Subpart ii, 1\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section B - Procedures for Obtaining Service Treatment Records (STRs)",
+  "citation": "Part III, Subpart ii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014119/M21-1-Part-III-Subpart-ii-Chapter-2-Section-B-Procedures-for-Obtaining-Service-Treatment-Records-STRs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:03.900946",
+  "tags": [
+    "m21-1"
+  ]
+}

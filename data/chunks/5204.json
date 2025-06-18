@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_ii_1_B_51",
+  "content": "/>\nVII.ii.1.B.6.e\n.\nFailure to Certify School Attendance\nIf a beneficiary fails to return\nVA Form 21-8960-1\nwithin 60 days, the diary referenced in\nM21-1, Part VII, Subpart ii, 1.B.6.b\nexpires (because it was never cleared).  When this occurs, VA’s claims-processing system generates an EP 130 –\nDependency 674\nor\nPMC Dependency 674\n.\nFollow the steps in the table below in response to an EP 130 indicating a beneficiary failed to return\nVA Form 21-8960-1\nwithin 60 days.\nStep\nAction\n1\nReview the claims folder to determine the date of the last communication with VA that showed the child was attending school.\nNote\n:  Accept the most recent communication that\nconfirms the child’s attendance at school, and\ndoes not conflict with other evidence in the claims folder.\n2\nClear EP 130.\n3\nEstablish EP 600 and add\nPotential Under/Overpayment\nas a special issue.\n4\nSend a notice of proposed adverse action that\ncontains the elements in\nM21-1, Part X, Subpart ii, 3.A.2\nincludes\nVA Form 21-674\nor\n21-8960-1\n, and\ninstructs the beneficiary to return the completed form within 60 days.\nNote\n:  The proposed effective date for the reduction or discontinuance of benefits is the first of the month following the date identified in Step 1.\n5\nDid the beneficiary return\nVA Form 21-674\nor\n21-8960-1\n(or provide certification of school attendance to one of VA’s NCCs) within the additional 65-day period?\nIf\nyes\n,\nclear the EP 600 or amend the award under this EP (if information the beneficiary provides necessitates an adjustment), and\nsend a decision notice to the beneficiary.\nIf\nno\n,\ntake the action proposed in the notice of proposed adverse action under the EP 600, and\nsend a decision notice to the beneficiary.\nReference\n:  For information on the elements a decision notice must contain, see\nM21-1, Part VI, Subpart i, 1.B.1.b\n.",
+  "title": "M21-1, Part VII, Subpart ii, Chapter 1, Section B - Awards and Adjustments Based Upon School Attendance",
+  "citation": "Part VII, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176631/M21-1-Part-VII-Subpart-ii-Chapter-1-Section-B-Awards-and-Adjustments-Based-Upon-School-Attendance",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:54:17.295390",
+  "tags": [
+    "m21-1"
+  ]
+}

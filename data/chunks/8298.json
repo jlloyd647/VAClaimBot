@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_B_10",
+  "content": "/>\nXI.i.1.B.2.b\n.\nModifying Existing Dependent Spouse of Record on MONTH OF DEATH Screen\nFollow the steps in the table below when a dependent spouse's record should be modified.\nStep\nAction\n1\nOn the MONTH OF DEATH screen, select MODIFY EXISTING SPOUSE.\nNote\n:\nCheck the ALL RELATIONSHIPS tab under the PERSON button for any existing spouse.  If there is a Y in the AWARD IND field, the spouse is currently included in the Veteran's award.  The Y indicator is also on the AWARD INFORMATION screen.\n2\nComplete the field under UPDATE SPOUSE INFORMATION and select the UPDATE button.\nNote\n:\nIf the MONTH OF DEATH NOT PROCESSED, REASON IS: SSN OR FILE_NBR ALREADY EXISTS - REFER MOD TO ADJUDICATION message appears, send the claim to adjudication for review.\n3\nSelect the UPDATE button on the MONTH OF DEATH screen.  Confirmation that the MOD has been successfully submitted will appear.  Select the OK button.  The PRESIDENTIAL MEMORIAL CERTIFICATE screen will automatically appear.  If the requirements for the Presidential Memorial Certificate have not been met, do not create the Presidential Memorial Certificate.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section B  - System Information for Veteran Notice of Death (NOD) and Month of Death (MOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174194/M21-1-Part-XI-Subpart-i-Chapter-1-Section-B-System-Information-for-Veteran-Notice-of-Death-NOD-and-Month-of-Death-MOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:13.632383",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_ii_1_B_16",
+  "content": "/>\nIX.ii.1.B.2.d\n.\nAction to Take When a Beneficiary Is Established as a Patient in a Qualified Nursing Home\nIf evidence establishes that a beneficiary is a patient in a qualified nursing home, and there are no concurrent issues requiring a rating decision, then\nenter basic nursing home information in the INSTITUTIONALIZATION screen\nselect STATUTORY A&A DECISION in the INSTITUTIONALIZATION ADJUSTMENTS screen, and\nenter\nAid and Attendance under 38 CFR 3.351(c)(2)\nin the OTHER PRINT REMARKS field.\nReference\n:  For more information on using systems to award A&A without a rating decision, see the\nVETSNET Awards User Guide\n, and\nVBMS-Awards User Guide\n.",
+  "title": "M21-1, Part IX, Subpart ii, Chapter 1, Section B - Aid and Attendance (A&A) Status for Beneficiaries Who Are Patients in a Qualified Nursing Home",
+  "citation": "Part IX, Subpart ii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000015098/M21-1-Part-IX-Subpart-ii-Chapter-1-Section-B-Aid-and-Attendance-AA-Status-for-Beneficiaries-Who-Are-Patients-in-a-Qualified-Nursing-Home",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:02.708109",
+  "tags": [
+    "m21-1"
+  ]
+}

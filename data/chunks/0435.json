@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_42",
+  "content": "/>\nII.ii.2.A.5.c\n.\nRequesting Retransmission of Claims Documents That Failed to Upload\nFollow the steps in the table below if claims documents fail to upload after the 15-day period referenced in Step 2 of the procedure outlined in\nM21-1, Part II, Subpart ii, 2.A.5.b\n, ends.\nStep\nAction\n1\nSend an encrypted e-mail to the\nEVSS Help Desk\n.\nEnter the following in the subject line of the e-mail:\nRequesting retransmission of VA claims submission service website documents that failed to upload\n.\nProvide the following in the body of the e-mail:\ndate the EP was established\nclaim label\nVBMS claim identification (ID) number\nclaimant’s name, and\nan indication of what documents are missing.\n2\nUpload a copy of the e-mail to the eFolder.\n3\nUpdate the track item to indicate the first follow-up has been completed.\n4\nAdd a note that states:\nEVSS Help Desk contacted for assistance in obtaining documents that failed to upload\n.\n5\nAfter the 15-day period referenced in Step 4 ends,\nreview the eFolder to determine if the missing documents have been uploaded, and\nfollow the instructions in the table below.\nIf the documents are …\nThen …\navailable\ncontinue processing the claim, and\ndisregard the remaining steps in this table.\nnot available\nfollow-up with the EVSS Help Desk until\nthe claims documents are uploaded successfully, or\na negative response from the EVSS Help Desk is received, indicating that the claims documents cannot be uploaded.\nNotes\n:\nExtend the suspense date of the tracked item by one week after each follow-up until the\nclaims documents are uploaded successfully, or\nEVSS Help Desk provides a negative response.\nReference the COM ticket number in the follow-up emails.  Upload a copy of all e-mail communication with the EVSS Help Desk to the eFolder.\n6\nFollow the lost claims procedures in\nM21-1, Part II, Subpart ii, 2.A.3.b\nif the EVSS Help Desk provides a negative response.\n7\nUpload the negative response to the eFolder, if applicable.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}

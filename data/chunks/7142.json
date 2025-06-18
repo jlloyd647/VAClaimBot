@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_H_9",
+  "content": "/>\nX.i.6.H.1.d\n.\nDeferring Claimed Conditions in Proposed Rating Decisions\nWhen evidence is sufficient to decide all referred conditions in a proposed rating decision, but insufficient to decide one or more claimed issues, the claimed issues must be deferred on the proposed rating decision.\nNote\n:  Current VBMS-R functionality does not allow deferrals on proposed ratings via typical VBMS deferral process.  As such, these deferrals must be entered as a “Free Text” issue in VBMS-R to ensure the deferral is properly indicated on the\nCodesheet\n.\nImportant\n:  When claimed issues are deferred in proposed ratings, the DRAS must take timely corrective development so that the issue can be resolved on the final rating (the claim should\nnot\nbe returned to the rating activity prior to the participant’s discharge).\nIf the at the time of the final rating, DRAS is still unable to fully resolve the deferred issue(s), the issues should be deferred on the final rating and handled in accordance with\nM21-1, Part X, Subpart i, 6.J.1.e\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section H - Integrated Disability Evaluation System (IDES) Proposed Ratings",
+  "citation": "Part X, Subpart i, Chapter 6, Section H",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177957/M21-1-Part-X-Subpart-i-Chapter-6-Section-H-Integrated-Disability-Evaluation-System-IDES-Proposed-Ratings",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:38.251103",
+  "tags": [
+    "m21-1"
+  ]
+}

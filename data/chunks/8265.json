@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_v_2_B_9",
+  "content": "/>\nX.v.2.B.1.d\n.\nDiscontinuing Benefits in VBMS-A When the Veteran Will Return to Active Duty on a Date That Is in the Future\nVBMS-A currently lacks the functionality to discontinue benefits from a future effective date.  Until this functionality is added, claims processors must use the workaround described in the table below to discontinue benefits from a future effective date in VBMS-A.\nStep\nAction\n1\nSelect\nReturn to Active Duty\nfrom the drop-down box in the DECISION field on the BASIC ELIGIBILITY tab.\n2\nEnter the current date in the EVENT DATE field.\n3\nEnter the effective date for the (future) discontinuation of benefits in the AWARD EFFECTIVE DATE field.\n4\nGenerate the award (discontinuation).\n5\nUse Personal Computer Generated Letters (instead of Redesigned Automated Decision Letters) to prepare a decision notice.",
+  "title": "M21-1, Part X, Subpart v, Chapter 2, Section B  - Award Adjustments Necessitated by a Veteran's Return to and Discharge From Active Duty",
+  "citation": "Part X, Subpart v, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000178003/M21-1-Part-X-Subpart-v-Chapter-2-Section-B-Award-Adjustments-Necessitated-by-a-Veterans-Return-to-and-Discharge-From-Active-Duty",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:18:45.836555",
+  "tags": [
+    "m21-1"
+  ]
+}

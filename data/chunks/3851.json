@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_1_B_31",
+  "content": "/>\nVI.i.1.B.3.b\n.\nTypes of Decisions for Which Claims Processors May Use RADL to Generate a Decision Notice\nClaims processors may use RADL to generate a decision notice for the following types of decisions:\ndecisions that resolve claims controlled under most EPs\n010\n020\n030\n040\n110\n130\n160 (ADL)\n290\n310\n320\n600\n687\n689\n690, and\n930\ndecisions regarding legacy appeals and Board of Veterans’ Appeals (BVA) grants and remands controlled under EPs\n070, and\n170, and\nadministrative denials of pension based on incompatible military service, to include\nno active duty service\nno wartime service\nless than 90 days of service, and/or\nminimum service requirements not met (24 months of service, after September 7, 1980).\nExceptions\n:  Use PCGL instead of RADL when preparing a decision notice regarding a legacy appeal controlled under EP 070 or 170 if the decision on appeal is one of the types listed in\nM21-1, Part VI, Subpart i, 1.B.3.c\n.\nExample\n:  Claims processors must use PCGL to prepare a decision notice regarding a legacy appeal of a decision to deny entitlement to DIC or accrued benefits.\nReference\n:  For more information on generating a decision notice associated with implementing actions by BVA, see\nM21-5, Chapter 4, Topic 5.f\n.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 1, Section B - Decision Notices",
+  "citation": "Part VI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179469/M21-1-Part-VI-Subpart-i-Chapter-1-Section-B-Decision-Notices",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:45.480026",
+  "tags": [
+    "m21-1"
+  ]
+}

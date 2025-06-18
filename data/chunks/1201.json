@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_F_38",
+  "content": "/>\nIII.ii.2.F.4.c\n.\nRequesting a Dependent’s Treatment Records Through PIES\nWhen requesting the treatment records of a Veteran’s dependent(s), use PIES request code\nC03-V for inpatient treatment records, and\nC04-V, for outpatient treatment records.\nException\n:  If the dependent received treatment after 2004, attempt to access their treatment records by following the instructions in\nM21-1, Part III, Subpart ii, 2.F.4.e\nbefore\nsubmitting a request for the records through PIES.\nNote\n:  In most cases, PIES automatically assigns the correct address code to each request it accepts, based on the request code a user enters.  Therefore, the address codes listed below for obtaining dependents’ treatment records are primarily provided for informational purposes\naddress code 75 – treatment records from Army and Air Force facilities, and\naddress code 13 – treatment records from Navy and Marine Corps facilities.\nReferences\n:  For more information about\nPIES, see the\nPIES User Guide\n, and\nPIES address codes, see\nM21-1, Part III, Subpart ii. 2.H.5-10\n, and\nM21-1, Part III, Subpart ii, 2.E.1\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section F - Fire-Related Records, Supplementary or Substitute Records, and Records for Unique Situations",
+  "citation": "Part III, Subpart ii, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000032429/M21-1-Part-III-Subpart-ii-Chapter-2-Section-F-Fire-Related-Records-Supplementary-or-Substitute-Records-and-Records-for-Unique-Situations",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:41.192737",
+  "tags": [
+    "m21-1"
+  ]
+}

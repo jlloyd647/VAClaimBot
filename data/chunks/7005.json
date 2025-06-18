@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_C_10",
+  "content": "/>\nX.i.6.C.1.e\n.\nFollow-up Requirements for EMS and CAPRI Examinations\nIf an examination is rejected or cancelled, NWQ will route the claim to be corrected.  The claims processor must review the clarification request/cancellation reason.\nThereafter\nrequest the claim from NWQ if necessary\nreview the\nERRA\ntool to determine where the examination should be re-requested (EMS or CAPRI), and\ntake the steps necessary to correct or re-input the examination request, if necessary.\nThe table provides advice on how to proceed depending on the reason for the examination cancellation.\nIf the examination cancellation is due to ...\nThen ...\nthe service member’s failure to adhere to BDD requirements\nExamples\n:\nThe service member is not available to report for an examination for 45 days following claim submission as specified in\nM21-1, Part X, Subpart i, 6.B.1.a\n.\nThe service member fails to report without good cause.\nchange the pending EP to a non-BDD rating EP,\nenter a note in VBMS indicating why the service member was removed from the BDD program, and\nsend the appropriate\nNon-BDD Claim\nletter.\na reason outside of the control of the service member\nExamples\n:\nThe claims processor failed to timely request the examination and now the service member has relocated to their forwarding address.\nThe claims processor failed to correctly enter the service members address or other contact information and as a result the service member was not notified of the examination.\ntake the necessary steps to submit a new examination request, and\ncontinue processing the claim as a BDD claim.\nNote\n:\nMake every reasonable effort to contact the service member via telephone and/or e-mail to verify why an examination was cancelled or rejected.\nReference\n:  For more information on requesting examinations see\nM21-1, Part X, Subpart i, 6.C.1.b\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section C - Division of Responsibilities – Benefits Delivery at Discharge (BDD) and BDD-Excluded Claims",
+  "citation": "Part X, Subpart i, Chapter 6, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177951/M21-1-Part-X-Subpart-i-Chapter-6-Section-C-Division-of-Responsibilities-Benefits-Delivery-at-Discharge-BDD-and-BDD-Excluded-Claims",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:51.791303",
+  "tags": [
+    "m21-1"
+  ]
+}

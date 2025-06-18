@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_2_None_8",
+  "content": "/>\nVI.ii.2.1.c\n.\nHow VA Updates Its Systems of Record With a Veteran’s Service Information\nThe table below describes how VA updates its systems of record with service information from a Veteran’s\nDD Form 214\n, to include the amount and type of separation benefit the Veteran received, if any.\nStage\nDescription\n1\nWhen a service department discharges a service member from active duty, it sends a copy of the\nDD Form 214\nto the Austin Data Processing Center (DPC).\n2\nThe DPC creates a Veterans Assistance Discharge System (VADS) record containing service information it pulls from the\nDD Form 214\n.\n3\nA computer interface with VADS updates the systems referenced in\nM21-1, Part VI, Subpart ii, 2.1.b\nwith relevant service information for each discharged Veteran.\nException\n:  If a Veteran received a type of separation benefit that VA is\nnot\nresponsible for recouping, the Austin DPC does\nnot\nenter the amount of this benefit into the VADS record.\nReference\n:  For more information on VADS, see the\nShare User Guide\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 2 - Recoupment of Separation Benefits",
+  "citation": "Part VI, Subpart ii, Chapter 2, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179478/M21-1-Part-VI-Subpart-ii-Chapter-2-Recoupment-of-Separation-Benefits",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:32.145895",
+  "tags": [
+    "m21-1"
+  ]
+}

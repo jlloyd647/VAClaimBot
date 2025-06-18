@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_B_28",
+  "content": "/>\nIX.iii.1.B.2.h\n.\nExample:  Handling Medicare Premiums Paid by the State\nSituation\n:  A Veteran receives a Social Security payment in the amount of\n$850.70 per month, effective December 2023, paid January 2024, and\n$850.00 per month, effective May 2024, paid June 2024.\nThe evidence in VBMS/Share’s SSA interface shows the Veteran has been paying SMIB premiums since February 2018.  The SSA information now shows that the Veteran’s SMIB is paid by the State effective June 2024, indicated by the BUY-IN START DATE field.\nResult\n:  The Veteran should be given credit for a total of five months of SMIB payments for 2024 (January through May) as a deductible medical expense.  Typically, this is verified by the cents being removed from the Veteran’s Social Security rate effective the month the State started paying the SMIB payments, June 2024.  May Social Security checks are paid in June, so June 2024 was the first month the Veteran did not pay the SMIB.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section B - Social Security Administration (SSA) Benefits Program",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177517/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-B-Social-Security-Administration-SSA-Benefits-Program",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:49.186739",
+  "tags": [
+    "m21-1"
+  ]
+}

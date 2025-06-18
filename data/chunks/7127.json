@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_F_49",
+  "content": "/>\nX.i.6.F.3.l\n.\nHandling PEBLO Reports of Missing Examination Results\nIf a participant’s PEBLO reports that complete examination results did not transfer to HAIMS in an IDES claim in which the MEDICAL EVALUATION END DATE had been previously entered in VTA, the MSC must\nprovide any missing examination results via an acceptable alternative means, and\nupdate the MEDICAL EVALUATION END DATE field in VTA with the date that the missing records were provided to the PEBLO.\nReference\n:  For more information about acceptable alternative means of document transfer, see\nM21-1, Part X, Subpart i, 6.E.3.f\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section F - Integrated Disability Evaluation System (IDES) Development and Examinations",
+  "citation": "Part X, Subpart i, Chapter 6, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177955/M21-1-Part-X-Subpart-i-Chapter-6-Section-F-Integrated-Disability-Evaluation-System-IDES-Development-and-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:19.727255",
+  "tags": [
+    "m21-1"
+  ]
+}

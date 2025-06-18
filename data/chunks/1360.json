@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_i_2_A_79",
+  "content": "/>\nIV.i.2.A.10.a\n.\nEntering an ESR\nAs discussed in\nM21-1, Part IV, Subpart i, 2.A.2.f\n, and subject to the\nERRA\ntool’s recommendations, requests for contract examinations must be prepared and submitted via VBMS.\nFollow the steps outlined in the\nVBMS Core User Guide\nto prepare an ESR in VBMS.\nImportant\n:\nRequests for VHA examinations must still be entered in CAPRI.\nAs is required with all automated tools, users must ensure that all VBMS system-generated language is legally and procedurally adequate before finalizing an ESR.  This includes ensuring that the ADDITIONAL INFORMATION field is completed so as to include information needed by the examiner, but not automatically generated.\nReport any\ncorrected information needed by submitting a trouble ticket, or\nadditional questions or concerns via e-mail to\nVAVBAWAS/CO/Contract Examination Inquiries\n.\nNotes\n:\nESR submission and acceptance in VBMS will automate the creation of one tracked item for each contention identified in the request.\nIf unique circumstances exist in a particular case (for example, the Veteran is immobile or unable to drive due to advanced age), these situational factors should be referred in accordance with the\nContract Examination Inquiry Guidelines\nfor assistance in determining if, and what, contract examination mitigation may be necessary.\nReferences\n:  For more information on\ntypes of requests requiring supplemental language, see\nM21-1, Part IV, Subpart i, 2.A.10.b\nexamination suspense dates, see\nM21-1, Part IV, Subpart i, 2.C.1.a\ncontract examination exclusion reasons, see\nM21-1, Part IV, Subpart i, 2.A.1.i\n, and\ntracked item suspense and automation relative to examination management, see the\nVBMS Core User Guide\n, and\nEMS User Guide\n.",
+  "title": "M21-1, Part IV, Subpart i, Chapter 2, Section A - Examination Requests Overview",
+  "citation": "Part IV, Subpart i, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180498/M21-1-Part-IV-Subpart-i-Chapter-2-Section-A-Examination-Requests-Overview",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:37.055526",
+  "tags": [
+    "m21-1"
+  ]
+}

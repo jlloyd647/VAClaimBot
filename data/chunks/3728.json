@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_B_40",
+  "content": "/>\nV.iv.1.B.7.b\n.\nProcedure for Completing a Digital Signature on the Rating Decision Codesheet\nThe rating decision\nCodesheet\nmust contain the standardized digital signature of the decision maker as described in\nM21-1, Part V, Subpart iv, 1.B.7.a\n. \"Wet signatures” are no longer required.\nTo establish the standardized digital signature, users should navigate to the SIGNATURES/DOCUMENT TITLE tab in VBMS-R’s options configurations, and populate the AUTHOR SIGNATURE LINE field as follows:\neSign: certified by\n[decision maker’s LAN ID, job title]\nExample\n:\neSign: certified by VSCJSMIT, RVSR\nReferences\n:  For more information on\nupdating the SIGNATURES/DOCUMENT TITLE tab in\nVBMS-R, see the\nDraft Rating Approval (DRA) Job Aid\n, and\na sample rating decision\nCodesheet\nsignature field, see\nM21-1, Part V, Subpart iv, 1.B.7.f\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section B - Codesheet Section",
+  "citation": "Part V, Subpart iv, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180524/M21-1-Part-V-Subpart-iv-Chapter-1-Section-B-Codesheet-Section",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:46:58.915909",
+  "tags": [
+    "m21-1"
+  ]
+}

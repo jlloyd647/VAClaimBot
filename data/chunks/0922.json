@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_2_F_25",
+  "content": "/>\nIII.i.2.F.3.e\n.\nAccuracy of Tracked Items\nIt is the responsibility of the claims processor reviewing or taking action on a claim to ensure that\nthe necessary tracked items have been generated\nall suspense dates are accurate, and\nthe disposition of all tracked items have been accurately managed, to include any automated tracked item actions.\nImportant\n:\nThe accuracy of the claim-level suspense reason and date is dependent on properly generated and managed tracked items.\nIf a request submitted through the Personnel Information Exchange System (PIES) is subsequently deemed unnecessary,\nclose the tracked item associated with the unnecessary development action, and\ncancel the pending PIES request.",
+  "title": "M21-1, Part III, Subpart i, Chapter 2, Section F - Record Maintenance During the Development Process",
+  "citation": "Part III, Subpart i, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000046277/M21-1-Part-III-Subpart-i-Chapter-2-Section-F-Record-Maintenance-During-the-Development-Process",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:17.270964",
+  "tags": [
+    "m21-1"
+  ]
+}

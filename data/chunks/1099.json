@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_D_5",
+  "content": "/>\nIII.ii.2.D.1.a\n.\nPriority Processing of Requests for Records Held by NPRC in Certain Circumstances\nPriority handling of requests for records at the National Personnel Records Center (NPRC) is necessary under certain circumstances.\nClaims processors submitting priority Personnel Information Exchange System (PIES) requests must notify the Department of Veterans Affairs (VA) Liaison Office (VALO) of the request, by sending an e-mail to the\nVAVBASTL/RO/LNO\nmailbox, tagged with\nHigh Importance\n, containing the PIES request ID number and the former service member’s Electronic Data Interchange Personal Identifier (EDIPI).\nCircumstances in which priority processing requests are necessary are discussed in\nM21-1, Part X, Subpart i, 1.1.a\n.\nImportant\n:\nAfter the priority PIES request is submitted, any claims processor may send follow-up e-mails to the mailbox listed above if the PIES request\nremains in an\nIncomplete\nor\nSubmitted\nstatus after 15 days, or\nhas been completed for at least 15 days, but the records are not available in the Veterans Benefits Management System (VBMS).\nThe follow-up e-mail must be tagged as\nHigh Importance\nand include\nPriority PIES follow-up\nin the subject line.  Include a copy of the e-mail to and responses from the\nVAVBASTL/RO/LNO\nmailbox in the claims folder.\nThe VALO will coordinate with the National Archives and Records Administration to expedite records requests for Veterans over 85 years of age.  However, the majority of these records have been archived or exist in a delicate state due to the fire at NPRC.  A response to the records request may take longer than other expedited requests.\nReferences\n:  For more information on\nthe statutory definition of homelessness, see\n42 U.S.C. 11302\n, and\nPIES request codes, see the\nPIES User Guide\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section D - Control and Follow-Up of Requests for Service Records",
+  "citation": "Part III, Subpart ii, Chapter 2, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014116/M21-1-Part-III-Subpart-ii-Chapter-2-Section-D-Control-and-Follow-Up-of-Requests-for-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:22.481948",
+  "tags": [
+    "m21-1"
+  ]
+}

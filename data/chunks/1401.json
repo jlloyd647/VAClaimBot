@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_i_2_E_20",
+  "content": "/>\nIV.i.2.E.2.h\n.\nExaminations in Claims Involving Foreign Residence\nExaminations in claims involving foreign residence should only be requested by claims processors at a station with jurisdiction to process the foreign claim.\nAfter a designated foreign claims processor has requested an examination for a claimant residing in a foreign country, a contract examination vendor may generate a request for clarification indicating that particular contentions require examination outside of the contract vendor’s network. In such cases, the contract vendor will identify one of the following processes as required to examine the specified contention(s):\nAlternative Medical Evidence (AME) Process, or\nSingle Source Subcontracted Examination (SSSCE) Process.\nFollowing receipt of this communication from the contract vendor, a foreign claims processor will apply the appropriate Foreign Out-of-Network (FOON) special issue indicator to the specified contention(s), either the\nFOONAME\nor\nFOONSSSCE\nspecial issue indicator.\nImportant\n:\nThe\nFOONAME\nand\nFOONSSSCE\nspecial issue indicators should only be applied by designated foreign claims processors at stations with jurisdiction over foreign claims.\nIf one or more of the FOON special issue indicators is discovered upon review of a claim, verify the location of the claimant’s address.  If the claimant has a domestic address, remove the special issue indicator(s) from all contentions.\nReferences\n:  For more information on\njurisdiction of claims involving foreign residence, see\nM21-1, Part II, Subpart ii, 3.1.b\n, and\nM21-1, Part X, Subpart i, 3.A.2.a\nrequests for clarification, see\nM21-1, Part IV, Subpart i, 2.A.10.c\n, and\nspecial issue indicators, see\nM21-4, Appendix E, 2\n.",
+  "title": "M21-1, Part IV, Subpart i, Chapter 2, Section E - Examinations in Special Situations",
+  "citation": "Part IV, Subpart i, Chapter 2, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180507/M21-1-Part-IV-Subpart-i-Chapter-2-Section-E-Examinations-in-Special-Situations",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:39:14.369048",
+  "tags": [
+    "m21-1"
+  ]
+}

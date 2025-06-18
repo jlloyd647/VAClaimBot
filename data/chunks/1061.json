@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_B_8",
+  "content": "/>\nIII.ii.2.B.1.c\n.\nInteraction Between VBMS and HAIMS\nVBMS automatically submits a request for a Veteran’s STRs to HAIMS when\na Veteran whose service ended on or after January 1, 2014, files a claim for VA benefits, and\nthe regional office (RO) that received the claim begins processing it in VBMS.\nException\n:  Coast Guard began uploading service records to HAIMS for Veterans whose service ended on or after September 1, 2014.\nIf HAIMS has ...\nThen HAIMS provides VA with ...\nnever before responded to a request for the Veteran’s STRs\na certified, electronic copy of all STRs the Veteran’s service department has uploaded into HAIMS.\nalready responded to an initial request for STRs\nan electronic copy of any\nadditional\nSTRs the Veteran’s service department has uploaded into HAIMS since the previous request.\nNotes\n:\nNo tracked item is generated when VBMS submits a request to HAIMS.\nTo determine the status of a request, users must rely on the status and error messages listed in\nM21-1, Part III, Subpart ii, 2.B.1.e\n.\nWhen HAIMS transmits an electronic copy of a Veteran’s STRs to VBMS, VBMS\ninserts the copy into the Veteran’s electronic claims folder (eFolder), and\ndisplays a “new mail” indicator to alert users that the Veteran’s STRs are available for viewing.\nWhen the Veteran’s separation date is on or after January 1, 2014, or on or after September 1, 2014, for Coast Guard Veterans, but\nthe separation date either does not exist or is updated in the corporate record during claim establishment or processing, VBMS displays a button labeled “Request STR Again” under the OBTAIN STRS tab. Users must return to this tab and click on the button after updating the corporate record with the correct separation date.\nReference\n:  For more information on HAIMS, see\nM21-1, Part III, Subpart ii, 2.A.5.e\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section B - Procedures for Obtaining Service Treatment Records (STRs)",
+  "citation": "Part III, Subpart ii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014119/M21-1-Part-III-Subpart-ii-Chapter-2-Section-B-Procedures-for-Obtaining-Service-Treatment-Records-STRs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:03.900946",
+  "tags": [
+    "m21-1"
+  ]
+}

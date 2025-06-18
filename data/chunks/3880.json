@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_2_B_19",
+  "content": "/>\nVI.i.2.B.2.f\n.\nExample 3:  Duplicate Payment That May Not Be Treated as an Administrative Error\nSituation\n:\nOn December 1, 2013, a Veteran in receipt of Section 306 Pension submits a claim for current-law pension, including additional benefits for aid and attendance.\nA CA establishes the claim under an incorrect PID.\nOn January 1, 2014, VA grants the Veteran’s claim for current-law pension.  (The Veteran is now receiving two benefit payments each month:  one for current-law pension and one for Section 306 Pension.)\nOn March 1, 2015, a VSR discovers the Veteran has been receiving two pension payments when the Veteran notifies VA of a medical facility change.\nActions\n:\nSuspend the duplicate payment effective the date in the LAST PAID DATE field on the CURRENT AND HISTORICAL AWARD INFORMATION page in VBMS.\nSend the Veteran notice of VA’s proposal to discontinue the duplicate payment effective the date VA began paying it.\nUnless the Veteran submits evidence within 65 days that shows the proposed action should not be taken,\ndiscontinue the duplicate payment effective the date VA began paying it, and\nnotify the Veteran of the action taken.\nNotes\n:\nDo\nnot\ntreat the duplicate payment of benefits in this case as an administrative error.\nThe Veteran is responsible for repaying the overpayment.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 2, Section B - Correcting the Erroneous Payment of Benefits to a Beneficiary",
+  "citation": "Part VI, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179474/M21-1-Part-VI-Subpart-i-Chapter-2-Section-B-Correcting-the-Erroneous-Payment-of-Benefits-to-a-Beneficiary",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:04.081849",
+  "tags": [
+    "m21-1"
+  ]
+}

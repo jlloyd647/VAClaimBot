@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_F_22",
+  "content": "/>\nIX.iii.1.F.2.h\n.\nCounting the Income of an Unestablished Dependent\nBenefits may be awarded without resolving the status of a claimed dependent; however, it may be necessary to count a claimed dependent’s income even if the dependent cannot be established.\nWhen evidence necessary to establish the dependent has not been submitted within the control period, determine the claimant’s MAPR without consideration of the claimed dependent, and count the claimed but unestablished dependent’s income.\nFor Veterans Benefits Management System (VBMS)-Awards processing, enter the unestablished dependent’s income under the primary beneficiary by selecting the UNESTABLISHED DEPENDENT’S ANNUAL INCOME from the dropdown menu and entering the amount on the INCOME/EXPENSE AMOUNT field.\nNotes\n:\nDeny the claim or discontinue the award if the claimant’s or beneficiary’s income exceeds the MAPR\nincluding the unestablished dependent’s income, but\nexcluding the additional amount for the unestablished dependent.\nReference\n:\nFor more information on processing awards in VBMS Awards, see the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section F - Dependents for Current-Law Pension Purposes",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177521/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-F-Dependents-for-Current-Law-Pension-Purposes",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:26.698184",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_ii_6_C_19",
+  "content": "/>\nX.ii.6.C.2.c\n.\nSystem Entries When Resuming Suspended Payments\nWhen resuming suspended payments pending the appointment or change of a fiduciary, select\nEligible Beneficiary\nfrom the dropdown box in the DECISION field on the BASIC ELIGIBILITY tab if payments were suspended by routine processing.\nDo not enter prior net award data unless the amended award affects an adjustment prior to the date in the LAST PAID DATE field on the AWARD INFORMATION tab in Share.\nReference\n:  For more information on taking the actions described in this block, see the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part X, Subpart ii, Chapter 6, Section C - General Information on Incompetency and Fiduciary Cases",
+  "citation": "Part X, Subpart ii, Chapter 6, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177976/M21-1-Part-X-Subpart-ii-Chapter-6-Section-C-General-Information-on-Incompetency-and-Fiduciary-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:14:34.802604",
+  "tags": [
+    "m21-1"
+  ]
+}

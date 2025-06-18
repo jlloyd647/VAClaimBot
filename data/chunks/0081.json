@@ -1,0 +1,12 @@
+{
+  "chunk_id": "I_i_2_B_12",
+  "content": "/>\nI.i.2.B.1.g\n.\nAdding a Representative’s Name and Address to Letters in VBMS Core\nFollow the instructions in the table below to list the representative name and address to letters in VBMS Core.\nIf ...\nThen ...\na private attorney or agent is already selected\ncheck the default address against the\nOGC accreditation list\nto ensure the address is current.\nExample\n:\na private attorney or agent is not already selected, or\nthe user needs to change the representation for the specific correspondence\nrefer to the steps in the table below.\nStep\nAction\n1\nNavigate to the POWER OF ATTORNEY box within the letter template.\nExample\n:\n2\nDelete the existing representative listed if applicable.\nExample\n:\n3\nAdd the new representation information using the ADD button.\nExample\n:\n4\nBegin typing the name of the representative in the SEARCH POA’S field.  A list will appear.  Choose the correct representative if listed.  The address will automatically populate.\nExample\n:\nNote\n:  If the name is not listed, manually enter the information required.  Ensure the address is current by checking against the\nOGC accreditation list\n.\n5\nSave the information using the SAVE POA button.\nExample\n:\n6\nPrior to finalizing the letter, preview it to ensure that the information populated correctly.\nExample\n:\nImportant\n:  Changing a representative this way only changes it for the purpose of the specific correspondence.  It will not change the appointed representative as listed in the corporate data base.\nReference\n:  For more information on updating electronic systems for power of attorney, see\nM21-1, Part I, Subpart i, 2.C.2\n.",
+  "title": "M21-1, Part I, Subpart i, Chapter 2, Section B - A Representative’s Right to Notification and Review of Records",
+  "citation": "Part I, Subpart i, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181476/M21-1-Part-I-Subpart-i-Chapter-2-Section-B-A-Representatives-Right-to-Notification-and-Review-of-Records",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:08:37.664305",
+  "tags": [
+    "m21-1"
+  ]
+}

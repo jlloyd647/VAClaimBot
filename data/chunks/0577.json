@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_A_33",
+  "content": "/>\nII.iii.2.A.3.c\n.\nHandling an Incomplete VA Form 21-0966 After Receipt of a Subsequent Claim\nFollow the steps in the table below when\nVA receives a\nVA Form 21-0966\nfrom a claimant\nthe form does\nnot\ncontain the required elements described in\nM21-1, Part II, Subpart iii, 2.A.1.b\na subsequent claim has been received, and\nthe claimant has\nnot\nbeen sent the letter acknowledging receipt of the ITF as described in\nM21-1, Part II, Subpart iii, 2.A.3.b\n.\nImportant\n:  The date of receipt of a\nVA Form 21-0966\nthat does\nnot\ncontain the required elements set forth in\nM21-1, Part II, Subpart iii, 2.A.1.b\ncannot be used to establish a potential effective date for entitlement to VA benefits.\nStep\nAction\n1\nDo not\nenter the ITF in VBMS.  (The purpose of\nnot\nentering the ITF in VBMS is to prevent generation of the Hines ITC letter described in\nM21-1, Part II, Subpart iii, 2.A.3.b\n.)\n2\nNotify the claimant that the ITF cannot be utilized in conjunction with the current claim using the\nIncomplete ITF—Claim Received\nletter.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section A - Intent to File (ITF)",
+  "citation": "Part II, Subpart iii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:12:24.433955",
+  "tags": [
+    "m21-1"
+  ]
+}

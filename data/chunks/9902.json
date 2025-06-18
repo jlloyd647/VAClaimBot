@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_2_C_21",
+  "content": "/>\nXIV.2.C.4.b\n.\nUpdating the Corporate Record to Reflect the Verification of an SSN\nIf an RO has proof that the SSN in a VA record is correct, an RO employee may enter\nY\nin the SSN - VERIFIED field in BIRLS.\nProof consists of a\ncopy of the individual’s Social Security card\nprintout of a response to a FOLQ query that verifies the SSN, or\nletter from SSA that verifies the SSN in question.\nReferences\n:  For more information on\nupdating BIRLS, see the\nShare User Guide\n, and\nsubmitting an SSA inquiry through FOLQ, see the\nVBMS Core User Guide\n.",
+  "title": "M21-1, Part XIV, Chapter 2, Section C - Social Security Number (SSN) Verification",
+  "citation": "Part XIV, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173304/M21-1-Part-XIV-Chapter-2-Section-C-Social-Security-Number-SSN-Verification",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:31:54.224176",
+  "tags": [
+    "m21-1"
+  ]
+}

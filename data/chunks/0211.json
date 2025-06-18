@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_1_A_8",
+  "content": "/>\nII.i.1.A.1.c\n.\nDefinitions of CM Terms\nFor definitions of terms related to CM processing, see the table below.\nTerm\nDefinition\nreceived date\nThe date the mail is received at the scanning vendor is displayed in the CM portal as the\nreceived date.\nThe table below outlines what date is displayed in the CM portal.\nIf mail is received\n...\nThen the receipt/received date is the date ...\nby the RO and\nsent to the vendor\nstamped by the RO.\ndirectly at the vendor\napplied to the resulting scanned/converted image by the vendor.\nNote\n:  If an earlier date of receipt is discovered, the Veterans Benefits Management System (VBMS) allows the user to edit this data field.\nReference\n:  For more information on editing document properties in VBMS, see the\nVBMS Core User Guide\n.\nFIFO\nFIFO refers to the practice of processing documents according to oldest date received rather than by type of document.\nNote\n:  The oldest date received is based on the CM portal entry date.\npacket, or\npackage\nA packet or package pertains to a mail bundle for a single claimant and may contain one or more documents.\ndocument\nDocuments are single files of one or more pages/images and are part of a packet or package.\nimage\nThe optical reproduction of the document/page contained in a packet or package.\nUnited States Postal Service (USPS) Priority Mailbox\nA standard box normally used for shipping mail to the scanning vendor in the CM process.\nbankers box\nA standard, white box normally used to ship paper claims folders and service treatment records (STRs).\nReference\n:  For more information on earliest date of receipt, see\nM21-1, Part II, Subpart i, 2.B\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 1, Section A - Centralized Mail (CM) Intake",
+  "citation": "Part II, Subpart i, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174855/M21-1-Part-II-Subpart-i-Chapter-1-Section-A-Centralized-Mail-CM-Intake",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:09:49.594475",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_E_57",
+  "content": "/>\nIII.ii.2.E.8.b\n.\nAddress Codes for STRs and Dental Records\nBeginning September 1, 2014, the Coast Guard stopped sending paper STRs to RMC and began digitizing these records.  On June 1, 2015, the Coast Guard began uploading their digitized STRs into HAIMS.\nThe Veterans Benefits Management System (VBMS) automatically generates a Coast Guard STRs request for members with release dates of September 1, 2014, or later.\nThe table below lists the service history, service situations, and the corresponding source to obtain STRs and dental records for officers and enlisted personnel.\nImportant\n:  The\neFolder\nsource denotes records previously held by RMC that have been scanned and uploaded to the corresponding Veteran’s eFolder, as discussed in\nM21-1, Part III, Subpart ii, 2.A.5.d\n.\nService History\nService Circumstances\nPIES Address Code or Other Source\nDischarged, retired or deceased, with no Reserve obligation\nPrior to 05/01/1998\n13\nOn or after 05/01/1998 but prior to 09/01/2014\neFolder\nOn or after 09/01/2014\nHAIMS\nSeparated with Reserve obligation\nInactive or not assigned to unit\nHAIMS\nAssigned to active unit\n7\nSeparated/retired from the Coast Guard Reserves, or\nTDRL\nOn or after 09/01/2014\nHAIMS",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section E - Service Record Address Codes and Addresses for Military Records Centers and Other Agencies",
+  "citation": "Part III, Subpart ii, Chapter 2, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014121/M21-1-Part-III-Subpart-ii-Chapter-2-Section-E-Service-Record-Address-Codes-and-Addresses-for-Military-Records-Centers-and-Other-Agencies",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:31.832567",
+  "tags": [
+    "m21-1"
+  ]
+}

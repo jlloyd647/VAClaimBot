@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_C_32",
+  "content": "/>\nV.iv.1.C.5.a\n.\nGeneral Information on VBMS-R’s Withholding Functionality\nVBMS-R includes functionality that facilitates offsets to VA benefit awards when beneficiaries have received certain concurrent payments\nof disability severance pay\nunder the Radiation Exposure Compensation Act (RECA)\nin connection with tort awards, or\nof Office of Workers’ Compensation Programs (OWCP) benefits.\nWhen review of the evidentiary record reveals that a beneficiary received one of the above-referenced payment types for an SC disability, use the WITHHOLDING INFORMATION field in VBMS-R’s DISABILITY DECISION INFORMATION (DDI) screens to identify the\ntype of concurrent payment for which VA benefit withholding is necessary and,\nif applicable, the percentage of VA benefit withholding needed.\nException\n:  Do\nnot\nenter the withholding information attributes described in this block if a Veteran received disability severance pay for one or more SC disabilities incurred in a combat zone or during the performance of duty in combat-related operations, as discussed in\nM21-1, Part VI, Subpart ii, 2.3.e and f\n.  Instead, identify such disability(ies) by following the procedures in\nM21-1, Part V, Subpart iv, 1.C.5.b\n.\nReferences\n:  For more information on\nconcurrent benefits and elections, see\n38 CFR 3.700\nprohibition against duplication of benefits in claims involving\ndisability severance pay, see\nM21-1, Part VI, Subpart ii, 2\nRECA, see\nM21-1, Part VI, Subpart ii, 1.B.4\n, and\ntort awards, see\nM21-1, Part VIII, Subpart iv, 6.C\n, and\nM21-1, Part XII, Subpart i, 3.F\n, and\nOWCP benefits, see\nM21-1, Part VI, Subpart ii, 5\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section C - Coded Conclusion",
+  "citation": "Part V, Subpart iv, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180525/M21-1-Part-V-Subpart-iv-Chapter-1-Section-C-Coded-Conclusion",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:08.257771",
+  "tags": [
+    "m21-1"
+  ]
+}

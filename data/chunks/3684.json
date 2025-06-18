@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_A_40",
+  "content": "/>\nV.iv.1.A.5.e\n.\nUsing VBMS-R to Produce Text for the Rating Narrative\nThe rating decision narrative is composed entirely of text entered in the REASONS FOR DECISION field of the VBMS-R ANALYSIS screen, including language that is\nsystem-generated and copied or appended from the GENERATED TEXT field, and\nuser-generated, in the form of glossary text and/or free text, to supplement the underlying decision.\nBecause the rating narrative is maintained in the claims folder, and a copy of the rating decision is sent to the claimant, modify its language as needed, depending on the type of rating format (short- or long-form) deemed appropriate.\nIn the REASONS FOR DECISION field of the VBMS-R ANALYSIS screen, edit the rating narrative by inserting glossary text and/or free text to further explain the system-generated or glossary text, if needed, bearing the following in mind:\nin the long-form rating format, a significant amount of additions to the system-generated language may be required, but\nin the short-form rating format, additions to the system-generated language should be limited.\nNotes\n:\nOnly\nuse free text if appropriate automated or glossary text does not already exist.\nSystem-generated language will typically be sufficient to satisfy the requirement (as stated in\nM21-1, Part V, Subpart iv, 1.A.5.a\n) for inclusion of any laws and regulations applicable to the claim.  In the event, however, that all applicable laws or regulations are not cited via system automation, identify those outstanding laws or regulations by inserting free-text parenthetical annotations.\nReferences\n:  For more information on\nshort-form rating narrative, see\nM21-1, Part V, Subpart iv, 1.A.6\n, and\nlong-form rating narrative, see\nM21-1, Part V, Subpart iv, 1.A.7\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section A - Completing the Rating Decision Narrative",
+  "citation": "Part V, Subpart iv, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180523/M21-1-Part-V-Subpart-iv-Chapter-1-Section-A-Completing-the-Rating-Decision-Narrative",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:46:49.618474",
+  "tags": [
+    "m21-1"
+  ]
+}

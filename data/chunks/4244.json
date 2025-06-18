@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_E_9",
+  "content": "/>\nVI.ii.4.E.1.d\n.\nAutomated AEW Processing\nVA uses batch processing to automate the adjustment of many Veterans’ awards based on the audit data it receives from DFAS or the Coast Guard.  This process includes the generation of an award in the Veterans Benefits Management System – Awards (VBMS-A) and the generation and mailing of a decision notice to the Veteran.\nException\n:  If an AEW contains more than 55 award lines, automatic generation of a decision notice during batch processing fails.  In such cases, Compensation Service’s MILPAY Staff sends an e-mail to the station of origination with a request to prepare the decision notice and mail it, along with a copy of the AEW, to the Veteran within 10 days.\nNote\n:  The subject line of the e-mail from the MILPAY Staff will read\nCRSC/CRDP Batch – Automatic Letter Kick-Out\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section E - Processing Audit Error Worksheets (AEWs)",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179491/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-E-Processing-Audit-Error-Worksheets-AEWs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:46.854474",
+  "tags": [
+    "m21-1"
+  ]
+}

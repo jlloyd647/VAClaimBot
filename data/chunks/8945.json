@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XII_i_3_C_16",
+  "content": "/>\nXII.i.3.C.2.d\n.\nActions to Take When a Surviving Spouse Establishes Entitlement to DIC\nUse the table below to determine the action to take if\nan award has been made for a child(ren), and\nthe surviving spouse’s entitlement is subsequently established.\nIf …\nThen …\na child(ren) is/are in the surviving spouse’s custody\nterminate the child(ren)’s award as of the date in the LAST PAID DATE field as shown in VBMS and/or Share\npay the available balance under a payee 10 award, and\nadjust the payee 10 award the date shown in the LAST PAID DATE in VBMS and/or Share to remove the withholding.\nno child(ren) is/are in the custody of the surviving spouse\nreview the child(ren)’s award(s) to ensure they are receiving proper payment, and\nprepare a payee 10 award to pay the surviving spouse.\nthere is a child(ren) both in and out of custody of the surviving spouse\nreview the out of custody child(ren)’s award(s) to ensure they are receiving proper payment\nterminate the award for the child(ren) in custody as of the date in the LAST PAID DATE field shown in VBMS and/or Share, and\nprepare a payee 10 award from the date of entitlement, with appropriate withholding for prior payments adjusted as of the date in the LAST PAID DATE field shown in VBMS and/or Share.\nReference\n:  For more information on VBMS, see the\nVBMS User Guide\n.",
+  "title": "M21-1, Part XII, Subpart i, Chapter 3, Section C - Awarding Dependency and Indemnity Compensation (DIC) to Children Based on the Determination of Surviving Spouse Entitlement",
+  "citation": "Part XII, Subpart i, Chapter 3, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175214/M21-1-Part-XII-Subpart-i-Chapter-3-Section-C-Awarding-Dependency-and-Indemnity-Compensation-DIC-to-Children-Based-on-the-Determination-of-Surviving-Spouse-Entitlement",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:23:05.687790",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_iii_4_None_8",
+  "content": "/>\nVI.iii.4.1.c\n.\nActions to Take Following Receipt of a Six-Month Follow-Up Notice on an 810WI\nFollowing receipt of a six-month follow-up notice on an 810WI, attempt to obtain a current address from the Veteran by telephone.  If such attempts are\nsuccessful\n,\nupdate the corporate record to reflect the correct address, and\nrestart the Veteran’s award effective the date in the LAST PAID DATE field on the CURRENT AND HISTORICAL AWARD INFORMATION page in VBMS, or\nunsuccessful\n, follow the instructions in\nSteps 1 through 6\nof the procedure described in\nM21-1, Part II, Subpart i, 2.C.6.d\n, and\nthe table below.\nIf the Veteran’s correct address is ...\nThen ...\nobtained while following the instructions in Steps 1 through 6 of the procedure described in\nM21-1, Part II, Subpart i, 2.C.6.d\nupdate the corporate record to reflect the correct address, and\nrestart the Veteran’s award effective the date in the LAST PAID DATE field on the CURRENT AND HISTORICAL AWARD INFORMATION page in VBMS.\nnot\nobtained after completing Steps 1 through 6 of the procedure described in\nM21-1, Part II, Subpart i, 2.C.6.d\nleave a note in VBMS that describes the actions taken to obtain a correct address, and\nstop the Veteran’s award as of the date in the LAST PAID DATE field on the CURRENT AND HISTORICAL AWARD INFORMATION field in VBMS, using\nWhereabouts Unknown\nin the DECISION field on the BASIC ELIGIBILITY tab.\nImportant\n:   When a Veteran’s award is stopped according to the instructions in the preceding bullet, the decision notice associated with this action will likely be returned as undeliverable.  If this occurs, there is\nno\nneed to treat the returned decision notice as undeliverable mail (according to the instructions in\nM21-1, Part II, Subpart i, 2.C.6.d\n).\nReferences\n:   For more information on\nupdating a Veteran’s address, see\nM21-1, Part II, Subpart iii, 3.B.1.b or c\n, and\nstopping an award due to a Veteran’s disappearance, see the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part VI, Subpart iii, Chapter 4 - Disappearance and Reappearance of a Veteran",
+  "citation": "Part VI, Subpart iii, Chapter 4, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179502/M21-1-Part-VI-Subpart-iii-Chapter-4-Disappearance-and-Reappearance-of-a-Veteran",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:51:29.119047",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_B_11",
+  "content": "/>\nIII.ii.2.B.1.f\n.\nHow STRs From HAIMS Are Grouped and Displayed in VBMS\nElectronic copies of STRs that HAIMS transmits to VBMS are grouped and displayed in a Veteran’s eFolder with the following titles:\nSTR Medical Record\n(Parts 1 through 4)\nSTR Medical Record\n(Parts 5 and 6 – Coast Guard only)\nSTR Dental Record\n(Parts 1 and 2)\nSTR Dental Records\n(Parts 3 and 4 - Navy and Marine Corps only)\nSTR Administrative Documentation\n(Records in this group include the\nDD Form 2963\nreferenced in\nM21-1, Part III, Subpart ii, 2.A.3.b\n.)\nSTR MHS GENESIS\nSTR HRR\n(medical records for Army National Guard and Army Reserves)\nAHLTA\n(records MTFs transfer into HAIMS from the Armed Forces Healthcare Longitudinal Technology Application)\nLoose-Flowing STR Documentation\n(individual records that were scanned and uploaded into HAIMS\nbefore\npreparation of\nDD Form 2963\n), and\nLate-Flowing STR Documentation\n(individual records that were scanned and uploaded into HAIMS\nafter\npreparation of\nDD Form 2963\n).\nNotes\n:\nTo avoid difficulties in identifying STRs in an eFolder, do\nnot\nchange their assigned titles.\nIf VBMS users experience difficulty accessing or viewing electronic copies of STRs that HAIMS provides, they should send e-mail notification to\nVAVBAWAS/CO/HAIMS-DPRIS\n.\nReference\n:  For more information on late-flowing STR documentation, see\nM21-1, Part III, Subpart ii, 2.B.1.g\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section B - Procedures for Obtaining Service Treatment Records (STRs)",
+  "citation": "Part III, Subpart ii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014119/M21-1-Part-III-Subpart-ii-Chapter-2-Section-B-Procedures-for-Obtaining-Service-Treatment-Records-STRs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:03.900946",
+  "tags": [
+    "m21-1"
+  ]
+}

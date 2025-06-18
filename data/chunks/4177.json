@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_B_30",
+  "content": "/>\nVI.ii.4.B.3.f\n.\nHandling Cases In Which the Date of Retirement or Separation Falls on the 31\nst\nDay of a Month\nIf the date of a Veteran’s retirement (the day following the date of separation) falls on the 31\nst\nday of a month, enter the first day of the month that follows the date of retirement in the EFFECTIVE DATE field on the RETIRED PAY tab of the MILITARY PAYMENT INFORMATION screen in the award-processing system.\nRationale\n:  The 31\nst\nday of a month is\nnot\na pay date for MRP purposes.  Therefore, when the retirement date falls on this day, MRP starts on the first day of the following month.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section B - Preparing and Adjusting Awards in Military Retired Pay (MRP) Cases",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179488/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-B-Preparing-and-Adjusting-Awards-in-Military-Retired-Pay-MRP-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:18.975843",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_A_60",
+  "content": "/>\nIX.iii.1.A.5.h\n.\nExample 1:  Re-Computing Awards Based on New Income Information\nSituation\n:  A Veteran’s pension rate for the period January 1, 2019, through November 30, 2019, is $200 per month.  Effective December 1, 2019, the rate increases to $215 per month due to the COLA.  The pension rate is reduced to $100 per month for the period January 1, 2020, through December 31, 2020, because of the removal of 2019 UMEs.\nIn March 2021, the Veteran reports calendar-year 2020 medical expenses.\nAfter re-computation, it is determined that the Veteran is entitled to $150 per month for the period January 1, 2020, through December 31, 2020.\nResult\n:  Pay the increase from January 1, 2020, because the rate payable on that date ($150) is less than the December 2019 rate ($215).  The fact that the $150 rate is greater than the former January 1, 2020, rate ($100), based on estimated income is irrelevant.\nRationale\n:  There has not been an increased award within the meaning of\n38 CFR 3.31\n.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section A - General Information on the Effect Income and Net Worth Have on Pension and Parents’ Dependency and Indemnity Compensation (DIC)",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177516/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-A-General-Information-on-the-Effect-Income-and-Net-Worth-Have-on-Pension-and-Parents-Dependency-and-Indemnity-Compensation-DIC",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:39.896908",
+  "tags": [
+    "m21-1"
+  ]
+}

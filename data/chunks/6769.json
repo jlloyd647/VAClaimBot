@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_3_B_66",
+  "content": "/>\nX.i.3.B.9.b\n.\nAction to Take When Translation Is Not Obtainable Using Local Resources\nIf local resources do not exist for translation of a document written in a foreign language, follow the steps in the table below to request translation through the Pittsburgh RO.\nStep\nAction\n1\nIdentify in VBMS each document that requires translation by inserting\nNeeds Translated\nby each document on the NOTES screen.\n2\nPrepare an encrypted e-mail that contains the following information in the body of the e-mail:\nVeteran’s name and claim number\nname of the language from which translation is required\nnumber of documents requiring translation\nthe document name(s) and corresponding receipt date(s) as displayed in VBMS, and\nan indication as to whether or not priority processing is required.\n3\nIn the subject line of the e-mail, enter\nDocuments in Need of Translation\n.\n4\nSend the e-mail to\nssd.vbapit@va.gov\n.\nNotes\n:\nNormal processing time for a request for translation is 10 days.\nPriority processing time is dependent upon the type of language and the number of documents that require translation.\nWhen translation is complete, the Pittsburgh RO\nuploads the translated documents into VBMS, and\nmarks the tracked item as received to facilitate routing of the claim.",
+  "title": "M21-1, Part X, Subpart i, Chapter 3, Section B - Adjudication Procedures for Foreign Claims",
+  "citation": "Part X, Subpart i, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177943/M21-1-Part-X-Subpart-i-Chapter-3-Section-B-Adjudication-Procedures-for-Foreign-Claims",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:09:28.052336",
+  "tags": [
+    "m21-1"
+  ]
+}

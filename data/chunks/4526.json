@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_iii_4_None_17",
+  "content": "/>\nVI.iii.4.2.f\n.\nPaying Pension to Dependents\nUse the table below to determine the rate payable to dependents in pension cases.\nNote\n:  Unlike with disability compensation cases, disregard authorized insurance deductions in effect at the time of the Veteran’s disappearance.\nStep\nAction\n1\nGenerate an award in the claims-processing system, as if it were an apportionment of the Veteran’s benefits, paying the lesser of the\nVeterans Pension rate, as determined by the income of the spouse or children, or\nrate of pension payable to the Veteran at the time of disappearance.\n2\nLeave a remark on the award document that provides the income and net worth information used to justify the rate paid, but do not input this information when generating the award.\nNote\n:  If the spouse is also awarded benefits, leave the remark referenced in the preceding paragraph on each award document associated with a separate award to a child.",
+  "title": "M21-1, Part VI, Subpart iii, Chapter 4 - Disappearance and Reappearance of a Veteran",
+  "citation": "Part VI, Subpart iii, Chapter 4, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179502/M21-1-Part-VI-Subpart-iii-Chapter-4-Disappearance-and-Reappearance-of-a-Veteran",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:51:29.119047",
+  "tags": [
+    "m21-1"
+  ]
+}

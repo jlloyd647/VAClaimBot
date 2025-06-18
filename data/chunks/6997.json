@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_B_35",
+  "content": "/>\nX.i.6.B.3.m\n.\nInitial Actions Upon Receipt of an Electronic Pre-Discharge Claim\nUpon receipt of an electronic claim, pre-discharge claims processors will follow the instructions in the table below.\nStep\nAction\n1\nDid the service member submit STRs for the current period of service?\nIf\nyes\n, go to the next step.\nIf\nno\n, develop for STRs as noted in\nM21-1, Part M21-1, Part X, Subpart i, 6.B.3.k\n.\n2\nDoes the service member meet the other requirements of the BDD program?\nIf\nyes\n, go to the next step.\nIf\nno\n,\nchange the EP 336 to the appropriate non-BDD rating EP, and\ngo to Step 4.\n3\nDevelop the claim as required by\nM21-1, Part X, Subpart i, 6.C.1.b\n.\n4\nProcess the claim under the FDC Program (or the standard VA claims process if the service member does not qualify for the FDC Program, or any other qualifying program).\nNotes\n:\nFor claim types excluded from the BDD program\ndisregard the processing steps in this table, and\nfollow the guidance in\nM21-1, Part X, Subpart i, 6.B.1.c\n.\nFor guidance on how to consolidate incremental 400 EPs that are established by the Veterans Online Application Direct Connect following initial receipt of the claim, see\nM21-1, Part II, Subpart iii, 4.A\n.\nReferences\n:  For more information on\nclaim types excluded from the BDD program, see\nM21-1, Part X, Subpart i, 6.B.1.b\nBDD and BDD-excluded (to include claims received electronically) EP and claim labels, see\nM21-1, Part X, Subpart i, 6.B.2\n, and\nthe FDC Program, see\nM21-1, Part X, Subpart i, 2.A\nand\nB\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section B - Benefits Delivery at Discharge (BDD) and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177950/M21-1-Part-X-Subpart-i-Chapter-6-Section-B-Benefits-Delivery-at-Discharge-BDD-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:42.456988",
+  "tags": [
+    "m21-1"
+  ]
+}

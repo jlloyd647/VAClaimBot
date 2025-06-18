@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_C_42",
+  "content": "/>\nII.i.2.C.6.c\n.\nHandling Undeliverable Nonessential Mail\nUpon receipt of undeliverable\nnonessential\nmail, the IPC user checks to see if the envelope in which VA originally enclosed the mail has a yellow-colored, USPS sticker that shows a forwarding address.\nIf the sticker with the forwarding address is present\nestablish an EP 400 with a correspondence claim label in accordance with\nM21-1, Part II, Subpart iii, 3.A.1\nduring VBMS establishment, assign the claim to the non-rating lane\nenter undeliverable mail as a contention\nupdate the beneficiary’s record to reflect the new address using the guidance in\nM21-1, Part II, Subpart iii, 3.B.1\nif being screened electronically, download the mail from the portal for printing\ngenerate a\nReturn Mail\ncover letter\nsend the mail and cover letter to the new address\nupload a copy of the cover letter to the eFolder, and\nclear the EP 400.\nIf no forwarding address is present\nupload the mail being screened electronically to VBMS, and\ndestroy the returned nonessential mail (including the envelope), if screening in paper.\nNotes\n:\nAll returned mail envelopes providing address information received in the RO must be forwarded to the scanning vendor for upload into the Veteran’s claims folder.\nWhen the original version of undeliverable nonessential mail is available in the claims folder, download a clean copy of the letter to re-mail to the claimant instead of using the poorer quality CM scanned version.  Ensure the\nReturn Mail\nletter is attached to the top with the proper updated address before returning the mail.\nWhenever possible, where mail is being resent, create a package consisting of the mail and the\nReturn Mail\nletter for centralized printing.\nReference\n:  For more information on downloading mail from the CM portal, see the\nCentralized Mail Portal User Manual\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section C - Mail Management",
+  "citation": "Part II, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174860/M21-1-Part-II-Subpart-i-Chapter-2-Section-C-Mail-Management",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:30.870043",
+  "tags": [
+    "m21-1"
+  ]
+}

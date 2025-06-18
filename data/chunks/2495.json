@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_J_73",
+  "content": "/>\nIX.iii.1.J.5.m\n.\nExample:  Calculating a Monthly Penalty Rate and a Penalty Period\nExample\n:  A Veteran applied for pension on October 25, 2018.  The net worth limit was $123,600 at that time.  The Veteran’s total assets were $116,600 and the annual income was $0.  The Veteran transferred $30,000 by giving it to a friend on October 20, 2018.\nResult\n:  If the Veteran had not transferred the $30,000, the net worth would have been $146,600, which exceeds the net worth limit.  The Veteran’s covered asset amount is $23,000, because this is the amount by which the Veteran’s net worth would have exceeded the limit due to the covered asset.\nFollow the steps in the table below to determine the penalty rate and penalty period.\nStep\nAction\n1\nDetermine the monthly penalty rate.\nOn November 1, 2018, the MAPR for a Veteran with one dependent at the A&A rate was $26,036.\nDivide the MAPR by 12:  $26,036/12 = 2,169.66.\nThe monthly penalty rate is $2,169.\n2\nDetermine the penalty period.\nDivide the covered asset amount ($23,000) by the monthly penalty rate ($2,169):\n23,000/2,169 = 10.6.\nThe penalty period is 10 months, starting the month after the asset transfer.\nThe penalty period starts on November 1, 2018, and expires August 31, 2019.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section J - Net Worth, Asset Transfers, and Penalty Periods",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section J",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177525/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-J-Net-Worth-Asset-Transfers-and-Penalty-Periods",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:08:04.270638",
+  "tags": [
+    "m21-1"
+  ]
+}

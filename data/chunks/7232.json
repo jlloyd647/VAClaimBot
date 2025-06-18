@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_K_41",
+  "content": "/>\nX.i.6.K.6.a\n.\nHandling Notice of a Participant's Discharge Under Conditions Other Than Honorable\nMSCs and/or DRAS personnel must follow the steps in the table below upon receipt of notification or evidence that an IDES participant has been (or will be) discharged with an administrative discharge under conditions other than honorable.\nStep\nAction\n1\nDocument the report of the participant’s discharge by adding a detailed note in VBMS.\n2\nHas the case been disenrolled in VTA?\nIf\nyes\n, go to Step 7.\nIf\nno\n, go to the next step.\n3\nDocument the report of the participant’s discharge by adding a note in VTA.\n4\nComplete any required VTA fields associated with actions that were completed prior to the participant’s discharge.\n5\nIf information about the participant’s discharge is received by a(n) ...\nThen the claims processor must ...\nMSC\nnotify the PEBLO and request disenrollment of the case in VTA, and\nsend e-mail notification to the DRAS (if the case has been transferred to a DRAS).\nDRAS employee\nnotify appropriate parties using the\nRequest DoD Research for Possible Disenrollment\nhyperlink in VTA.\nNote\n:  The\nRequest DoD Research for Possible Disenrollment\nhyperlink is found on the bottom of the RO/RATING ACTIVITY tab in VTA.  Selecting this hyperlink will generate an e-mail addressed to all appropriate parties.\n6\nDocument all steps taken to notify appropriate parties with notes in VTA and VBMS.\n7\nProcess the disenrollment in accordance with\nM21-1, Part X, Subpart i, 6.I.2.a\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section K - Special Situations Related to Integrated Disability Evaluation System (IDES)",
+  "citation": "Part X, Subpart i, Chapter 6, Section K",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177960/M21-1-Part-X-Subpart-i-Chapter-6-Section-K-Special-Situations-Related-to-Integrated-Disability-Evaluation-System-IDES",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:12:06.155068",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_3_None_20",
+  "content": "/>\nIII.ii.3.2.b\n.\nPMR Contractor Responsibilities\nThe PMR Program was deployed nationally in November 2014, and was designed to work in collaboration with ROs to improve the receipt of medical records in support of Veterans’ or dependents of Veterans’ claims.\nThe PMR contractor will process the medical release regardless of the benefit types from\nROs\npension management centers, and\ndecision review operations centers.\nIncoming medical release requests received through the Centralized Mail Portal (CMP) will be automatically processed by the PMR contractor via the VBA Automation Platform (VBAAP).  Upon receipt, the PMR contractor will review the medical release forms to determine if the forms meet the processing requirements.\nThe PMR contractor will develop any PMR release forms with sufficient information.  The PMR contractor will also develop the PMR release form, if they can augment the form by obtaining the missing information from various VBA systems.\nNotes\n:\nIf the PMR contractor sends a third-party notice to an incorrect address for the PHP, the PMR Super User should contact the PMR help desk to advise the PMR contractor of the error.\nThe PMR contractor\nwill not\nnotify the Veteran of negative responses received from PHPs.  Consequently, ROs must follow the notification procedures outlined in\nM21-1, Part III, Subpart ii, 3.1.g\n.\nIf the PMR contractor receives an undeliverable notice from the address of record, they will close out the medical release request unless they have a forwarding address provided by the U.S. Postal Service.\nReference\n:  For more information on the PMR contractor contact information and responsibilities, see the\nPMR Resource Documents\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 3 - Requesting Evidence From Private Health Providers (PHPs)",
+  "citation": "Part III, Subpart ii, Chapter 3, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181428/M21-1-Part-III-Subpart-ii-Chapter-3-Requesting-Evidence-From-Private-Health-Providers-PHPs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:09.092025",
+  "tags": [
+    "m21-1"
+  ]
+}

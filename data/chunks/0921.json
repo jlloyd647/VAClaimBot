@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_i_2_F_24",
+  "content": "/>\nIII.i.2.F.3.d\n.\nTracked Item Automation\nIf the suspense date for an open, non-actionable tracked item has expired, and no response, either positive or negative, was received in reply to the request, VBMS will automatically close the tracked item by entering the suspense date into the\nClosed\ndisposition.  A tracked item is considered non-actionable if no action is required at the expiration of the suspense date.\nIf the last remaining tracked item is manually updated by adding a date in the\nClosed\n,\nReceived\n, or\nIn Error\ndisposition, VBMS automatically sets the status and claim-level suspense reason to\nReady for Decision\nfor rating claims, and\nReady to Work\nfor non-rating claims.",
+  "title": "M21-1, Part III, Subpart i, Chapter 2, Section F - Record Maintenance During the Development Process",
+  "citation": "Part III, Subpart i, Chapter 2, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000046277/M21-1-Part-III-Subpart-i-Chapter-2-Section-F-Record-Maintenance-During-the-Development-Process",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:36:17.270964",
+  "tags": [
+    "m21-1"
+  ]
+}

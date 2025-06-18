@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_D_9",
+  "content": "/>\nIX.iii.1.D.1.d\n.\nExample: Calculating Parents’ DIC Monthly Payment\nSituation\n:  A DIC parent (one of two parents not living with spouse) submitted an original application which VA received on November 15, 2014.  After reviewing all evidence of record, an end user determined the parent has an IVAP of $1,160.  Additionally, VA has rated the parent to be in need of aid and attendance (A&A).\nUse the below table to calculate the Parents’ DIC monthly payment.\nStep\nCalculation\nDescription\n1\n$1,200.00\n- $1,160.00\n$40.00\nIncome Not Over\namount\nSubtract claimant’s IVAP\nDifference\n2\n$40.00\nx 0.08\n$3.20\nDifference from Step 1\nTimes the decimal for\nEach $1 Decrement\nAmount of extra monthly income\n3\n$421.00\n+ $3.20\n$424.20\n+ $336.00\n$760.20\nClaimant’s beginning monthly rate\nAdd amount of extra monthly income\nClaimant’s basic monthly rate\nAdd additional amount for A&A\nMonthly Parents’ DIC payment rate\nNote\n:  Do not drop the cents.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section D - Parents’ Dependency and Indemnity Compensation (DIC) Authorization",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177519/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-D-Parents-Dependency-and-Indemnity-Compensation-DIC-Authorization",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:08.050832",
+  "tags": [
+    "m21-1"
+  ]
+}

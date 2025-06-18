@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_E_81",
+  "content": "/>\nIX.iii.1.E.7.g\n.\nExample 1:  Income Changes During the Initial 12 Months of Award\nIn this example and the example found in\nM21-1, Part IX, Subpart iii, 1.E.7.h\n, it makes no difference whether or not the award is running at the time VA learns of the retroactive payment.  The income counting procedures found in this topic apply equally to original, new, and running awards.\nExample\n:  A surviving spouse is entitled to Survivors Pension with an effective date of March 15, 2014.  The award is payable from April 1, 2014.  The award is based on IVAP of $0.  The surviving spouse receives a retirement check for $800 on July 3, 2014.  It represents a $600 retroactive check and the regular $200 check for July.  The surviving spouse expects to receive $200 each month in the future from this source.\nResult\n:  Pay based on the IVAP of $0 from April 1, 2014.  Increase the IVAP to $3,000 effective August 1, 2014 (12 x $200= $2,400 + $600 retroactive).  Reduce the IVAP to $2,400, effective August 1, 2015, when the $600 retroactive comes off the award.\nThe table below shows the date and reason for the IVAP changes in this example.\nDate\nIVAP\nReason\n04-01-2014\n$0\nEntitlement is effective from date of claim, March 15, 2014. (Claim received more than one year after Veteran’s death.)\n08-01-2014\n$3,000\nRetirement check received July 3, 2014. Count $600 nonrecurring plus $200 per month recurring ($2,400).\n08-01-2015\n$2,400\nRemove nonrecurring income.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section E - Pension - Basic Rate Determinations",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177520/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-E-Pension-Basic-Rate-Determinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:17.413088",
+  "tags": [
+    "m21-1"
+  ]
+}

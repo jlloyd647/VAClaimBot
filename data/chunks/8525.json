@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_ii_3_E_22",
+  "content": "/>\nXI.ii.3.E.3.e\n.\nRecouping Overpayments When Computing Accrued Benefits\nIf the deceased beneficiary had an overpayment, it must be recouped before any accrued benefits may be paid.  When an accrued award is established, VBMS-A will automatically populate any current proceeds, offsets, or personal funds of patients (PFOP) in the appropriate field.\nIf there is an overpayment that should be deducted from the benefit, VBMS-A will automatically calculate the accrued amount based on any proceeds or offsets.\nReference\n:  For more information on processing awards, see the\nVBMS Awards User Guide\n, and\nVBMS Rating User Guide\n.",
+  "title": "M21-1, Part XI, Subpart ii, Chapter 3, Section E  - Accrued Authorization and Notification",
+  "citation": "Part XI, Subpart ii, Chapter 3, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174208/M21-1-Part-XI-Subpart-ii-Chapter-3-Section-E-Accrued-Authorization-and-Notification",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:21:05.025085",
+  "tags": [
+    "m21-1"
+  ]
+}

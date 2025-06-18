@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_I_26",
+  "content": "/>\nX.i.6.I.3.g\n.\nUpdating VTA to Reflect Completion of an Exit Interview\nWithin 14 days of the date entered in the EXIT INTERVIEW START DATE field in VTA, the MSC must complete the EXIT INTERVIEW OUTCOME and EXIT OUTCOME DATE fields.\nThe table below lists the options for the EXIT INTERVIEW OUTCOME field and the corresponding date to use in the EXIT OUTCOME DATE field.\nWhen the appropriate selection for the EXIT INTERVIEW OUTCOME field is ...\nThen update the EXIT INTERVIEW OUTCOME DATE field with ...\nCompleted\nthe date that the exit interview was completed.\nNot Completed – SM declined Exit interview\nthe date that the participant declined an exit interview.\nNot Completed – SM did not show for scheduled Exit Interview\nthe date on which the exit interview was scheduled.\nNot Completed – SM could not be contacted after two attempts\nthe date that the MSC determined the participant could not be reached.\nImportant\n:  If a PEBLO updates VTA to reflect\ndisenrollment\nof a participant\nbefore\nan MSC can conduct the exit interview, the MSC will not be able to update VTA to reflect completion of the interview.  If this occurs, the MSC is still obligated to hold the interview.  However, they must document that the interview took place in a VBMS note.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section I - Integrated Disability Evaluation System (IDES) Processing Based on Service Department Outcomes",
+  "citation": "Part X, Subpart i, Chapter 6, Section I",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177958/M21-1-Part-X-Subpart-i-Chapter-6-Section-I-Integrated-Disability-Evaluation-System-IDES-Processing-Based-on-Service-Department-Outcomes",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:47.562870",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_3_None_16",
+  "content": "/>\nII.ii.3.2.e\n.\nProcedure to Recall Folders From VA RC&V\nAn RO’s appointed key user may electronically recall folders retired to VA RC&V using the table below.\nStep\nAction\n1\nCheck the\nRecords Management Center (RMC) Source Material Tracking System (SMTS) Portal\nto determine if the folder has already been selected for conversion to an electronic record.\nIf the\nRMC SMTS Portal\nhas a record of the claims folder, go to Step 4, or\ndoes not have a record of the claims folder, go to the next step.\n2\nLog in to the VA RC&V\nRecords Retrieval System\n(RRS).\n3\nEnter the following information on the electronic\nVA Form 0245\n,\nVA Records Center & Vault Reference Request\n:\nVeteran’s last name and first name\nlast four digits of the claim number\naccession number (listed on BIRLS FOLDER LOCATION screen), and\nbox number (listed on BIRLS FOLDER LOCATION screen).\n4\nCreate a\nPhysical Claims File Requested\ntracked item.\n5\nUpload a copy of the request into the corresponding eFolder.\nNotes\n:\nFirst-time key users must register and create a new account.  The key user will receive an email from VA RC&V when the account is activated.\nVA is in the process of extracting and digitizing records held by the VA RC&V.  There may be instances in the claims folder has been selected for digitization and is en route to the scanning vendor when a claim is received.  The folder location may still show a VA RC&V location code during this period which is why the\nRMC SMTS Portal\nshould be reviewed first.\nReferences\n:  For more information on\nVA RC&V, see the\nVA RC&V\nwebsite\nVA RC&V RRS and saving copies of electronically-submitted\nVA Form 0245\n, see the\nVA RC&V Electronic RRS Users Guide\n, and\nthe\nRMC SMTS Portal\n, see\nM21-1, Part II, Subpart i, 1.B.5\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 3 - Claims Jurisdiction and Transfer",
+  "citation": "Part II, Subpart ii, Chapter 3, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174868/M21-1-Part-II-Subpart-ii-Chapter-3-Claims-Jurisdiction-and-Transfer",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:42.927480",
+  "tags": [
+    "m21-1"
+  ]
+}

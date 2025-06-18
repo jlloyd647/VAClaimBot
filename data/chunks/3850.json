@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_i_1_B_30",
+  "content": "/>\nVI.i.1.B.3.a\n.\nOverview of RADL\nThe RADL functionality within\nthe VBMS – Awards (\nVBMS-A) provides for the automated generation of decision notices. Rules-based logic inserts into decision notices system-generated language based on the specific decision(s) VA made on a claim.\nThe use of system-generated language allows for the standardization of decision notices, while streamlining the process for the end-user.\nImportant\n:\nPension management centers (PMCs) may use ADLs for burial claims; however, PMCs are\nnot\ncurrently authorized to use RADLs or ADLs to generate decision notices for pension claims.\nThe promulgation of a decision (rating or otherwise) in VBMS-A must occur before claims processors may generate a decision notice using RADL. This includes decisions that – in the past – VA has processed\nwithout\nmaking entries in an award-processing system, including\nconfirmed and continued decisions, and\ndenials on non-original claims.\nWhen RADL fails to generate a decision notice that contains the elements set forth in\nM21-1, Part VI, Subpart i, 1.B.1.b\n(even after the entry of free text),\nuse PCGL to create the notice, and\nfollow the instructions under the heading in the\nNational Work Queue (NWQ) Playbook\ntitled\nNon-ADL Letters\nif the claim associated with the decision notice is subject to routing via NWQ.\nReference\n:  For more information on the requirement to distribute copies of a rating decision\nNarrative\nand\nCodesheet\nwith a decision notice to\nVeterans service organizations, see\nM21-1, Part I, Subpart i, 2.B.1.c\n, and\nattorneys and claims agents, see\nM21-1, Part I, Subpart i, 2.B.1.d\n.",
+  "title": "M21-1, Part VI, Subpart i, Chapter 1, Section B - Decision Notices",
+  "citation": "Part VI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179469/M21-1-Part-VI-Subpart-i-Chapter-1-Section-B-Decision-Notices",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:47:45.480026",
+  "tags": [
+    "m21-1"
+  ]
+}

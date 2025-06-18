@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_D_8",
+  "content": "/>\nIII.ii.2.D.2.a\n.\nChecking the Status of a Request for STRs Transmitted via HAIMS\nService treatment records (STRs) are typically received\nwithin 45 days\nfrom the interface between VBMS and Healthcare Artifacts and Image Management Solution (HAIMS).\nWhen the STR request status message displays a warning or error message, and the guidance in\nM21-1, Part III, Subpart ii, 2.B.1.e\n, directs to this block for follow-up,\nsubmit a request for STRs using the O99 request code in PIES\nself-address PIES request address code 7 under tab for the appropriate branch of service, and\nin the O99 request code free-text box, state,\nThe STRs have not been received from HAIMS within 45 days.  Please contact the Single Point of Entry (SPoE) to locate the STRs and upload the STRs into HAIMS.\nNote\n:  When a regional office (RO) submits a proper PIES request, the VALO within the Centralized Support Division contacts the appropriate branch of service for the STRs.\nReference\n:  For more information on locating, obtaining, and following up on STRs for members of the Reserve or National Guard, see\nM21-1, Part III, Subpart ii, 2.B.1.b\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section D - Control and Follow-Up of Requests for Service Records",
+  "citation": "Part III, Subpart ii, Chapter 2, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014116/M21-1-Part-III-Subpart-ii-Chapter-2-Section-D-Control-and-Follow-Up-of-Requests-for-Service-Records",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:22.481948",
+  "tags": [
+    "m21-1"
+  ]
+}

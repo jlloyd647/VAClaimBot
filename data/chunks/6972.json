@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_B_7",
+  "content": "/>\nX.i.6.B.1.c\n.\nProcessing of Claims Excluded From the BDD Program\nWhen a claim is excluded from the BDD program, the station of origination (SOO) is responsible for processing it, taking actions corresponding with Steps 1 to 6 (as applicable) in the table in\nM21-1, Part X, Subpart i, 6.C.1.b\n.  The claims processor must\ncheck the claim form\ncreate a system record if needed\nestablish the claim in VBMS as provided in\nM21-1, Part X, Subpart i, 6.B.2\neither\nensure that electronic evidence is uploaded to VBMS, or\nsend paper documents for scanning (following up as needed) or scan locally, and\nreturn any original paper documents to the service member.\nThe BDD-excluded claim will be processed under the Fully Developed Claim (FDC) Program, the standard VA claims process, or any other available program unless otherwise noted.\nImportant\n:  If the service member is available to report to examinations for 45 days from the date the claim was received (as shown in\nM21-1, Part X, Subpart i, 6.B.1.a\n) and STRs from the current period of service are available for the examiner to review, request a general medical examination, along with any necessary specialist examinations, within 5 calendar days of the date the documents (to include STRs) are uploaded to VBMS.\nIf examinations are not requested, enter the applicable\nExam Review\ntracked item noted in\nM21-1, Part IV, Subpart i, 1.A.1.e\n.  Input a suspense date of the\nfuture date the service member will be available to report for examinations for a 45-day timeframe,\nor\nday following the future discharge date, if the service member will not be available for examinations until after discharge.\nReferences\n:  For more information on\nend products (EPs) for BDD and BDD-excluded claims, see\nM21-1, Part X, Subpart i, 6.B.2\n, and\nthe FDC Program, see\nM21-1, Part X, Subpart i, 2.A\nand\nB\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section B - Benefits Delivery at Discharge (BDD) and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177950/M21-1-Part-X-Subpart-i-Chapter-6-Section-B-Benefits-Delivery-at-Discharge-BDD-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:10:42.456988",
+  "tags": [
+    "m21-1"
+  ]
+}

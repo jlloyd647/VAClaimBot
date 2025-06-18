@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_ii_6_D_47",
+  "content": "/>\nX.ii.6.D.4.k\n.\nActions to Take After Making a Decision on a Request for Relief\nAfter making an administrative decision on a request for relief from the requirements of the Brady Act, claims processors must\nclear the pending EP 290\nassociate with the beneficiary’s claims folder the decision and all evidence/information gathered in connection with it, and\nfollow the instructions in the table below.\nIf relief is ...\nThen the claims processor must ...\ndenied\nnotify the beneficiary, using the\nNICS Relief Denial\nletter in PCGL.\ngranted\nnotify the beneficiary, using the\nNICS Relief Grant\nletter in PCGL\ne-mail a notice of the grant under the subject heading\nNICS Relief Grant\nto\nVAVBAWAS/CO/NICS\n, and\ninclude the following information about the beneficiary in the body of the e-mail:\nname\nclaim number\nSocial Security number (if different than the claim number)\ndate of birth\naddress\ntelephone number, and\ndate of the decision to grant relief.\nNote\n:  Following receipt of the e-mail, the staff that monitors the NICS mailbox notifies the FBI that VA has granted the beneficiary’s request for relief.  Within approximately two months of receiving notice, the FBI will remove the beneficiary’s name from NICS.",
+  "title": "M21-1, Part X, Subpart ii, Chapter 6, Section D - Processing Awards to Incompetent Beneficiaries",
+  "citation": "Part X, Subpart ii, Chapter 6, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177977/M21-1-Part-X-Subpart-ii-Chapter-6-Section-D-Processing-Awards-to-Incompetent-Beneficiaries",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:14:44.166906",
+  "tags": [
+    "m21-1"
+  ]
+}

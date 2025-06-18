@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_E_31",
+  "content": "/>\nX.i.6.E.3.h\n.\nReturning  Referrals\nA referral can be returned if the\nreferral package is incomplete, or\nparticipant is not available for either the initial meeting (within 5 days of referral) or VA examinations (within 30 days of referral).\nExceptions\n:  Do not return the referral when\nthere is a failure of automated transfer of referral documents to the eFolder due to technical issues.  Instead, handle these cases in accordance with\nM21-1, Part X, Subpart i, 6.E.3.e\n, or\nthe referral package does not contain a completed SHA, Part A.  Instead, contact the service member to inform them that VA examinations will not be requested until a completed SHA, Part A is received.\nFollow the steps in the table below to return a referral.\nStep\nAction\n1\nContact the PEBLO and explain the reason that the referral is not proper.\n2\nAdd a note in VTA and VBMS that provides the reason for rejecting the referral.\n3\nRemove the entry in the PREPARE CLAIM START DATE field.\n4\nDocument the return of the referral package in the fields under the CORRECTIVE ACTION tab in VTA.\n5\nWhen the issue is resolved, ensure the PREPARE CLAIM START DATE reflects the date that a\nproper\nreferral became available to VA.\nImportant\n:\nWhen referrals are returned as improper, the EP 689 must remain pending as long as the case remains enrolled in VTA.  Do not change the DOC.\nIf the service department determines that the participant will be removed from IDES and disenrolls the case from VTA, the MSC will either\ntake the actions outlined in\nM21-1, Part X, Subpart i, 6.I.2.a\nif the participant has submitted an application for VA benefits, or\nclear the EP 689 if the participant has not yet submitted an application for VA benefits.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section E - Integrated Disability Evaluation System (IDES), Referrals, and Initial Processing",
+  "citation": "Part X, Subpart i, Chapter 6, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177953/M21-1-Part-X-Subpart-i-Chapter-6-Section-E-Integrated-Disability-Evaluation-System-IDES-Referrals-and-Initial-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:10.391087",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_E_92",
+  "content": "/>\nIX.iii.1.E.8.a\n.\nPurpose of the Income Reminder Letter\nBatch letter processing is in place to generate\nVA Form 20-8992\n,\nComputer Generated Letter\n- Income Reminder Letter\n(\nIncome Reminder Letter\n) for parents, widows, and Veterans who do not receive Social Security Disability (SSD) income.\nThe\nIncome Reminder Letter\nis released to pensioners and Parents’ Dependency and Indemnity Compensation (DIC) recipients who\nare not receiving SSD, and\nare a certain age:\nVeterans who are 62 or 65 years old\nspouses who are 60, 62 or 65 years old, or\nparents who are 62 or 65 years old.\nThis letter serves as a reminder to pension and Parents' DIC recipients to report income who are of Social Security retirement age but SSD is not reported on their award.\nHowever, if pension or Parents' DIC recipients have a private attorney as their power of attorney, an\nIncome Reminder Letter\nwill not generate.  An 800 Series Work Item is generated under the 882C claim label.  In this instance, the SOO must release an\nIncome Reminder Letter\nmanually.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section E - Pension - Basic Rate Determinations",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177520/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-E-Pension-Basic-Rate-Determinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:17.413088",
+  "tags": [
+    "m21-1"
+  ]
+}

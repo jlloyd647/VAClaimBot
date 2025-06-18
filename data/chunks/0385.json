@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_1_A_16",
+  "content": "/>\nII.ii.1.A.2.d\n.\neFolder Locations\nVBA uses the folder locations listed in the table below when a(n)\npaper claims folder is sent for scanning conversion, or\neFolder is established and no paper claims folder previously existed.\nFolder Location\nDescription\nDCSC1\nConverted and stored at CSRA Newnan, GA.\nDCSC2\nConverted and stored at CSRA Mt Vernon, KY.\nDCSS1\nConverted and stored at SMS Janesville, WI.\nDCSS2\nConverted by Records Management Center and stored at SMS Janesville, WI.\nVBMSRT\nLocation for claim folders that exist only in VBMS.\nINVBMS\nLocation for claims folders that were\nestablished as eFolders, or\nconverted paper claims folders with discrepant folder location data that has been corrected.\nEFILE\nLocation for claim folders that exist only in VBMS.\nINVVA\nLocation for claim folders that exist in VBMS.\nINPLCP\nLocation for claim folders that exist in VBMS.\nNWXFR\nLocation for claim folders that exist in VBMS.\nICMHS\nLocation for claim folders that exist in VBMS.\nSYS – NFE REASON\nLocation for claims folders that were established as eFolders by certain system functions or legacy application commands.\nFollow instructions for resolving claims folder format discrepancies in\nM21-1, Part II, Subpart ii, 1.A.2.g\nwhen this location code is identified as the current claims folder location.\nImportant\n:  Records involving claims folders scanned to the\nSYS – NFE REASON\nfolder location are more likely to be associated with duplicate records.  These claims folders must be carefully reviewed to determine if a duplicate record exists and then appropriate duplicate record remediation procedures must be followed.\nReferences\n:  For more information on\nresolving claims folder format discrepancies using the FOLDER LOCATION, see\nM21-1, Part II, Subpart ii, 1.A.2.g\n, and\nduplicate record remediation, see\nDuplicate Record Consolidation Materials\n, and\nM21-1, Part II, Subpart ii, 1.B.3\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 1, Section A - Establishing New and Converting Old Claims Folders",
+  "citation": "Part II, Subpart ii, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174863/M21-1-Part-II-Subpart-ii-Chapter-1-Section-A-Establishing-New-and-Converting-Old-Claims-Folders",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:51.427145",
+  "tags": [
+    "m21-1"
+  ]
+}

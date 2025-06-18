@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_5_None_32",
+  "content": "/>\nVI.ii.5.3.g\n.\nProcessing an Election of VA Benefits Based on Death During Military Service\nUse the table below when processing an election of VA benefits based on death during military service.\nIf the monthly rate of the VA benefit …\nThen …\nexceeds the monthly rate of FEC\nprocess an award of VA benefits, if otherwise in order\nfor the period of time during which OWCP paid FEC to the claimant, enter the monthly rate of FEC in the OTHER WITHOLDING field on the AWARD ADUSTMENTS screen in VBMS-A, and\ndiscontinue the withholding effective the date OWCP received the election.\nNote\n:  Apply the provisions of\n38 CFR 3.400(j)(1)\nwhen determining the effective date of the award of VA benefits.\nException\n:  If the award is based on an original claim for VA benefits, apply the provisions of\n38 CFR 3.400(c)(1)\nwhen determining the effective date of the award.\ndoes\nnot\nexceed the monthly rate of FEC\ninform the claimant and OWCP (in separate letters) that\nVA will\nnot\ntake action on the election, and\nthe claimant must furnish a signed statement indicating that they prefer the lesser benefit, and\nprovide a full explanation (to both OWCP and the claimant) as to why VA did not accept the election.\nNote\n:  The letter to OWCP requesting that an election be obtained from the claimant\nmust\ncontain sufficient information about the claimant’s entitlement to VA benefits to enable OWCP to inform the claimant fully of the effect of an election.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 5 - Federal Employees’ Compensation (FEC)",
+  "citation": "Part VI, Subpart ii, Chapter 5, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179486/M21-1-Part-VI-Subpart-ii-Chapter-5-Federal-Employees-Compensation-FEC",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:56.178846",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_B_5",
+  "content": "/>\nXI.i.1.B.1.a\n.\nVeteran NOD Processing\nProcess a Veteran's notice of death (NOD) under the FIRST NOTICE OF DEATH (FNOD) command in Share.  The FNOD command clears any pending end products (EPs), except for several fiduciary oversight EPs.\nImportant\n:\nDo not clear EPs processed by the fiduciary hubs (hubs) that remain pending after FNOD.  Hub EPs are typically identified with the word\nFiduciary\nas the first word in the claim label name.  The hub will clear these EPs upon completion of fiduciary oversight actions.\nProcess the NOD and establish any survivors claim, if applicable.\nReferences\n:  For more information on\nprocessing a NOD for a\nVeteran, see\nM21-1, Part XI, Subpart i, 1.A\n, and\nnon-Veteran, see\nM21-1, Part XI, Subpart i, 1.D\n, and\nestablishing claims in\nthe Veterans Benefits Management System (VBMS), see\nM21-1, Part II, Subpart iii, 3.A.1.d\n, and\nShare, see\nM21-1, Part II, Subpart iii, 3.A.1.e\n.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section B  - System Information for Veteran Notice of Death (NOD) and Month of Death (MOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174194/M21-1-Part-XI-Subpart-i-Chapter-1-Section-B-System-Information-for-Veteran-Notice-of-Death-NOD-and-Month-of-Death-MOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:13.632383",
+  "tags": [
+    "m21-1"
+  ]
+}

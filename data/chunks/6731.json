@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_3_B_20",
+  "content": "/>\nX.i.3.B.3.c\n.\nAdjusting the Rate Payable to Other Individuals When the Primary Beneficiary’s Award Is Discontinued\nIf discontinuation of an award to a primary beneficiary that is residing in a listed country affects the rate payable to another person, such as a dependent or an apportionee,\nadjust the award(s) of the other person(s) under end product 130 as if the primary beneficiary were deceased, effective the date in the LAST PAID DATE field on the AWARD INFORMATION tab in Share for the discontinued award, and\nannotate the award(s) with\nPayee residing in a listed\ncountry\n.\nNote\n:  If the award adjustment described in this block is made in VBMS, enter the annotation referenced in the preceding bullet as text in the OTHER PRINT REMARKS field on the PRINT REMARKS screen.",
+  "title": "M21-1, Part X, Subpart i, Chapter 3, Section B - Adjudication Procedures for Foreign Claims",
+  "citation": "Part X, Subpart i, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177943/M21-1-Part-X-Subpart-i-Chapter-3-Section-B-Adjudication-Procedures-for-Foreign-Claims",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:09:28.052336",
+  "tags": [
+    "m21-1"
+  ]
+}

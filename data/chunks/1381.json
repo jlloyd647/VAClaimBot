@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IV_i_2_C_12",
+  "content": "/>\nIV.i.2.C.1.g\n.\nObtaining Examination Reports\nExamination reports are automatically uploaded into VBMS, whether completed by VHA examination facilities or VBA contract examiners.\nIf the report from an examination completed by a VHA facility fails to automatically upload into VBMS, claims processors may retrieve the examination report from CAPRI and upload it to the eFolder.  Reports that are viewable by VBA personnel in CAPRI are considered finalized.\nImportant\n:\nClaims processors must\nnot\nmanually upload reports from the contract examination vendor portals, because these results are not considered finalized.\nContract examination reports located in a vendor portal that have not yet been uploaded into VBMS\nmust go through the contract vendor’s quality and review processes before they can be released to the RO, and\nmay still be modified by an examiner and/or the contract vendor.",
+  "title": "M21-1, Part IV, Subpart i, Chapter 2, Section C - Control of Examinations",
+  "citation": "Part IV, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180502/M21-1-Part-IV-Subpart-i-Chapter-2-Section-C-Control-of-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:55.563613",
+  "tags": [
+    "m21-1"
+  ]
+}

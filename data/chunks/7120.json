@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_F_42",
+  "content": "/>\nX.i.6.F.3.e\n.\nProviding Examination Reports to PEBLOs\nGenerally, completed DBQs will be transferred to PEBLOs via automated processes with no required action by the MSC.  However, MSCs must confirm that the DBQs have successfully transferred by reviewing VBMS notes and ensuring the following message is displayed:\nSHA exam results have been successfully transferred to DoD (HAIMS)\nIf the confirmation message is not shown in VBMS, the MSC must complete the actions in the table below.\nStep\nAction\n1\nContact the PEBLO assigned by e-mail to\nexplain that the DBQs did not transfer to HAIMS via automated process and will be provided via Department of Defense Safe Access File Exchange (DoD SAFE) transfer, and\nrequest the PEBLO submit a trouble ticket to their local HAIMS administrator.\n2\nIf the MSC has a Common Access Card (CAC) and can initiate a DoD SAFE transfer, go to Step 4.\n3\nRequest that the PEBLO initiate the transfer.\nNote\n:  If the PEBLO fails to respond or initiate the DoD SAFE transfer before the end of the next business day, notify\nIDES.VBACO@VA.GOV\n.\n4\nDownload the DBQs from the eFolder.\n5\nSend the DBQs to the PEBLO via DoD SAFE.\nReference\n:  For information about using DoD SAFE to send sensitive records, see\nM21-1, Part X, Subpart i, 6.K.9.a\n.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section F - Integrated Disability Evaluation System (IDES) Development and Examinations",
+  "citation": "Part X, Subpart i, Chapter 6, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177955/M21-1-Part-X-Subpart-i-Chapter-6-Section-F-Integrated-Disability-Evaluation-System-IDES-Development-and-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:19.727255",
+  "tags": [
+    "m21-1"
+  ]
+}

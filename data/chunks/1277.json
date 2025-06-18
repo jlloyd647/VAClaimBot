@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_3_None_21",
+  "content": "/>\nIII.ii.3.2.c\n.\nMedical Releases Not Processed by PMR Contractor\nThere are several circumstances when the PMR contractor will not process the medical release.  The contractor will create a\nReject Notice\nwhich will be transmitted to the claims folder through VBAAP.\nMost commonly, this will occur when\nthe medical release is\nillegible\na duplicate medical release (previously submitted)\nidentifying treatment at a\nVA medical center\nVet Center\nmilitary treatment facility, or\nother Federal facility (such as Indian Health Service)\nmissing PHP information that cannot be obtained by the PMR contractor, or\nfor a non-medical record request\nPHP declines request for PMRs\na request is canceled, or\na death certificate is needed.\nImportant\n:  The RO employees who develop claims are required to\nreview the rejected medical releases to ensure the medical release is truly incomplete and does not provide sufficient information that allows the PMR contractor the ability to process the form.\nReference\n:  For more information on how to handle medical release forms that are\nrejected by the PHP, see\nM21-1, Part III, Subpart ii, 3.2.h\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 3 - Requesting Evidence From Private Health Providers (PHPs)",
+  "citation": "Part III, Subpart ii, Chapter 3, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181428/M21-1-Part-III-Subpart-ii-Chapter-3-Requesting-Evidence-From-Private-Health-Providers-PHPs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:09.092025",
+  "tags": [
+    "m21-1"
+  ]
+}

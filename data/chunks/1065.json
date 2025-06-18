@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_B_12",
+  "content": "/>\nIII.ii.2.B.1.g\n.\nLate-Flowing STR Documentation in HAIMS\nWhen an MTF scans and uploads late-flowing STRs into HAIMS, the MTF is responsible for notifying the Veteran to whom the STRs belong.  The Veteran is then responsible for notifying VA (through submission of the required standard claim form) if he/she wants VA to consider the additional STRs in determining his/her entitlement to VA benefits.\nIf the Veteran does notify VA, VBMS automatically submits a request for the additional STRs to HAIMS when the station of origination establishes a corresponding claim in VBMS.  If the Veteran already has a claim pending in VBMS, the STR documents will flow from HAIMS to VBMS automatically.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section B - Procedures for Obtaining Service Treatment Records (STRs)",
+  "citation": "Part III, Subpart ii, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014119/M21-1-Part-III-Subpart-ii-Chapter-2-Section-B-Procedures-for-Obtaining-Service-Treatment-Records-STRs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:03.900946",
+  "tags": [
+    "m21-1"
+  ]
+}

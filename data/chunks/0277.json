@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_A_35",
+  "content": "/>\nII.i.2.A.5.b\n.\nBasic User Mail-Processing Role in the CM Portal\nThe Basic User\nscreens mail assigned to the user’s work queue\nnotifies the Super User and/or IPC supervisor if mail containing FTI is discovered in the CM portal\nestablishes new claims or legacy appeals, including\nentering contentions\nsending\nSection 5103\nnotices (when applicable)\nassigning claims to the appropriate segmented lane, and\nrouting paper claims folders to scanning vendors for conversion (when necessary)\nmakes necessary system updates for currently pending claims, including\nupdating the claim-level suspense, and\nmanaging evidence/tracked items\nupdates claimant information in all applicable VA systems, and\nuploads the mail into the appropriate electronic claims folder (eFolder) in VBMS or sends it to the appropriate business line.\nNote\n:  Routing of paper claims folders to scanning vendors is not necessary when the claim may be worked without claims-folder review.  For example, claims for additional compensation for dependents eFolder are generally decided without claims-folder review.\nReferences\n:  For more information on\nestablishing claims in VBMS or Share, see\nM21-1, Part II, Subpart iii, 3.A.1\nmanaging evidence, see the\nVBMS Core User Guide\nupdating claimant information in VA systems, see\nM21-1, Part II, Subpart iii, 3.B\naddress changes for incompetent Veterans by a power of attorney (POA) or fiduciary, see\nM27-1, Part I, 3.29\n, and\nthe role of the Basic User in CM, see the\nCentralized Mail Portal User Manual\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section A - Process Overview for Screening Mail",
+  "citation": "Part II, Subpart i, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174858/M21-1-Part-II-Subpart-i-Chapter-2-Section-A-Process-Overview-for-Screening-Mail",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:10.193197",
+  "tags": [
+    "m21-1"
+  ]
+}

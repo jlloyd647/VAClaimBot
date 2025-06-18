@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_C_57",
+  "content": "/>\nIX.iii.1.C.4.i\n.\nDetermining the Waived Amount of Old-Law Pension\nFollow the steps in the table below if the claimant requests advice in determining the amount to be waived.\nStep\nAction\n1\nCalculate net countable income, exclusive of the retirement benefit.\n2\nSubtract this net countable income from the applicable Old-Law Pension income limit.\nResult\n:  This is the amount of retirement to be paid after waiver.\n3\nMultiply the gross amount of the retirement benefit by 0.9\nsubtract the amount obtained in Step 2, and\nround the result to the next higher even $10.\nResult\n:  This is the minimum amount to waive from the annual retirement benefit.\n4\nCalculate the IVAP after the waived amount from Step 3 is determined.\n5\nOnce the amount to be waived has been determined\nenter the total retirement amount in the financial screen, and\nperform a GENERATE AWARD OVERRIDE (GAO) command to enter the calculated IVAP to determine the monthly Old-Law Pension rate.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section C - Section 306 Pension and Old-Law Pension",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177518/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-C-Section-306-Pension-and-Old-Law-Pension",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:06:58.622127",
+  "tags": [
+    "m21-1"
+  ]
+}

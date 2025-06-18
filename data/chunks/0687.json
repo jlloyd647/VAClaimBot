@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_3_B_8",
+  "content": "/>\nII.iii.3.B.1.c\n.\nChanging Contact or Direct Deposit Information When a Fiduciary Is Assigned\nVeterans Service Center (VSC) and pension management center (PMC) employees must notify the hub of jurisdiction when a valid change of contact or direct deposit information is received for a beneficiary that has a fiduciary.\nFiduciary appointment is documented on the\nVETERAN PROFILE screen in VBMS when the FIDUCIARY INFORMATION field populates\nDEPENDENTS screen in VBMS when the FIDNAME and FIDTYPE fields populate (for survivors), and\nFID CATEGORY on the GENERAL INFO tab in Share.\nUse the table below to route the system update to the hub of jurisdiction.\nIf the change of address or direct deposit information is ...\nThen ...\nreceived while a VSC or PMC jurisdiction claim is pending\nadd a\nStage 1 Development\ntracked item to the pending end product (EP)\nset a 1-day suspense\nsend the hub of jurisdiction the requested address or direct deposit change through an encrypted e-mail\ninput a permanent VBMS note stating an e-mail was sent to the hub to update beneficiary contact/payment information, and\nclose the tracked item upon confirmation of the system update taking place.\nnot received while a VSC or PMC jurisdiction claim is pending\nestablish an EP 400\nFID-Correspondence\ninput a permanent VBMS note stating the EP 400 was established to update beneficiary contact/payment information that needs to be completed by the hub, and\nallow the National Work Queue to reassign the EP.\nReferences\n:  For more information on\nadding tracked items, see the\nVBMS Core User Guide\nhub jurisdiction and contact information, see\nM21-1, Part X, Subpart ii, 6.C.1.d\n, and\njurisdiction of claims, see\nM21-1, Part II, Subpart ii, 3.1\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 3, Section B - System Updates at Intake",
+  "citation": "Part II, Subpart iii, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174882/M21-1-Part-II-Subpart-iii-Chapter-3-Section-B-System-Updates-at-Intake",
+  "updated": "Jun 16, 2025",
+  "scraped_at": "2025-06-17T11:14:07.055847",
+  "tags": [
+    "m21-1"
+  ]
+}

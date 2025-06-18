@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_B_23",
+  "content": "/>\nV.iv.1.B.4.c\n.\nDescriptions of Individual Special Provision Codes\nThe table below contains descriptions for each of the seven special provision codes.\nCode\nDescription\n1\nIndicates Medal of Honor pension under\n38 CFR 3.802\n.\n2\nIndicates naval pension allowance under\n38 CFR 3.803\n.\n3\nIndicates extra-schedular entitlement to individual unemployability or pension under\n38 CFR 3.321(b)\n.\nNote\n:  In legacy systems, any extra-schedular evaluation was identified by entry of\nES\nfollowing the specific diagnostic code (DC).\n4\nIndicates an under-schedular evaluation (by reason of deduction of the pre-service level of disability) to a pre-service disability aggravated by service.\nNote\n:  In legacy systems, any under-schedular evaluation was identified by entry of\nUS\nfollowing the specific DC.\n5\nIndicates the Veteran is incarcerated, and pension is being awarded to dependents under\n38 CFR 3.666\n.\n6\nIndicates\ncomputer audit acceptance of any combination of the special provision codes\na total evaluation is continued because it is protected under\n38 CFR 3.951\n, or\nacceptance of a combined evaluation that is not justified by the individual evaluations.\n7\nIndicates receipt of compensation or Dependency Indemnity Compensation (DIC) under\n38 U.S.C. 1151\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section B - Codesheet Section",
+  "citation": "Part V, Subpart iv, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180524/M21-1-Part-V-Subpart-iv-Chapter-1-Section-B-Codesheet-Section",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:46:58.915909",
+  "tags": [
+    "m21-1"
+  ]
+}

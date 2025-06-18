@@ -22,6 +22,5 @@ Thumbs.db     # Windows
 .idea/
 
 # data folder
-data/
 db/
 .env

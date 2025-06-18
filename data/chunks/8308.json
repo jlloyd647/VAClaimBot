@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_B_20",
+  "content": "/>\nXI.i.1.B.2.l\n.\nAssigning New File Numbers During the Veteran NOD Processing\nUse the table below when assigning a new file number during the Veteran NOD process.\nStep\nAction\n1\nSelect the FNOD command on the VBA READY screen, and enter the following minimum required information about the Veteran:\nfile number or SSN\nfirst name, middle name or initial, and last name, and\ndate of birth.\n2\nIf the minimum required information is in the system, but the BIRLS database search fails to locate an existing record, establish a new BIRLS record and proceed with the NOD steps in\nM21-1, Part XI, Subpart i, 1.B.2.a\n.\nImportant\n:  Use extreme care not to add a new BIRLS record until\nall\nsearches for a current BIRLS record to include name variations have been completed.\n3\nIf the minimum required information is\nnot\navailable and the BIRLS database search fails to locate an existing record\nterminate FNOD processing, and\nwrite to the claimant or next of kin for additional identifying information.\nNote\n:  If the NOD is a claim form, advise the claimant to respond within 30 days or the Department of Veterans Affairs (VA) cannot take action.  If you receive a response but the claimant or next of kin cannot provide the Veteran’s service number or SSN, send\nVA Form 21-3101, Request for Information\n, to the appropriate service department.  Do not use the Personnel Information Exchange System to send\nVA Form 21-3101\nsince there is no assigned file number.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section B  - System Information for Veteran Notice of Death (NOD) and Month of Death (MOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174194/M21-1-Part-XI-Subpart-i-Chapter-1-Section-B-System-Information-for-Veteran-Notice-of-Death-NOD-and-Month-of-Death-MOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:13.632383",
+  "tags": [
+    "m21-1"
+  ]
+}

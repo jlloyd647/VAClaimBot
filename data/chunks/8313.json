@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_B_26",
+  "content": "/>\nXI.i.1.B.3.c\n.\nEntitlement to MOD With DIC or Survivors Pension Already Running\nIf the user is granting MOD entitlement to a surviving spouse that already has a DIC or Survivors Pension award running, leave the DIC or Survivors Pension decision under the BASIC ELIGIBILITY tab and add the new MOD decision.  Follow the steps in the table below to process the award in this situation.\nStep\nAction\n1\nSelect\nEligible for Veteran’s Rate Month of Death\nfrom the DECISIONS drop-down menu on the BASIC ELIGIBILITY screen.\n2\nInput the date in the EVENT DATE and AWARD EFFECTIVE DATE field.\nNote\n:  The MOD effective date is the first day of the month of the Veteran’s death.\n3\nInput the amount in the MONTH OF DEATH AMOUNT field.\nNote\n:  This is the amount the Veteran was entitled to at the time of death.\n4\nSelect the benefit from the BENEFIT drop-down menu.\n5\nSelect the SERVICE PERIOD field.\n6\nClick the ACCEPT button.  The screen will display both decisions.\n7\nSelect the OK button.\nNote\n:  This will take the user to the RECORD DECISIONS screen.\n8\nGenerate the award.\nNote\n:  The AWARD INFORMATION tab will now contain the previous award information (that is, Original Award) and “Entitled to MOD Benefit.”",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section B  - System Information for Veteran Notice of Death (NOD) and Month of Death (MOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174194/M21-1-Part-XI-Subpart-i-Chapter-1-Section-B-System-Information-for-Veteran-Notice-of-Death-NOD-and-Month-of-Death-MOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:13.632383",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "V_iv_1_A_39",
+  "content": "/>\nV.iv.1.A.5.d\n.\nVBMS-R ANALYSIS Screen Fields and Text Population\nFollowing the entry of all information in the VBMS-R DDI screens, the following two, relevant text fields appear on the ANALYSIS screen for use in preparing the rating decision narrative:\nGENERATED TEXT, and\nREASONS FOR DECISION.\nImportant\n:  The entry of text in the third and fourth displayed text fields, labeled NOTIFICATION LETTER TEXT and NOTIFICATION LETTER USER TEXT, respectively,\nis not necessary to support successful generation of the RADL, and\nmay be disregarded during the decision-making process.\nThe table below describes the origin and destination of the text that populates the two relevant fields described in this block.\nField Name\nSource of Text\nDestination of Text\nGENERATED TEXT\nsystem-generated text based on user input in the\nDDI screens, and\nEvaluation Builder\ncopied or appended by the user to the REASONS FOR DECISION field, and\ndoes not directly populate the rating decision.\nREASONS FOR DECISION\ninitially generated as a blank field\ntext from the GENERATED TEXT field is copied or appended to this field, and\nuser supplements this text with glossary text and/or free text\nNote\n:  Text field is limited to 32,000 characters.\npopulates the rating decision document that is retained in the claims folder and sent to the claimant.\nReference\n:  For more information on decision notices prepared using the RADL process, see\nM21-1, Part VI, Subpart i, 1.B.3\n.",
+  "title": "M21-1, Part V, Subpart iv, Chapter 1, Section A - Completing the Rating Decision Narrative",
+  "citation": "Part V, Subpart iv, Chapter 1, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000180523/M21-1-Part-V-Subpart-iv-Chapter-1-Section-A-Completing-the-Rating-Decision-Narrative",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:46:49.618474",
+  "tags": [
+    "m21-1"
+  ]
+}

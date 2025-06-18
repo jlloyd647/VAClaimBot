@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_D_8",
+  "content": "/>\nIX.iii.1.D.1.c\n.\nHow to Manually Calculate Parents’ DIC Monthly Payments\nAfter choosing the correct Parents’ DIC rate chart, use the table below to assist in calculating Parents’ DIC monthly payments.\nColumn Headings on Chart\nHow to Use\nIncome Not Over\nIf the IVAP is not greater than the specified amount in the row but is greater than the amount in the prior row, this is the row to use.\nExample\n:  If a parent’s IVAP is $1,350, choose the row\nIncome Not Over $1,400\n.\nMonthly Rate\nThis is the beginning monthly rate to use within the calculation of the payment.  The claimant is entitled to a rate between the beginning rate and the prior row’s rate.\nEach $1 Decrement\nFor each $1 that IVAP is less than the beginning monthly rate, the payment rate is increased by the decimal amount shown.  The given decimal is multiplied by the difference between the\nIncome Not Over\namount and the claimant’s IVAP.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section D - Parents’ Dependency and Indemnity Compensation (DIC) Authorization",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section D",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177519/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-D-Parents-Dependency-and-Indemnity-Compensation-DIC-Authorization",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:07:08.050832",
+  "tags": [
+    "m21-1"
+  ]
+}

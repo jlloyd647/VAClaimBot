@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_4_E_21",
+  "content": "/>\nVI.ii.4.E.1.p\n.\nProcessing AEWs When VA Withheld Benefits From Either the First Day of the Month to a Later Date Within the Same Month or From a Day Within the Month to the End of the Month\nFollow the instructions in the table below to calculate the proper withholding when VA records show VA withheld benefits (to offset the Veteran’s receipt of MRP) from\neither\n(but not both)\nthe first day of the month to a later date within the same month, or\na day within the month to the end of the month.\nStep\nAction\n1\nDivide the amount shown in the\nDue From VA\ncolumn on the AEW for the month in question by the number of days VA withheld benefits.\n2\nMultiply by 30 (days) the result of the calculation described in Step 1.\n3\nSubtract the result of the calculation described in Step 2 from the amount of the withholding (to offset the Veteran’s receipt of MRP) that is shown in VA records for the same month.\nNote\n:  The result of the calculation described in this step represents the new withholding (to offset the Veteran’s receipt of MRP) for the month in question.\nExample\n:\nScenario\n:\nVA records show\na cost-of-living adjustment, effective December 1, 2004, with no withholdings\nan adjustment in the Veteran’s award, effective September 26, 2005, with a withholding of $63.00 (to offset the Veteran’s receipt of MRP), and\na third adjustment, effective October 1, 2005, with a new withholding of $109.00 (to offset the receipt of MRP).\nThe\nDue From VA\ncolumn on an AEW for the Veteran shows\n$93.00\nfor the month of October 2005, and\n$10.00\nfor the month of September 2005.\nCalculations\n:  Following the procedures described in this block, the result of the calculation described in\nStep 1 is\n2\n($10.00 divided by 5 (days))\nStep 2 is\n$60.00\n(30 (days) multiplied by 2), and\nStep 3 is\n$3.00\n($63.00 minus $60.00)",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 4, Section E - Processing Audit Error Worksheets (AEWs)",
+  "citation": "Part VI, Subpart ii, Chapter 4, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179491/M21-1-Part-VI-Subpart-ii-Chapter-4-Section-E-Processing-Audit-Error-Worksheets-AEWs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:49:46.854474",
+  "tags": [
+    "m21-1"
+  ]
+}

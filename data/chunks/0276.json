@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_i_2_A_34",
+  "content": "/>\nII.i.2.A.5.a\n.\nSuper User Mail-Processing Role in the CM Portal\nThe IPC Super User\nreviews and distributes all mail in the CM portal\nnotifies the IPC supervisor if mail containing Federal tax information (FTI) is discovered in the CM portal\nroutes mail to work queues based on a first in, first out (FIFO) received date\nmentors Basic Users\nprovides guidance to Basic Users on processing complex mail, and\nif applicable, processes the more complex cases.\nImportant\n:\nSuper Users should\nnot\nprescreen mail before distributing it to work queues.\nAll users must process mail based on FIFO principles.\nNotes\n:\nIn the CM portal, only Super Users can transfer mail to another RO’s CM queue.\nIPC supervisors provide direction to non-supervisory Super Users on the amount of mail Super Users distribute to basic users.\nReference\n:  For more information on the role of the Super User in CM, see the\nCentralized Mail Portal User Manual\n.",
+  "title": "M21-1, Part II, Subpart i, Chapter 2, Section A - Process Overview for Screening Mail",
+  "citation": "Part II, Subpart i, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174858/M21-1-Part-II-Subpart-i-Chapter-2-Section-A-Process-Overview-for-Screening-Mail",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:10:10.193197",
+  "tags": [
+    "m21-1"
+  ]
+}

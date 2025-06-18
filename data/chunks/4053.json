@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_3_B_9",
+  "content": "/>\nVI.ii.3.B.1.d\n.\nHandling Advance Notice of a Veteran’s Receipt of Drill Pay\nWhen a Veteran notifies VA of receipt of drill pay\nin advance\n, it might be impossible to know what the rate of payment will be on the last day of the fiscal year during which the Veteran receives the drill pay.  In this case,\nwithhold benefits at the current rate for the number of days the Veteran expects to receive drill pay, and\nbegin the withholding effective the date in the LAST PAID DATE field on the AWARD INFORMATION tab in Share.\nNotes\n:\nDo\nnot\nestablish an EP to control for correction of the amount of withholding at the end of the fiscal year.\nIf the rate payable at the end of the fiscal year turns out to be different than the amount VA originally withheld, correct the amount of the withholding\nonly if\nsome other reason exists for making a retroactive adjustment covering the period of the withholding.\nIf the Veteran in this case ultimately receives drill pay for\nfewer\ndays than initially reported, follow the instructions in\nM21-1, Part VI, Subpart ii, 3.B.3\n.\nReference\n:  For an example of the type of award adjustment described in this block, see\nM21-1, Part VI, Subpart ii, 3.C.1.b\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 3, Section B - Withholding and Restoration of Benefits Associated With Receipt of Drill Pay",
+  "citation": "Part VI, Subpart ii, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179813/M21-1-Part-VI-Subpart-ii-Chapter-3-Section-B-Withholding-and-Restoration-of-Benefits-Associated-With-Receipt-of-Drill-Pay",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:50.885225",
+  "tags": [
+    "m21-1"
+  ]
+}

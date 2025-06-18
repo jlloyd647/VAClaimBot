@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_3_B_34",
+  "content": "/>\nII.iii.3.B.5.b\n.\nPopulated Cause of Death Information in VBMS\nWhen a death certificate is received, automated extraction of information may occur during mail intake and populate cause(s) of death into the VETERAN PROFILE screen.\nThe IMMEDIATE CAUSE of death, UNDERLYING CAUSE OF DEATH, and SIGNIFICANT CONDITION(S) CONTRIBUTING TO DEATH fields may be populated by automation and the fields are amendable by the claims processor.\nExample\n:  The image below provides an example of information that may be extracted from a death certificate.\nNote\n:  Automated extraction will only occur from a death certificate and not from any other report of death as listed under\n38 CFR 3.211\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 3, Section B - System Updates at Intake",
+  "citation": "Part II, Subpart iii, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174882/M21-1-Part-II-Subpart-iii-Chapter-3-Section-B-System-Updates-at-Intake",
+  "updated": "Jun 16, 2025",
+  "scraped_at": "2025-06-17T11:14:07.055847",
+  "tags": [
+    "m21-1"
+  ]
+}

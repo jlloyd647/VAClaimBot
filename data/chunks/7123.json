@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_F_45",
+  "content": "/>\nX.i.6.F.3.h\n.\nDRAS Actions if an Examination Report Is Insufficient\nIf a DRAS determines an examination report is insufficient, it must\ncomplete the fields in the EXAM REVIEW section of the RO/RATING ACTIVITY tab in VTA\nhandle the insufficient examination in accordance with\nM21-1, Part IV, Subpart i, 3.C\nupload the examination request, if necessary, in accordance with\nM21-1, Part X, Subpart i, 6.F.2.j\n, and\nadd under the pending EP 689 additional tracked items for each type of examination request submitted outside the VBMS examination management environment.\nNotes\n:\nUpdating VTA to indicate an IDES exam has been found to be insufficient will trigger e-mail notification the MSC and PEBLO assigned.\nTo perform the activities described above, a DRAS employee must have nationwide access to CAPRI.\nIf a DRAS requests correction of an examination report or a new examination from a VHA facility, it must prepare the request according to the instructions in\nM21-1, Part X, Subpart i, 6.F.2.e\nand\nf\n.  The DRAS employee who submits the request must include their contact information\nin addition to\nthe PEBLO’s and MSC’s contact information.\nMTFs may perform tests or studies that a DRAS determines are necessary to correct deficiencies the DRAS identified in an examination report.\nExamination providers will correct any insufficient examination reports or complete any new examinations a DRAS requires within 14 days of notification of an insufficient examination report.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section F - Integrated Disability Evaluation System (IDES) Development and Examinations",
+  "citation": "Part X, Subpart i, Chapter 6, Section F",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177955/M21-1-Part-X-Subpart-i-Chapter-6-Section-F-Integrated-Disability-Evaluation-System-IDES-Development-and-Examinations",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:19.727255",
+  "tags": [
+    "m21-1"
+  ]
+}

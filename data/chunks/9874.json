@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_2_B_7",
+  "content": "/>\nXIV.2.B.1.b\n.\nAutomatic Establishment of EP 130 and 600\nAn end product (EP) 130 or 600 is automatically established when a Social Security number (SSN) and date of death are generated for cases identified by the DMF match with one of the contentions described in the table below.\nContention\nMatch Results\nSSA Death C&P Matched,\nor\nDep Death C&P Match\nThe corporate record and the SSA DMF match on\nSSN\ndate of birth (DOB), and\nname.\nSSA Death DOB Mismatch\n,\nor\nDep Death DOB Mismatch\nCorporate record DOB does not match the SSA DOB.\nSSA Death Name Mismatched\n, or\nDep Name Mismatch\nCorporate record last name or first initial of the first name do not match the SSA last name and/or first initial of the first name.\nSSA Death Both Mismatch\n, or\nDep Death Both Mismatch\nCorporate record\nlast name or first initial of the first name do not match the SSA last name and/or first initial of the first name, and\nDOB does not match the SSA DOB.",
+  "title": "M21-1, Part XIV, Chapter 2, Section B - Social Security Death Master File (DMF) Match",
+  "citation": "Part XIV, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173303/M21-1-Part-XIV-Chapter-2-Section-B-Social-Security-Death-Master-File-DMF-Match",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:31:44.867796",
+  "tags": [
+    "m21-1"
+  ]
+}

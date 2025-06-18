@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_4_A_8",
+  "content": "/>\nII.iii.4.A.1.c\n.\nIdentifying VDC Claims\nVDC claims are identifiable through a special issue flash and claim labels. Upon establishment of a claim, the VDC process affixes the special issue flash\nVONAPP Direct Connect\nunder the first listed contention.  Additionally, VDC uses claim labels beginning with the term\neBenefits\n.\nThe table below lists the VDC claim labels with corresponding end product (EP) series.\nClaim Labels\nEP Series\neBenefits 526EZ Initial Live Comp <8 Issues\n110\neBenefits 526EZ Initial Live Comp 8+ Issues\n010\neBenefits 526EZ Supplemental\n020\neBenefits Dependency Adjustment\n130\neBenefits Dependency Adjustment Reject\n130\neBenefits School Attendance\n130\neBenefits School Attendance Reject\n130\neBenefits 526EZ-Pre Discharge <8 Issues\n110\neBenefits 526EZ-Pre Discharge 8 + Issues\n010\neBenefits 526EZ-Pre Discharge\n020\nNotes\n:\nAll claims received subsequent to the VDC submission by the claimant will create an incremental EP 400 series with an\neBenefits\nclaim label.\nIf a claimant submits his/her/their claim by means other than VDC and subsequently submits a claim through VDC, this will also create an incremental EP 400.\nReferences\n:  For more information on\nEP control for pre-discharge claims, see\nM21-1, Part X, Subpart i, 6.B.2\n, and\nincremental EPs on VDC claims, see\nM21-1, Part II, Subpart iii, 4.A.2.d\nand\ne\n.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 4, Section A - The Veterans Online Application (VONAPP) Direct Connect (VDC) Program and Department of Veterans Affairs (VA) Claims Submission Service Websites",
+  "citation": "Part II, Subpart iii, Chapter 4, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174883/M21-1-Part-II-Subpart-iii-Chapter-4-Section-A-The-Veterans-Online-Application-VONAPP-Direct-Connect-VDC-Program-and-Department-of-Veterans-Affairs-VA-Claims-Submission-Service-Websites",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:14:17.341260",
+  "tags": [
+    "m21-1"
+  ]
+}

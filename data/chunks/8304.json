@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XI_i_1_B_16",
+  "content": "/>\nXI.i.1.B.2.h\n.\nDenying Entitlement to MOD\nFollow the steps in the table below if it is determined that an MOD batch payment was released erroneously to the incorrect spouse and the MOD payment should be denied.\nStep\nAction\n1\nEstablish a claim under an EP 290.\n2\nSelect the RECORD DECISIONS button.\n3\nSelect the BASIC ELIGIBILITY tab.\nNote\n:  This screen will show ELIGIBLE FOR VETERAN’S RATE MONTH OF DEATH in the DECISION box.\n4\nSelect the EDIT button.\nNote\n:  This will enable the BASIC ELIGIBILITY DECISION fields for editing.\n5\nChose one of the two MOD denial reasons:\nDENIED-VETERAN’S MOD RATE PREVIOUSLY PAID, or\nDENIED – NOT ENTITLED TO MOD.\nThis will replace the prior decision automatically inserted by the batch MOD process.\n6\nGenerate the award.\nNote\n:  If a user adds a second decision denying MOD entitlement under the BASIC ELIGIBILITY tab, this action will\nnot\ncreate an overpayment on the surviving spouse’s account.",
+  "title": "M21-1, Part XI, Subpart i, Chapter 1, Section B  - System Information for Veteran Notice of Death (NOD) and Month of Death (MOD) Processing",
+  "citation": "Part XI, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174194/M21-1-Part-XI-Subpart-i-Chapter-1-Section-B-System-Information-for-Veteran-Notice-of-Death-NOD-and-Month-of-Death-MOD-Processing",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:19:13.632383",
+  "tags": [
+    "m21-1"
+  ]
+}

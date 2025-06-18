@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_2_E_20",
+  "content": "/>\nIII.ii.2.E.3.b\n.\nAddress Codes for Medical and Dental Records\nThe table below lists the service history, service circumstances, and the corresponding source to use to obtain medical and dental records for officers and enlisted personnel.\nImportant\n:  The electronic claims folder (\neFolder\n) source denotes records previously held by the Record Management Center (RMC) that have been scanned and uploaded to the corresponding Veteran’s eFolder, as discussed in\nM21-1, Part III, Subpart ii, 2.A.5.d\n.\nService History\nService Circumstances\nPIES Address Code or Other Source\nDischarged before 10/16/1992 with no Reserve obligation, not retired or deceased\nALL\n13\nSeparated before 10/16/1992 with Reserve obligation, or retired\nNot assigned to a unit, with Reserve obligation ending between 10/16/1992 and 12/31/2013\neFolder\nNot assigned to a unit, with Reserve obligation ending on or after 01/01/2014\nDepartment of Defense’s Healthcare Artifacts and Image Management Solution (HAIMS)\nAssigned to a unit\n7\nRetired\n13\nSeparated on or after 10/16/1992\nAll\neFolder\nOn active duty or on TDRL\nOfficers and Enlisted\nHAIMS\nArmy Air Corps or Army Air Force\nNo\nAir Force service after 09/25/1947\n13\nAir Force service after 09/25/1947\nSee\nM21-1, Part III, Subpart ii, 2.E.5\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 2, Section E - Service Record Address Codes and Addresses for Military Records Centers and Other Agencies",
+  "citation": "Part III, Subpart ii, Chapter 2, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000014121/M21-1-Part-III-Subpart-ii-Chapter-2-Section-E-Service-Record-Address-Codes-and-Addresses-for-Military-Records-Centers-and-Other-Agencies",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:37:31.832567",
+  "tags": [
+    "m21-1"
+  ]
+}

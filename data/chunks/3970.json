@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VI_ii_2_None_28",
+  "content": "/>\nVI.ii.2.2.c\n.\nConditions Under Which Claims Processors May Not Use AskDFAS to Obtain Confirmation of the Amount of a Veteran’s Separation Benefit\nBecause certain records that DFAS requires to confirm the amount of a Veteran’s separation benefit are no longer accessible, there are conditions under which the submission of a request for said confirmation through AskDFAS will always result in a negative reply.  The table below describes those conditions and the actions claims processors must take instead of attempting to obtain confirmation through AskDFAS.\nIf the Veteran received separation benefits based on discharge from ...\nThen ...\nthe Air Force Reserve in October 1999\nuse (for award-processing purposes) the amount of separation benefits recorded on the Veteran’s\nDD Form 214\n, or\napplication for VA benefits.\nNotes\n:\nIf differing amounts were recorded on the referenced documents, use the amount recorded on the Veteran's application for VA benefits.\nIf no amount was recorded on either of the referenced documents, request assistance from Compensation Service's Military Pay Staff by sending an e-mail to\nVAVBAWAS/CO/MILPAY\n.\nactive duty in the Air Force prior to 1972\nactive duty in the Army prior to 1972\nthe Navy prior to 1977\nthe Marine Corps Reserve prior to 1983, or\nactive duty in the Marine Corps prior to 1969\nrequest confirmation of the amount of the Veteran’s separation benefit by submitting\nStandard Form 180, Request Pertaining to Military Records\n, to the National Personnel Records Center (NPRC).\nNotes\n:\nThe form contains instructions for its completion and submission.\nSend follow-up requests to NPRC every 90 days until confirmation is obtained or NPRC provides a negative response.\nReference\n:  For more information on submitting\nStandard Form 180\nto NPRC, see the\nNational Archives website\n.",
+  "title": "M21-1, Part VI, Subpart ii, Chapter 2 - Recoupment of Separation Benefits",
+  "citation": "Part VI, Subpart ii, Chapter 2, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000179478/M21-1-Part-VI-Subpart-ii-Chapter-2-Recoupment-of-Separation-Benefits",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:48:32.145895",
+  "tags": [
+    "m21-1"
+  ]
+}

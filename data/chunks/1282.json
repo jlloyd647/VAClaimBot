@@ -1,0 +1,12 @@
+{
+  "chunk_id": "III_ii_3_None_26",
+  "content": "/>\nIII.ii.3.2.h\n.\nRequests Rejected by the PMR Contractor\nWhen the PMR contractor is unable to remediate a PMR reject, VBAAP will generate a reject notice and upload it to the eFolder for further action by VA employees.\nUpon discovery of a reject notice, claims processors should\nattempt to obtain the missing information from the claims folder or VBMS\ncomplete a new\nVA Form 21-4142a\n, and\nupload the new\nVA Form 21-4142a\nand a corresponding valid\nVA Form 21-4142\ntogether as a package via QuickSubmit for processing by the PMR contractor.\nException\n:  If the PMR reject cannot be resolved with information available in the claims folder or VA systems, the RO processing the claim will follow the instructions in\nM21-1, Part III, Subpart ii, 3.1.d\n, to resolve the issue.\nImportant\n:\nIf the claimant fails to respond to VA’s request\nwithin 30 days\n, route the claim to the rating activity when all other development is complete.\nVA processes claims in an electronic environment, which requires a\nVA Form 21-4142\nwith an original signature to be scanned into the claims folder through CMP.  A\nVA Form 21-4142\nwith an original signature\nwill not\nbe returned to the ROs.\nReferences\n:  For more information on\ncommon reasons\nReject Notices\nare created by the PMR contractor, see\nM21-1, Part III, Subpart ii, 3.2.c\n, and\nthe requirement to submit both\nVA Forms 21-4142\nand\n21-4142a\ntogether to initiate the automated PMR process, see\nM21-1, Part III, Subpart ii, 3.2.f\n.",
+  "title": "M21-1, Part III, Subpart ii, Chapter 3 - Requesting Evidence From Private Health Providers (PHPs)",
+  "citation": "Part III, Subpart ii, Chapter 3, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181428/M21-1-Part-III-Subpart-ii-Chapter-3-Requesting-Evidence-From-Private-Health-Providers-PHPs",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:38:09.092025",
+  "tags": [
+    "m21-1"
+  ]
+}

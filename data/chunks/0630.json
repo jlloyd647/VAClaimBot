@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_2_E_19",
+  "content": "/>\nII.iii.2.E.3.a\n.\nReceipt of a Prescribed Form in Response to Incorrect Claims Guidance After the EP 930 Has Been Cleared\nWhen an RO receives a prescribed form in response to the incorrectly established claims guidance provided by\nM21-1, Part II, Subpart iii, 2.E.2\nand the corrective EP 930 has already been cleared, the claims processor must determine if the EP established upon receipt of the form is still required.\nIf the prescribed form lists …\nThen ...\nonly the issues or conditions previously submitted on correspondence other than a prescribed form\nedit the DOCUMENT PROPERTIES and change the SUBJECT of the claim document to\nresponse to Incorrect Claim Establishment\nleave a permanent note in VBMS indicating that the\nform was received in response to incorrect claim establishment guidance and no adjudication action is required\n, and\ncancel the tracking EP.\nnew issues or contentions\nedit the DOCUMENT PROPERTIES and change the SUBJECT of the claim document to\nresponse to Incorrect Claim Establishment with new issues\nleave a permanent note in VBMS indicating that the\nform was received in response to incorrect claim establishment guidance but contains new issues or conditions for adjudication\n, and\nprocess the new issues or conditions under the appropriate EP.\nImportant\n:  Claims processors may be able to identify these forms by the phrase\nRO Request – Signature Needed\nwritten at the top of each page, however, not every form will state this.",
+  "title": "M21-1, Part II, Subpart iii, Chapter 2, Section E - Incorrectly Established Claims",
+  "citation": "Part II, Subpart iii, Chapter 2, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174877/M21-1-Part-II-Subpart-iii-Chapter-2-Section-E-Incorrectly-Established-Claims",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:13:05.460072",
+  "tags": [
+    "m21-1"
+  ]
+}

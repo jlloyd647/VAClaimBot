@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_2_B_8",
+  "content": "/>\nXIV.2.B.1.c\n.\nAutomated Actions Based on Death Match\nFor beneficiary death matches with the contentions\nSSA Death C&P Matched, SSA Death DOB Mismatch\n, and\nSSA Death Name Mismatch\n, the system will\nestablish an EP 130\nSocial Security Match\nor EP 130\nPMC-Social Security Match\nsuspend the beneficiary’s award and any recurring payment (to include apportionments), and\ngenerate and mail a letter providing notice to the beneficiary’s address that the award is suspended.\nFor dependent death matches with the contentions,\nDep Death C&P Matched, Dep Death DOB Mismatch\n, and\nDep Name Mismatch\n, the system will\nestablish an EP 600 PMC –\nDependency Death Match\nor EP 600\nDependency Death Match\n, and\ngenerate and mail a due process letter to the beneficiary proposing the removal of the identified deceased dependent.\nException\n:  No additional automation outside of EP establishment occurs on death matches involving the\nSSA Death Both Mismatch\nor\nDep Death Both Mismatch\ncontentions.  Claims processors must manually complete the applicable actions described in\nM21-1, Part XIV, 2.B.2\n.",
+  "title": "M21-1, Part XIV, Chapter 2, Section B - Social Security Death Master File (DMF) Match",
+  "citation": "Part XIV, Chapter 2, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173303/M21-1-Part-XIV-Chapter-2-Section-B-Social-Security-Death-Master-File-DMF-Match",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:31:44.867796",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_i_6_H_33",
+  "content": "/>\nX.i.6.H.4.c\n.\nSystem Updates After Processing a Request for Reconsideration\nAfter processing a request for reconsideration, the DRAS must\nupdate VTA by entering the date the DRAS sent a new proposed rating decision or a memorandum to an IDES participant’s PEB in the VA RECONSIDERATION RATING END DATE field on the RO/RATING ACTIVITY tab\ncomplete a one-time clear of\nEP 310 (with the\nIDES Reconsideration Request\n–\nActive Duty\nclaim label) for active duty cases, or\nEP 020 (with the\nIDES Reconsideration Request\n–\nNot on AD\nclaim label) for non-active-duty cases, and\nupdate VBMS by changing\nthe claim level suspense so it expires 30 days in the future, and\nthe suspense reason to\nAwaiting Guidance from:  PEB\n.\nImportant\n:\nIf a DRAS prepares a\nnew\nproposed rating decision, it must also update VTA by selecting one of the following entries from the drop-down box in the REVISED VA RATING RESULTS field on the RO/RATING ACTIVITY tab:\nNo change\nIncreased evaluation, less than 30%\n, or\nIncreased evaluation, 30% or more\n.\nNote\n:  If an evaluation is increased as a result of a reconsideration request, the percentage in the REVISED VA RATING RESULTS field should indicate the combined percentage for all referred conditions after the change.",
+  "title": "M21-1, Part X, Subpart i, Chapter 6, Section H - Integrated Disability Evaluation System (IDES) Proposed Ratings",
+  "citation": "Part X, Subpart i, Chapter 6, Section H",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177957/M21-1-Part-X-Subpart-i-Chapter-6-Section-H-Integrated-Disability-Evaluation-System-IDES-Proposed-Ratings",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:11:38.251103",
+  "tags": [
+    "m21-1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XII_i_1_B_17",
+  "content": "/>\nXII.i.1.B.1.l\n.\nAutomatic Generation of 38 U.S.C. 1318 DIC Payments Through the FNOD Process\nThe table below describes the\n38 U.S.C. 1318\nDIC payment automated under the FNOD process.\nStage\nDescription\n1\nVA processes a Veteran's notice of death using the FNOD command.\n2\nDuring the process, VA systems search for a spouse established on the Veteran's award.\n3\nIf there is a surviving spouse established on the award for at least one year, and evidence that\n38 U.S.C. 1318\nDIC benefits exist, VA sends an automated letter informing the surviving spouse\nthat DIC payments under\n38 U.S.C. 1318\nwill be received\nof possible entitlement to additional survivor and burial benefits, and\nof the requirement to submit an application if applying for these additional benefits.\n4\nVA systems wait six days to ensure there is no notification that\n38 U.S.C. 1318\nDIC should\nnot\nbe paid.\n5\nThe table below describes the automated actions after six days.\nIf, after the six-day waiting period, information is ...\nThen...\nnot received to indicate the\n38 U.S.C. 1318\nDIC payment should not be paid\nthe surviving spouse receives a check for the\n38 U.S.C. 1318\nDIC payment.\nreceived that indicates the surviving spouse is not entitled to this payment\nthe automatic payment terminates.\nNote\n:  If the surviving spouse believes the payment was erroneously terminated, an application for benefits must be submitted.",
+  "title": "M21-1, Part XII, Subpart i, Chapter 1, Section B - Common Dependency and Indemnity Compensation (DIC) Processing Issues",
+  "citation": "Part XII, Subpart i, Chapter 1, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175203/M21-1-Part-XII-Subpart-i-Chapter-1-Section-B-Common-Dependency-and-Indemnity-Compensation-DIC-Processing-Issues",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:22:10.203778",
+  "tags": [
+    "m21-1"
+  ]
+}

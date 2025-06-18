@@ -1,0 +1,12 @@
+{
+  "chunk_id": "IX_iii_1_K_53",
+  "content": "/>\nIX.iii.1.K.5.m\n.\nApportioned Cases When IVAP Does Not Exceed MAPR\nIf there is an apportionment and IVAP (without consideration of the hardship exclusion) does not exceed the “dependency this award” MAPR\nadjust the entry in the HARDSHIP EXCLUSION field on the FINANCIAL screen so that the system can calculate the correct child hardship deduction.  Adjust the entry by\nsubtracting the “dependency this award” MAPR from the “total dependency” MAPR\nsubtracting the difference from total allowed family expenses, and\nentering the result in the HARDSHIP EXCLUSION field on the FINANCIAL screen, and\nsend a locally generated letter.",
+  "title": "M21-1, Part IX, Subpart iii, Chapter 1, Section K - Other Deductible Expenses",
+  "citation": "Part IX, Subpart iii, Chapter 1, Section K",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177526/M21-1-Part-IX-Subpart-iii-Chapter-1-Section-K-Other-Deductible-Expenses",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:08:13.655409",
+  "tags": [
+    "m21-1"
+  ]
+}

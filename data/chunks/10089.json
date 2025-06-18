@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XIV_none_5_None_7",
+  "content": "/>\nXIV.5.1.b\n.\nAutomated Processing of the Activation Match\nThe Hines ITC establishes an EP 600 -\nReturn to Active Duty\non matched cases.  Corresponding notices of proposed adverse action are issued on all EPs 600 established by the batch process.  In these cases, the system will\nset the suspense date for 65 days\ncreate contentions titled\nReturn to Active Duty\nfollowed by the begin date and termination date (if known), and\nReturn to Active Duty Proposal\n, and\ncreate a tracked item titled\nReturn to Active Duty Proposal.\nException\n:  For cases in which there was more than one non-sequential active duty/activation period, an EP 290 -\nReturn to Active Duty\nis\nautomatically established for all remaining active duty/activation periods.  These cases are not eligible for automated processing.  Claims processors must follow the steps outlined in\nM21-1, Part X, Subpart v, 2.B.1.b\nto manually process the notice that the Veteran has returned to active duty.",
+  "title": "M21-1, Part XIV, Chapter 5 - Matching Programs That Identify Veterans That Returned to Active Duty",
+  "citation": "Part XIV, Chapter 5, Section None",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000173309/M21-1-Part-XIV-Chapter-5-Matching-Programs-That-Identify-Veterans-That-Returned-to-Active-Duty",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:32:50.108504",
+  "tags": [
+    "m21-1"
+  ]
+}

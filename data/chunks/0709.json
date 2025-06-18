@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_iii_3_B_35",
+  "content": "/>\nII.iii.3.B.5.c\n.\nViewing and Updating Cause of Death Information in VBMS\nThe Veteran’s cause of death information is found in the VETERAN PROFILE screen and is displayed in the field PRIMARY AND CONTRIBUTORY CAUSE(S) OF DEATH.\nSome fields may be pre-populated with cause of death information, but the claims processor can amend each field and/or add new cause of death information.\nThe authorization activity must ensure this field accurately reflects the Veteran’s cause(s) of death as they are listed on the most recent version of the report of death utilized under\n38 CFR 3.211\n.\nThis is required on all claims for survivor benefits\n.\nNotes\n:\nThe authorization activity should not rely on the information within these fields when making award determinations.  The report of death document must be reviewed to ensure the most accurate information is being utilized.\nDo not abbreviate the cause of death unless abbreviating is necessary to fit the cause of death within the VBMS field.\nThe authorization activity must review all evidence of record which may require requesting the scanning of a paper claims folder held by a Federal records center.  If after the review is complete, it is determined that cause of death information is not of record, add a VBMS note stating,\nAll evidence of record was reviewed and there is no documentation of the Veteran’s cause of death\n.\nImportant\n:  If an amended death certificate is received after an initial death certificate is of record, automation will\nnot\noverwrite what is populated in each field.\nReference\n:  For more information on transferring a paper claims folder, see\nM21-1, Part II, Subpart ii, 3.2",
+  "title": "M21-1, Part II, Subpart iii, Chapter 3, Section B - System Updates at Intake",
+  "citation": "Part II, Subpart iii, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174882/M21-1-Part-II-Subpart-iii-Chapter-3-Section-B-System-Updates-at-Intake",
+  "updated": "Jun 16, 2025",
+  "scraped_at": "2025-06-17T11:14:07.055847",
+  "tags": [
+    "m21-1"
+  ]
+}

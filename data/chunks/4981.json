@@ -1,0 +1,12 @@
+{
+  "chunk_id": "VII_i_3_B_41",
+  "content": "/>\nVII.i.3.B.5.d\n.\nActions to Take When Denying a Claim or Reducing Benefits Because a Veteran Gave Up Their Child for Adoption\nWhen removing a child from an award of disability compensation, or denying a claim for additional compensation for a child, because the Veteran entitled to disability compensation gave up the child for adoption, select the following on the DEPENDENCY screen in VBMS-A:\nNot an Award Dependent\nfrom the drop-down box in the AWARD STATUS field, and\nRelationship Not Established\nfrom the drop-down box in the DECISION field.\nAfter taking the actions described in the above paragraph, follow the instructions in the table below for establishing a future diary.\nStep\nAction\n1\nSelect\nDiary Reason 30 – Local Regional Office Special Use Only\nfrom the drop-down box in the DIARY REASON field.\n2\nEnter a date in the DIARY DUE DATE field that is one year (in the future) from the current date.\n3\nEnter\nADOPTED OUT CHILD\nin the REMARKS field.\n4\nPress the ACCEPT button.\nNote\n:  VA does not currently have the ability to electronically retain data on children that a Veteran gives up for adoption. The retention of such data is necessary, because it allows VA to identify children that are eligible for VA benefits in their own right. System upgrades that will allow VA to retain the referenced data are forthcoming. However, until they are in place, authorization activity must track the denials and reductions referenced in this block through the establishment of future diaries.\nReference\n:  For more information on taking the actions described in this block,\nsee the\nVBMS Awards User Guide\n.",
+  "title": "M21-1, Part VII, Subpart i, Chapter 3, Section B - Biological Children, Adopted Children, and Stepchildren",
+  "citation": "Part VII, Subpart i, Chapter 3, Section B",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176624/M21-1-Part-VII-Subpart-i-Chapter-3-Section-B-Biological-Children-Adopted-Children-and-Stepchildren",
+  "updated": "",
+  "scraped_at": "2025-06-16T22:53:21.273466",
+  "tags": [
+    "m21-1"
+  ]
+}

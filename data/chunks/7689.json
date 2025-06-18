@@ -1,0 +1,12 @@
+{
+  "chunk_id": "X_ii_6_E_38",
+  "content": "/>\nX.ii.6.E.4.c\n.\nAuthorizing an Award Under 38 U.S.C. 5502\nFollow the steps in the table below to authorize an award under\n38 U.S.C. 5502\nand notify the custodian.\nStep\nAction\n1\nGenerate an award showing the name of the parent as the custodian.\nWithhold all retroactive benefits payable to the custodian on behalf of the child.\n2\nAnnotate\nCustodian recognized under 38 U.S.C. 5502\nin the OTHER PRINT REMARKS field on the PRINT REMARKS screen in VBMS.\n3\nWas a\nVA Form 21-592\ncompleted and submitted to a hub?\nIf\nyes\n,\nprepare a memorandum or letter that alerts the hub of the award action, and\nupload a copy of the document into the corresponding eFolder.\nIf\nno\n,\ncomplete a\nVA Form 21-592\n, and\nupload a copy of the form into the corresponding eFolder.\n4\nAuthorize the award.\n5\nSend the decision notice to the custodian.\n6\nWas an EP 590, Expedited Initial Appointment Field Examination automatically established by the system?\nIf\nyes\n, proceed to the next step.\nIf\nno\n, establish an EP 290,\nFID-Fiduciary Adjustment\nand proceed to the next step.\nImportant\n:  Claims processors may\nnot\ncancel or change the EP 290 or change the EP’s claim label.  If a claims processor establishes the EP in error, ask the hub of jurisdiction (by e-mail) to cancel it.\nNote\n:  Use of the\nFID-Fiduciary Adjustment\nclaim label allows NWQ to route the EP 290 to the hub of jurisdiction when the EP 590 was not automatically established.\n7\nAssociate a permanent note in VBMS that indicates the hub must update the CHANGE OF FIDUCIARY screen in Share before releasing retroactive funds to the beneficiary via award action.\nNote\n:\nThe hub is responsible for\nappointing a fiduciary\nauthorizing the award for EP 290,\nFID-Fiduciary Adjustment,\nand\nreleasing all withheld retroactive benefits.\nReference\n:  For more information on hub jurisdiction, see\nM21-1, Part X, Subpart ii, 6.C.1.d\n.",
+  "title": "M21-1, Part X, Subpart ii, Chapter 6, Section E - Authorizing Awards for Fiduciary Cases",
+  "citation": "Part X, Subpart ii, Chapter 6, Section E",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000177978/M21-1-Part-X-Subpart-ii-Chapter-6-Section-E-Authorizing-Awards-for-Fiduciary-Cases",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:14:53.568203",
+  "tags": [
+    "m21-1"
+  ]
+}

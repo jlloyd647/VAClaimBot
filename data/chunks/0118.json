@@ -1,0 +1,12 @@
+{
+  "chunk_id": "I_i_2_C_29",
+  "content": "/>\nI.i.2.C.3.b\n.\nAdding POA Codes to the Corporate Database\nData Architecture is responsible for adding new POA codes to the corporate database.  This occurs when a POA is not located in corporate but is found in the\nOGC Accreditation Search\n.\nFollow the procedures in the table below to have the POA added to the corporate database.\nStage\nDescription\n1\nReport an issue in the\nYourIT Service Portal\nand include the\nPOA code\nname of agent, attorney, or representative\nrole, such as\nclaims agent\nan attorney, or\nVSO representative\nPOA’s contact information (address, phone, fax, and e-mail), and\na request to route the ticket to the VBA CORP DA team for processing.\n2\nUpdate the claimant’s profile to include POA code 099 as a placeholder until the corporate database is updated.\nNote\n:  YourIT will open a trouble ticket to track the issue.  When the POA code has been added to the corporate database, YourIT will notify the employee who submitted the request and close the ticket.\n3\nUpon receiving the notification of a newly established POA code, the AAFC will\ncontact the individual attorney or agent to identify any other Veterans or claimants they represent\nverify the validity of the other client's\nVA Form 21-22a\n, and\nupdate all records as necessary.\nNote\n:  Historically, these individuals may have been assigned a 099 (no exclusive contact) or 066 (exclusive contact) code and will not automatically be displayed for the specific attorney in Share, VBMS, or SEP.",
+  "title": "M21-1, Part I, Subpart i, Chapter 2, Section C - System Updates for Power of Attorney (POA) Appointments",
+  "citation": "Part I, Subpart i, Chapter 2, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000181477/M21-1-Part-I-Subpart-i-Chapter-2-Section-C-System-Updates-for-Power-of-Attorney-POA-Appointments",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:08:48.011362",
+  "tags": [
+    "m21-1"
+  ]
+}

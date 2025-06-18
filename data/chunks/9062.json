@@ -1,0 +1,12 @@
+{
+  "chunk_id": "XII_i_4_C_35",
+  "content": "/>\nXII.i.4.C.4.c\n.\nAction to Take to Complete an SBP Offset\nThe table below describes the stages for completing an SBP offset.\nStage\nWho Is Responsible\nDescription\n1\nClaims Processor\nGenerates DIC award, and\nforwards to authorizer for review.\n2\nAuthorizer\nReviews award for accuracy, and\nforwards the RPC payment information to the finance activity to request a deduction (offset) to recoup the SBP overpayment.\nNote\n:  When sending a memorandum to the finance activity for the creation of an offset, the amount must not exceed the retroactive amount.\n3\nFinance\nCreates a deduction (offset) in the amount requested, and\nnotifies authorizer of completion.\n4\nAuthorizer\nReviews corporate to verify that the deduction (offset) was created, and\nauthorizes the award.\nNotes\n:\nIf the pay grade is required to generate the DIC award, but not known, the claims processor should check DRAS-APS and\nVIS\nto see if the pay grade is available.  If the pay grade is unavailable, contact the Retired Pay Coordinator.  The Retired Pay Coordinator\nmust\ntelephone DFAS to obtain the correct pay grade.\nDo not complete SBP offsets to DIC payments after the retroactive payment has already been paid.  When an SBP overpayment is discovered after the DIC award is finalized, DFAS should establish arrangements with the annuitant to reduce future SBP payments to recoup the overpayment.\nReference\n:  For more information on SBP overpayment, see the\nM24-2, Chapter 7\n.",
+  "title": "M21-1, Part XII, Subpart i, Chapter 4, Section C - Survivor Benefit Plan (SBP) Offsets",
+  "citation": "Part XII, Subpart i, Chapter 4, Section C",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000175221/M21-1-Part-XII-Subpart-i-Chapter-4-Section-C-Survivor-Benefit-Plan-SBP-Offsets",
+  "updated": "",
+  "scraped_at": "2025-06-16T23:24:01.271746",
+  "tags": [
+    "m21-1"
+  ]
+}

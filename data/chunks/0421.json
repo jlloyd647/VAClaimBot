@@ -1,0 +1,12 @@
+{
+  "chunk_id": "II_ii_2_A_25",
+  "content": "/>\nII.ii.2.A.2.i\n.\nSplitting Documents in VBMS\nPDF editors, or users with Adobe Pro who have been given permission by RO management to make the required changes, must follow the steps in the table below when splitting a document into multiple eFolder documents.\nStep\nAction\n1\nLocate and open the document marked\nAdobe Review Needed\n.\n2\nMove the cursor over the PDF menu bar located at the bottom of the screen.\n3\nSelect the Adobe symbol on the right-hand side of the menu.\n4\nA menu bar will appear at the top of the document. Click the SAVE icon on the left.\n5\nSave the PDF to the desktop with a file name that includes the document type and date.\nImportant\n:  Delete this file upon completion of the document split.\n6\nOpen the document and select the PAGE THUMBNAILS icon in the upper left-hand corner of the Navigation Panel and adjust the view to the user preference.\n7\nSelect the page(s) that need(s) to be removed or split out of the document.\nNote\n:  Select a sequential range of pages by\nclicking the first page\nholding down the Shift key (on the keyboard), and\nselecting the last page.\n8\nRight click and choose EXTRACT PAGES.\n9\nCheck the option box for DELETE PAGES AFTER EXTRACTING.\n10\nConfirm deletion of the page(s) that is(are) marked for extraction.\n11\nThe page(s) that was(were) chosen for extraction will appear in a new PDF file.\n12\nSave the new document to the desktop according to the document type and date.\n13\nSave the original document to the desktop that no longer includes the extracted documents.\n14\nUpload the corrected documents to the eFolder.\n15\nDelete the documents saved to the desktop as part of the document split.\nReference\n:  For more information on the responsibilities of PDF editors, see\nM21-1, Part II, Subpart ii, 2.A.2.g\n.",
+  "title": "M21-1, Part II, Subpart ii, Chapter 2, Section A - Folder Maintenance",
+  "citation": "Part II, Subpart ii, Chapter 2, Section A",
+  "source_url": "https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174866/M21-1-Part-II-Subpart-ii-Chapter-2-Section-A-Folder-Maintenance",
+  "updated": "May 27, 2025",
+  "scraped_at": "2025-06-17T11:11:12.014435",
+  "tags": [
+    "m21-1"
+  ]
+}
