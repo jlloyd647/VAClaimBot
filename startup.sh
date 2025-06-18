@@ -8,8 +8,8 @@ echo "🟡 Waiting for Ollama to start..."
 sleep 3
 
 # Pull the model (this only pulls if it's not already cached)
-echo "⬇️ Pulling mistral model..."
-ollama pull mistral
+echo "⬇️ Pulling tinyllama model..."
+ollama pull tinyllama
 
 # Start Streamlit
 echo "🚀 Starting Streamlit app..."
