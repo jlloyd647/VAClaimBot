@@ -1,0 +1,27 @@
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/  # If it's a folder. See below if it's a file.
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment and secret files
+.env       # If it's a file with secrets like API keys
+*.env      # Catch any other similar env files
+*.env.local
+
+# OS-specific files
+.DS_Store     # macOS
+Thumbs.db     # Windows
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# data folder
+data/
+db/
+.env
