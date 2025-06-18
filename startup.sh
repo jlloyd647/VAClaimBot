@@ -8,9 +8,9 @@ ollama serve &
 echo "⏳ Waiting for Ollama to fully start..."
 sleep 3
 
-# Pull the mistral model (will skip if already cached)
-echo "⬇️ Pulling mistral model..."
-ollama pull mistral
+# Pull the llama3 model (will skip if already cached)
+echo "⬇️ Pulling llama3 model..."
+ollama pull llama3
 
 # Start the Streamlit app
 echo "🚀 Launching Streamlit..."

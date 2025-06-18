@@ -11,7 +11,7 @@ print(f"✅ Loaded {len(documents)} chunks.")
 
 # --- Ask the LLM with selected context ---
 def ask_llm(query, relevant_docs):
-    llm = Ollama(model="mistral")
+    llm = Ollama(model="llama3")
 
     print(f"\n📦 Sending {len(relevant_docs)} chunks to the model.")
     for doc in relevant_docs[:10]:  # Log the first few
