@@ -47,7 +47,7 @@ def find_relevant_chunks_by_keywords(documents, keywords, allowed_parts=None):
     return matches
 
 # --- LLM-based keyword extractor ---
-def extract_keywords_with_ollama(prompt_text, model_name="llama3"):
+def extract_keywords_with_ollama(prompt_text, model_name="mistral"):
     llm = Ollama(model=model_name)
 
     instruction = (
